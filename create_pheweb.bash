@@ -27,6 +27,13 @@ pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
 cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/clean_data" ~/my-new-pheweb
 cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/pheno-list.csv" ~/my-new-pheweb
 
+# OR clean data with the data_preprocessing.ipynb
+
+# Copy data to the correct directory
+rm -rf ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/clean_data
+cp -r ~/deploying-pheweb/data_preprocessing/clean_data ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
+cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.csv ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
+
 # Pheweb data processing
 cd my-new-pheweb
 pheweb phenolist import-phenolist pheno-list.csv
@@ -84,11 +91,11 @@ docker run -p 55000:55000 pheweb_docker2
 # If this step fails, then Pheweb is not running correctly.
 
 # Check that the website is available at the WSL2 windows address at http://172.22.138.62:55000/
-# If this step fails, then 
-
 # Check that the website is available at the Windows address http://192.168.0.104:55000/
+# If either of these step fails, then it's the firewall or Windows needs to forward traffic to WSL2.
 
 # Check that the website is available at the public IP address of your router http://67.250.183.56:55000/
+# If this step fails, then port forwarding is not set up correctly.
 
 
 

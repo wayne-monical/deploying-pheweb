@@ -1,0 +1,1760 @@
+assoc_files,category,phenocode
+clean_data/abdominal_aortic_aneurysm.csv,circulatory system,Abdominal aortic aneurysm
+clean_data/abdominal_hernia.csv,digestive,Abdominal hernia
+clean_data/abdominal_pain.csv,symptoms,Abdominal pain
+clean_data/abnormal_arterial_blood_gases.csv,symptoms,Abnormal arterial blood gases
+clean_data/abnormal_chest_sounds.csv,respiratory,Abnormal chest sounds
+clean_data/abnormal_coagulation_profile.csv,hematopoietic,Abnormal coagulation profile
+clean_data/abnormal_electrocardiogram_ecg_ekg.csv,circulatory system,Abnormal electrocardiogram [ECG] [EKG]
+clean_data/abnormal_findings_examination_of_lungs.csv,respiratory,Abnormal findings examination of lungs
+clean_data/abnormal_findings_on_examination_of_urine.csv,genitourinary,Abnormal findings on examination of urine
+clean_data/abnormal_findings_on_mammogram_or_breast_exam.csv,genitourinary,Abnormal findings on mammogram or breast exam
+clean_data/abnormal_findings_on_study_of_brain_andor_nervous_system.csv,neurological,Abnormal findings on study of brain and/or nervous system
+clean_data/abnormal_function_study_of_cardiovascular_system.csv,circulatory system,Abnormal function study of cardiovascular system
+clean_data/abnormal_glucose.csv,endocrine/metabolic,Abnormal glucose
+clean_data/abnormal_granulation_tissue.csv,dermatologic,Abnormal granulation tissue
+clean_data/abnormal_heart_sounds.csv,circulatory system,Abnormal heart sounds
+clean_data/abnormal_involuntary_movements.csv,neurological,Abnormal involuntary movements
+clean_data/abnormal_mammogram.csv,genitourinary,Abnormal mammogram
+clean_data/abnormal_movement.csv,neurological,Abnormal movement
+clean_data/abnormal_papanicolaou_smear_of_cervix_and_cervical_hpv.csv,genitourinary,Abnormal Papanicolaou smear of cervix and cervical HPV
+clean_data/abnormal_posture.csv,symptoms,Abnormal posture
+clean_data/abnormal_reflex.csv,neurological,Abnormal reflex
+clean_data/abnormal_results_of_function_study_of_kidney.csv,genitourinary,Abnormal results of function study of kidney
+clean_data/abnormal_results_of_function_study_of_liver.csv,digestive,Abnormal results of function study of liver
+clean_data/abnormal_results_of_function_study_of_pulmonary_system.csv,respiratory,Abnormal results of function study of pulmonary system
+clean_data/abnormal_results_of_function_study_of_thyroid.csv,endocrine/metabolic,Abnormal results of function study of thyroid
+clean_data/abnormal_results_of_other_function_studies_bladder_pancreas_placenta_spleen_etc.csv,symptoms,"Abnormal results of other function studies (bladder, pancreas, placenta, spleen, etc)"
+clean_data/abnormal_serum_enzyme_levels.csv,digestive,Abnormal serum enzyme levels
+clean_data/abnormal_spermatozoa.csv,genitourinary,Abnormal spermatozoa
+clean_data/abnormal_sputum.csv,respiratory,Abnormal sputum
+clean_data/abnormal_tumor_markers.csv,symptoms,Abnormal tumor markers
+clean_data/abnormal_weight_gain.csv,endocrine/metabolic,Abnormal weight gain
+clean_data/abnormality_in_fetal_heart_rate_or_rhythm.csv,pregnancy complications,Abnormality in fetal heart rate or rhythm
+clean_data/abnormality_of_gait.csv,neurological,Abnormality of gait
+clean_data/abnormality_of_organs_and_soft_tissues_of_pelvis_complicating_pregnancy_childbirth_or_the_puerperium.csv,pregnancy complications,"Abnormality of organs and soft tissues of pelvis complicating pregnancy, childbirth, or the puerperium"
+clean_data/abnormality_of_red_blood_cells.csv,hematopoietic,Abnormality of red blood cells
+clean_data/abnormality_of_secretion_of_glucagon_or_gastrin.csv,endocrine/metabolic,Abnormality of secretion of glucagon or gastrin
+clean_data/abscess_or_ulceration_of_vulva.csv,genitourinary,Abscess or ulceration of vulva
+clean_data/absent_or_infrequent_menstruation.csv,genitourinary,Absent or infrequent menstruation
+clean_data/acid_base_balance_disorder.csv,endocrine/metabolic,Acid-base balance disorder
+clean_data/acidosis.csv,endocrine/metabolic,Acidosis
+clean_data/acne.csv,dermatologic,Acne
+clean_data/acquired_absence_of_breast.csv,neoplasms,Acquired absence of breast
+clean_data/acquired_acanthosis_nigricans.csv,dermatologic,Acquired acanthosis nigricans
+clean_data/acquired_coagulation_factor_deficiency.csv,hematopoietic,Acquired coagulation factor deficiency
+clean_data/acquired_deformities_of_finger.csv,musculoskeletal,Acquired deformities of finger
+clean_data/acquired_deformities_of_forearm.csv,musculoskeletal,Acquired deformities of forearm
+clean_data/acquired_deformities_of_hip.csv,musculoskeletal,Acquired deformities of hip
+clean_data/acquired_deformities_of_knee.csv,musculoskeletal,Acquired deformities of knee
+clean_data/acquired_foot_deformities.csv,musculoskeletal,Acquired foot deformities
+clean_data/acquired_hemolytic_anemias.csv,hematopoietic,Acquired hemolytic anemias
+clean_data/acquired_hypothyroidism.csv,endocrine/metabolic,Acquired hypothyroidism
+clean_data/acquired_spondylolisthesis.csv,musculoskeletal,Acquired spondylolisthesis
+clean_data/acquired_toe_deformities.csv,musculoskeletal,Acquired toe deformities
+clean_data/acromegaly_and_gigantism.csv,endocrine/metabolic,Acromegaly and gigantism
+clean_data/actinic_keratosis.csv,dermatologic,Actinic keratosis
+clean_data/acute_and_chronic_tonsillitis.csv,respiratory,Acute and chronic tonsillitis
+clean_data/acute_and_subacute_necrosis_of_liver.csv,digestive,Acute and subacute necrosis of liver
+clean_data/acute_appendicitis.csv,digestive,Acute appendicitis
+clean_data/acute_bronchitis_and_bronchiolitis.csv,respiratory,Acute bronchitis and bronchiolitis
+clean_data/acute_bronchospasm.csv,respiratory,Acute bronchospasm
+clean_data/acute_but_ill_defined_cerebrovascular_disease.csv,circulatory system,"Acute, but ill-defined cerebrovascular disease"
+clean_data/acute_cystitis.csv,genitourinary,Acute cystitis
+clean_data/acute_dermatitis_due_to_solar_radiation.csv,dermatologic,Acute dermatitis due to solar radiation
+clean_data/acute_febrile_mucocutaneous_lymph_node_syndrome_kawasaki_disease.csv,circulatory system,Acute febrile mucocutaneous lymph node syndrome (Kawasaki disease)
+clean_data/acute_gastritis.csv,digestive,Acute gastritis
+clean_data/acute_glomerulonephritis_nos.csv,genitourinary,"Acute glomerulonephritis, NOS"
+clean_data/acute_inflammatory_pelvic_disease.csv,genitourinary,Acute inflammatory pelvic disease
+clean_data/acute_laryngitis_and_tracheitis.csv,respiratory,Acute laryngitis and tracheitis
+clean_data/acute_osteomyelitis.csv,musculoskeletal,Acute osteomyelitis
+clean_data/acute_pain.csv,neurological,Acute pain
+clean_data/acute_pancreatitis.csv,digestive,Acute pancreatitis
+clean_data/acute_pericarditis.csv,circulatory system,Acute pericarditis
+clean_data/acute_periodontitis.csv,digestive,Acute periodontitis
+clean_data/acute_pharyngitis.csv,respiratory,Acute pharyngitis
+clean_data/acute_posthemorrhagic_anemia.csv,hematopoietic,Acute posthemorrhagic anemia
+clean_data/acute_prostatitis.csv,genitourinary,Acute prostatitis
+clean_data/acute_pulmonary_heart_disease.csv,circulatory system,Acute pulmonary heart disease
+clean_data/acute_reaction_to_stress.csv,mental disorders,Acute reaction to stress
+clean_data/acute_renal_failure.csv,genitourinary,Acute renal failure
+clean_data/acute_rheumatic_heart_disease.csv,circulatory system,Acute rheumatic heart disease
+clean_data/acute_sinusitis.csv,respiratory,Acute sinusitis
+clean_data/acute_tonsillitis.csv,respiratory,Acute tonsillitis
+clean_data/acute_transverse_myelitis.csv,neurological,Acute (transverse) myelitis
+clean_data/acute_upper_respiratory_infections_of_multiple_or_unspecified_sites.csv,respiratory,Acute upper respiratory infections of multiple or unspecified sites
+clean_data/acute_vascular_insufficiency_of_intestine.csv,circulatory system,Acute vascular insufficiency of intestine
+clean_data/adjustment_reaction.csv,mental disorders,Adjustment reaction
+clean_data/adrenal_cortical_steroids_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Adrenal cortical steroids causing adverse effects in therapeutic use
+clean_data/adrenal_hyperfunction.csv,endocrine/metabolic,Adrenal hyperfunction
+clean_data/adrenal_hypofunction.csv,endocrine/metabolic,Adrenal hypofunction
+clean_data/adrenogenital_disorders.csv,endocrine/metabolic,Adrenogenital disorders
+clean_data/adult_failure_to_thrive.csv,endocrine/metabolic,Adult failure to thrive
+clean_data/adverse_drug_events_and_drug_allergies.csv,injuries & poisonings,Adverse drug events and drug allergies
+clean_data/adverse_effects_of_antibacterials_not_penicillins.csv,injuries & poisonings,Adverse effects of antibacterials (not penicillins)
+clean_data/adverse_effects_of_sedatives_or_other_central_nervous_system_depressants_and_anesthetics.csv,injuries & poisonings,Adverse effects of sedatives or other central nervous system depressants and anesthetics
+clean_data/adverse_reaction_to_serum_or_vaccine.csv,injuries & poisonings,Adverse reaction to serum or vaccine
+clean_data/agorophobia_social_phobia_and_panic_disorder.csv,mental disorders,"Agorophobia, social phobia, and panic disorder"
+clean_data/alcohol_related_disorders.csv,mental disorders,Alcohol-related disorders
+clean_data/alcoholic_liver_damage.csv,mental disorders,Alcoholic liver damage
+clean_data/alcoholism.csv,mental disorders,Alcoholism
+clean_data/alkalosis.csv,endocrine/metabolic,Alkalosis
+clean_data/allergic_conjunctivitis.csv,sense organs,Allergic conjunctivitis
+clean_data/allergic_purpura.csv,hematopoietic,Allergic purpura
+clean_data/allergic_reaction_to_food.csv,injuries & poisonings,Allergic reaction to food
+clean_data/allergic_rhinitis.csv,respiratory,Allergic rhinitis
+clean_data/allergies_other.csv,injuries & poisonings,"Allergies, other"
+clean_data/allergyadverse_effect_of_penicillin.csv,injuries & poisonings,Allergy/adverse effect of penicillin
+clean_data/alopecia.csv,dermatologic,Alopecia
+clean_data/alopecia_areata.csv,dermatologic,Alopecia Areata
+clean_data/alpha_1_antitrypsin_deficiency.csv,endocrine/metabolic,Alpha-1-antitrypsin deficiency
+clean_data/alteration_of_consciousness.csv,mental disorders,Alteration of consciousness
+clean_data/altered_mental_status.csv,mental disorders,Altered mental status
+clean_data/althetes_foot.csv,infectious diseases,Althete's foot
+clean_data/alzheimers_disease.csv,mental disorders,Alzheimer's disease
+clean_data/amblyopia.csv,sense organs,Amblyopia
+clean_data/amyloidosis.csv,endocrine/metabolic,Amyloidosis
+clean_data/amyotrophic_lateral_sclerosis.csv,neurological,Amyotrophic Lateral Sclerosis
+clean_data/anal_and_rectal_conditions.csv,digestive,Anal and rectal conditions
+clean_data/anal_and_rectal_polyp.csv,digestive,Anal and rectal polyp
+clean_data/anaphylactic_shock_nos.csv,injuries & poisonings,Anaphylactic shock NOS
+clean_data/anatomical_abnormatilies_of_kidney_and_ureters.csv,genitourinary,Anatomical abnormatilies of kidney and ureters
+clean_data/anemia_during_pregnancy.csv,pregnancy complications,Anemia during pregnancy
+clean_data/anemia_in_chronic_kidney_disease.csv,hematopoietic,Anemia in chronic kidney disease
+clean_data/anemia_in_neoplastic_disease.csv,hematopoietic,Anemia in neoplastic disease
+clean_data/anemia_of_chronic_disease.csv,hematopoietic,Anemia of chronic disease
+clean_data/aneurysm_and_dissection_of_heart.csv,circulatory system,Aneurysm and dissection of heart
+clean_data/aneurysm_of_artery_of_lower_extremity.csv,circulatory system,Aneurysm of artery of lower extremity
+clean_data/aneurysm_of_iliac_artery.csv,circulatory system,Aneurysm of iliac artery
+clean_data/aneurysm_of_other_specified_artery.csv,circulatory system,Aneurysm of other specified artery
+clean_data/angina_pectoris.csv,circulatory system,Angina pectoris
+clean_data/angiodysplasia_of_intestine_without_mention_of_hemorrhage.csv,digestive,Angiodysplasia of intestine (without mention of hemorrhage)
+clean_data/anisometropia.csv,sense organs,Anisometropia
+clean_data/ankylosing_spondylitis.csv,musculoskeletal,Ankylosing spondylitis
+clean_data/ankylosis_of_joint.csv,musculoskeletal,Ankylosis of joint
+clean_data/anomalies_of_endocrine_glands_congenital.csv,congenital anomalies,"Anomalies of endocrine glands, congenital"
+clean_data/anomalies_of_jaw_sizesymmetry.csv,digestive,Anomalies of jaw size/symmetry
+clean_data/anomalies_of_pupillary_function.csv,sense organs,Anomalies of pupillary function
+clean_data/anomalies_of_respiratory_system_congenital.csv,congenital anomalies,"Anomalies of respiratory system, congenital"
+clean_data/anomalies_of_tooth_positionmalocclusion.csv,digestive,Anomalies of tooth position/malocclusion
+clean_data/anomalous_atrioventricular_excitation.csv,circulatory system,Anomalous atrioventricular excitation
+clean_data/anorexia.csv,endocrine/metabolic,Anorexia
+clean_data/anorexia_nervosa.csv,mental disorders,Anorexia nervosa
+clean_data/antepartum_hemorrhage_abruptio_placentae_and_placenta_previa.csv,pregnancy complications,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+clean_data/anterior_horn_cell_disease.csv,neurological,Anterior horn cell disease
+clean_data/anterior_pituitary_disorders.csv,endocrine/metabolic,Anterior pituitary disorders
+clean_data/anticoagulants_causing_adverse_effects.csv,injuries & poisonings,Anticoagulants causing adverse effects
+clean_data/antihypertensive_agents_causing_adverse_effects.csv,injuries & poisonings,Antihypertensive agents causing adverse effects
+clean_data/antilipemic_and_antiarteriosclerotic_drugs_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Antilipemic and antiarteriosclerotic drugs causing adverse effects in therapeutic use
+clean_data/antineoplastic_and_immunosuppressive_drugs_causing_adverse_effects.csv,injuries & poisonings,Antineoplastic and immunosuppressive drugs causing adverse effects
+clean_data/antirheumatics_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Antirheumatics causing adverse effects in therapeutic use
+clean_data/antisocialborderline_personality_disorder.csv,mental disorders,Antisocial/borderline personality disorder
+clean_data/anxiety_disorder.csv,mental disorders,Anxiety disorder
+clean_data/anxiety_disorders.csv,mental disorders,Anxiety disorders
+clean_data/aortic_aneurysm.csv,circulatory system,Aortic aneurysm
+clean_data/aortic_ectasia.csv,circulatory system,Aortic ectasia
+clean_data/aortic_valve_disease.csv,circulatory system,Aortic valve disease
+clean_data/aphakia_and_other_disorders_of_lens.csv,sense organs,Aphakia and other disorders of lens
+clean_data/aphasia.csv,mental disorders,Aphasia
+clean_data/aphasiaspeech_disturbance.csv,mental disorders,Aphasia/speech disturbance
+clean_data/aplastic_anemia.csv,hematopoietic,Aplastic anemia
+clean_data/apnea.csv,respiratory,Apnea
+clean_data/appendiceal_conditions.csv,digestive,Appendiceal conditions
+clean_data/appendicitis.csv,digestive,Appendicitis
+clean_data/arrhythmia_cardiac_nos.csv,circulatory system,Arrhythmia (cardiac) NOS
+clean_data/arterial_dissection.csv,circulatory system,Arterial dissection
+clean_data/arterial_embolism_and_thrombosis.csv,circulatory system,Arterial embolism and thrombosis
+clean_data/arterial_embolism_and_thrombosis_of_lower_extremity_artery.csv,circulatory system,Arterial embolism and thrombosis of lower extremity artery
+clean_data/arteritis_nos.csv,circulatory system,Arteritis NOS
+clean_data/arthralgiaankylosis_of_temporomandibular_joint.csv,digestive,Arthralgia/ankylosis of temporomandibular joint
+clean_data/arthropathy_associated_with_infections.csv,musculoskeletal,Arthropathy associated with infections
+clean_data/arthropathy_associated_with_neurological_disorders.csv,musculoskeletal,Arthropathy associated with neurological disorders
+clean_data/arthropathy_associated_with_other_disorders_classified_elsewhere.csv,musculoskeletal,Arthropathy associated with other disorders classified elsewhere
+clean_data/arthropathy_nos.csv,musculoskeletal,Arthropathy NOS
+clean_data/arthropod_borne_diseases.csv,infectious diseases,Arthropod-borne diseases
+clean_data/articular_cartilage_disorder.csv,musculoskeletal,Articular cartilage disorder
+clean_data/ascites_non_malignant.csv,digestive,Ascites (non malignant)
+clean_data/ascvd.csv,circulatory system,ASCVD
+clean_data/aseptic_necrosis_of_bone.csv,musculoskeletal,Aseptic necrosis of bone
+clean_data/aspergillosis.csv,infectious diseases,Aspergillosis
+clean_data/asthma.csv,respiratory,Asthma
+clean_data/asthma_with_exacerbation.csv,respiratory,Asthma with exacerbation
+clean_data/astigmatism.csv,sense organs,Astigmatism
+clean_data/atheroembolism.csv,circulatory system,Atheroembolism
+clean_data/atherosclerosis.csv,circulatory system,Atherosclerosis
+clean_data/atherosclerosis_of_aorta.csv,circulatory system,Atherosclerosis of aorta
+clean_data/atherosclerosis_of_native_arteries_of_the_extremities_with_intermittent_claudication.csv,circulatory system,Atherosclerosis of native arteries of the extremities with intermittent claudication
+clean_data/atherosclerosis_of_native_arteries_of_the_extremities_with_ulceration_or_gangrene.csv,circulatory system,Atherosclerosis of native arteries of the extremities with ulceration or gangrene
+clean_data/atherosclerosis_of_renal_artery.csv,circulatory system,Atherosclerosis of renal artery
+clean_data/atherosclerosis_of_the_extremities.csv,circulatory system,Atherosclerosis of the extremities
+clean_data/atopiccontact_dermatitis_due_to_other_or_unspecified.csv,dermatologic,Atopic/contact dermatitis due to other or unspecified
+clean_data/atrial_fibrillation.csv,circulatory system,Atrial fibrillation
+clean_data/atrial_fibrillation_and_flutter.csv,circulatory system,Atrial fibrillation and flutter
+clean_data/atrial_flutter.csv,circulatory system,Atrial flutter
+clean_data/atrioventricular_av_block.csv,circulatory system,Atrioventricular [AV] block
+clean_data/atrioventricular_block_complete.csv,circulatory system,"Atrioventricular block, complete"
+clean_data/atrophic_gastritis.csv,digestive,Atrophic gastritis
+clean_data/atrophy_of_edentulous_alveolar_ridge.csv,digestive,Atrophy of edentulous alveolar ridge
+clean_data/atrophy_of_female_genital_tract.csv,genitourinary,Atrophy of female genital tract
+clean_data/attention_deficit_hyperactivity_disorder.csv,mental disorders,Attention deficit hyperactivity disorder
+clean_data/autism.csv,mental disorders,Autism
+clean_data/autoimmune_disease_nec.csv,endocrine/metabolic,Autoimmune disease NEC
+clean_data/autoimmune_hemolytic_anemias.csv,hematopoietic,Autoimmune hemolytic anemias
+clean_data/azoospermia_and_oligospermia.csv,genitourinary,Azoospermia and oligospermia
+clean_data/back_pain.csv,symptoms,Back pain
+clean_data/bacterial_pneumonia.csv,respiratory,Bacterial pneumonia
+clean_data/balanoposthitis.csv,genitourinary,Balanoposthitis
+clean_data/bariatric_surgery.csv,digestive,Bariatric surgery
+clean_data/barretts_esophagus.csv,digestive,Barrett's esophagus
+clean_data/basal_cell_carcinoma.csv,neoplasms,Basal cell carcinoma
+clean_data/behcets_syndrome.csv,musculoskeletal,Behcet's syndrome
+clean_data/benign_mammary_dysplasias.csv,genitourinary,Benign mammary dysplasias
+clean_data/benign_neoplasm_of_adrenal_gland.csv,neoplasms,Benign neoplasm of adrenal gland
+clean_data/benign_neoplasm_of_bone_and_articular_cartilage.csv,neoplasms,Benign neoplasm of bone and articular cartilage
+clean_data/benign_neoplasm_of_brain_and_other_parts_of_nervous_system.csv,neoplasms,Benign neoplasm of brain and other parts of nervous system
+clean_data/benign_neoplasm_of_brain_cranial_nerves_meninges.csv,neoplasms,"Benign neoplasm of brain, cranial nerves, meninges"
+clean_data/benign_neoplasm_of_breast.csv,genitourinary,Benign neoplasm of breast
+clean_data/benign_neoplasm_of_colon.csv,neoplasms,Benign neoplasm of colon
+clean_data/benign_neoplasm_of_eye.csv,neoplasms,Benign neoplasm of eye
+clean_data/benign_neoplasm_of_eye_uveal.csv,neoplasms,"Benign neoplasm of eye, uveal"
+clean_data/benign_neoplasm_of_kidney_and_other_urinary_organs.csv,neoplasms,Benign neoplasm of kidney and other urinary organs
+clean_data/benign_neoplasm_of_lip_oral_cavity_and_pharynx.csv,neoplasms,"Benign neoplasm of lip, oral cavity, and pharynx"
+clean_data/benign_neoplasm_of_lymph_nodes.csv,neoplasms,Benign neoplasm of lymph nodes
+clean_data/benign_neoplasm_of_male_genital_organs.csv,neoplasms,Benign neoplasm of male genital organs
+clean_data/benign_neoplasm_of_other_endocrine_glands_and_related_structures.csv,neoplasms,Benign neoplasm of other endocrine glands and related structures
+clean_data/benign_neoplasm_of_other_female_genital_organs.csv,neoplasms,Benign neoplasm of other female genital organs
+clean_data/benign_neoplasm_of_other_parts_of_digestive_system.csv,neoplasms,Benign neoplasm of other parts of digestive system
+clean_data/benign_neoplasm_of_ovary.csv,neoplasms,Benign neoplasm of ovary
+clean_data/benign_neoplasm_of_parathyroid_gland.csv,neoplasms,Benign neoplasm of parathyroid gland
+clean_data/benign_neoplasm_of_pituitary_gland_and_craniopharyngeal_duct_pouch.csv,neoplasms,Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)
+clean_data/benign_neoplasm_of_respiratory_and_intrathoracic_organs.csv,neoplasms,Benign neoplasm of respiratory and intrathoracic organs
+clean_data/benign_neoplasm_of_skin.csv,neoplasms,Benign neoplasm of skin
+clean_data/benign_neoplasm_of_spinal_cord_meninges.csv,neoplasms,"Benign neoplasm of spinal cord, meninges"
+clean_data/benign_neoplasm_of_thyroid_glands.csv,neoplasms,Benign neoplasm of thyroid glands
+clean_data/benign_neoplasm_of_unspecified_sites.csv,neoplasms,Benign neoplasm of unspecified sites
+clean_data/benign_neoplasm_of_uterus.csv,neoplasms,Benign neoplasm of uterus
+clean_data/bipolar.csv,mental disorders,Bipolar
+clean_data/bladder_neck_obstruction.csv,genitourinary,Bladder neck obstruction
+clean_data/blastomycotic_infection.csv,infectious diseases,Blastomycotic infection
+clean_data/blindness_and_low_vision.csv,sense organs,Blindness and low vision
+clean_data/blister.csv,injuries & poisonings,Blister
+clean_data/blood_in_stool.csv,digestive,Blood in stool
+clean_data/blood_vessel_replaced.csv,circulatory system,Blood vessel replaced
+clean_data/bone_cancer.csv,neoplasms,Bone cancer
+clean_data/bone_marrow_or_stem_cell_transplant.csv,neoplasms,Bone marrow or stem cell transplant
+clean_data/breast_cancer.csv,neoplasms,Breast cancer
+clean_data/breast_cancer_female.csv,neoplasms,Breast cancer [female]
+clean_data/breast_cancer_male.csv,neoplasms,Breast cancer [male]
+clean_data/breast_conditions_congenital_or_relating_to_hormones.csv,genitourinary,"Breast conditions, congenital or relating to hormones"
+clean_data/breast_disorder_nos.csv,genitourinary,Breast disorder NOS
+clean_data/bronchiectasis.csv,respiratory,Bronchiectasis
+clean_data/bronchitis.csv,respiratory,Bronchitis
+clean_data/bronchopneumonia_and_lung_abscess.csv,respiratory,Bronchopneumonia and lung abscess
+clean_data/bullous_dermatoses.csv,dermatologic,Bullous dermatoses
+clean_data/bundle_branch_block.csv,circulatory system,Bundle branch block
+clean_data/bursitis.csv,musculoskeletal,Bursitis
+clean_data/bursitis_disorders.csv,musculoskeletal,Bursitis disorders
+clean_data/cachexia.csv,endocrine/metabolic,Cachexia
+clean_data/calcaneal_spur_exostosis_nos.csv,musculoskeletal,Calcaneal spur; Exostosis NOS
+clean_data/calculus_of_bile_duct.csv,digestive,Calculus of bile duct
+clean_data/calculus_of_kidney.csv,genitourinary,Calculus of kidney
+clean_data/calculus_of_lower_urinary_tract.csv,genitourinary,Calculus of lower urinary tract
+clean_data/calculus_of_ureter.csv,genitourinary,Calculus of ureter
+clean_data/cancer_of_bladder.csv,neoplasms,Cancer of bladder
+clean_data/cancer_of_bone_and_connective_tissue.csv,neoplasms,Cancer of bone and connective tissue
+clean_data/cancer_of_brain.csv,neoplasms,Cancer of brain
+clean_data/cancer_of_brain_and_nervous_system.csv,neoplasms,Cancer of brain and nervous system
+clean_data/cancer_of_bronchus_lung.csv,neoplasms,Cancer of bronchus; lung
+clean_data/cancer_of_connective_tissue.csv,neoplasms,Cancer of connective tissue
+clean_data/cancer_of_esophagus.csv,neoplasms,Cancer of esophagus
+clean_data/cancer_of_eye.csv,neoplasms,Cancer of eye
+clean_data/cancer_of_hypopharynx.csv,neoplasms,Cancer of hypopharynx
+clean_data/cancer_of_intrathoracic_organs.csv,neoplasms,Cancer of intrathoracic organs
+clean_data/cancer_of_kidney_and_renal_pelvis.csv,neoplasms,Cancer of kidney and renal pelvis
+clean_data/cancer_of_larynx.csv,neoplasms,Cancer of larynx
+clean_data/cancer_of_larynx_pharynx_nasal_cavities.csv,neoplasms,"Cancer of larynx, pharynx, nasal cavities"
+clean_data/cancer_of_lip.csv,neoplasms,Cancer of lip
+clean_data/cancer_of_liver_and_intrahepatic_bile_duct.csv,neoplasms,Cancer of liver and intrahepatic bile duct
+clean_data/cancer_of_major_salivary_glands.csv,neoplasms,Cancer of major salivary glands
+clean_data/cancer_of_mouth.csv,neoplasms,Cancer of mouth
+clean_data/cancer_of_nasopharynx.csv,neoplasms,Cancer of nasopharynx
+clean_data/cancer_of_of_nasal_cavities.csv,neoplasms,Cancer of of nasal cavities
+clean_data/cancer_of_oropharynx.csv,neoplasms,Cancer of oropharynx
+clean_data/cancer_of_other_endocrine_glands.csv,neoplasms,Cancer of other endocrine glands
+clean_data/cancer_of_other_female_genital_organs.csv,neoplasms,Cancer of other female genital organs
+clean_data/cancer_of_other_female_genital_organs_excluding_uterus_and_ovary.csv,neoplasms,Cancer of other female genital organs (excluding uterus and ovary)
+clean_data/cancer_of_other_lymphoid_histiocytic_tissue.csv,neoplasms,"Cancer of other lymphoid, histiocytic tissue"
+clean_data/cancer_of_other_male_genital_organs.csv,neoplasms,Cancer of other male genital organs
+clean_data/cancer_of_prostate.csv,neoplasms,Cancer of prostate
+clean_data/cancer_of_stomach.csv,neoplasms,Cancer of stomach
+clean_data/cancer_of_the_gums.csv,neoplasms,Cancer of the gums
+clean_data/cancer_of_the_mouth_floor.csv,neoplasms,Cancer of the mouth floor
+clean_data/cancer_of_tongue.csv,neoplasms,Cancer of tongue
+clean_data/cancer_of_urinary_organs_incl_kidney_and_bladder.csv,neoplasms,Cancer of urinary organs (incl. kidney and bladder)
+clean_data/cancer_suspected_or_other.csv,neoplasms,"Cancer, suspected or other"
+clean_data/cancer_within_the_respiratory_system.csv,neoplasms,Cancer within the respiratory system
+clean_data/candidiasis.csv,infectious diseases,Candidiasis
+clean_data/candidiasis_of_skin_and_nails.csv,infectious diseases,Candidiasis of skin and nails
+clean_data/carbuncle_and_furuncle.csv,dermatologic,Carbuncle and furuncle
+clean_data/carcinoid_syndrome.csv,endocrine/metabolic,Carcinoid syndrome
+clean_data/carcinoma_in_situ_of_skin.csv,neoplasms,Carcinoma in situ of skin
+clean_data/cardiac_and_circulatory_congenital_anomalies.csv,congenital anomalies,Cardiac and circulatory congenital anomalies
+clean_data/cardiac_arrest.csv,circulatory system,Cardiac arrest
+clean_data/cardiac_arrest_and_ventricular_fibrillation.csv,circulatory system,Cardiac arrest and ventricular fibrillation
+clean_data/cardiac_complications_not_elsewhere_classified.csv,circulatory system,"Cardiac complications, not elsewhere classified"
+clean_data/cardiac_conduction_disorders.csv,circulatory system,Cardiac conduction disorders
+clean_data/cardiac_congenital_anomalies.csv,congenital anomalies,Cardiac congenital anomalies
+clean_data/cardiac_defibrillator_in_situ.csv,circulatory system,Cardiac defibrillator in situ
+clean_data/cardiac_dysrhythmias.csv,circulatory system,Cardiac dysrhythmias
+clean_data/cardiac_pacemaker_in_situ.csv,circulatory system,Cardiac pacemaker in situ
+clean_data/cardiac_pacemakerdevice_in_situ.csv,circulatory system,Cardiac pacemaker/device in situ
+clean_data/cardiac_rhythm_regulators_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Cardiac rhythm regulators causing adverse effects in therapeutic use
+clean_data/cardiac_shunt_heart_septal_defect.csv,congenital anomalies,Cardiac shunt/ heart septal defect
+clean_data/cardiogenic_shock.csv,symptoms,Cardiogenic shock
+clean_data/cardiomegaly.csv,circulatory system,Cardiomegaly
+clean_data/cardiomyopathy.csv,circulatory system,Cardiomyopathy
+clean_data/carditis.csv,circulatory system,Carditis
+clean_data/carnitine_deficiencies.csv,endocrine/metabolic,Carnitine deficiencies
+clean_data/cataplexy_and_narcolepsy.csv,neurological,Cataplexy and narcolepsy
+clean_data/cataract.csv,sense organs,Cataract
+clean_data/celiac_disease.csv,digestive,Celiac disease
+clean_data/cellulitis_and_abscess_of_armhand.csv,dermatologic,Cellulitis and abscess of arm/hand
+clean_data/cellulitis_and_abscess_of_faceneck.csv,dermatologic,Cellulitis and abscess of face/neck
+clean_data/cellulitis_and_abscess_of_fingerstoes.csv,dermatologic,Cellulitis and abscess of fingers/toes
+clean_data/cellulitis_and_abscess_of_foot_toe.csv,dermatologic,"Cellulitis and abscess of foot, toe"
+clean_data/cellulitis_and_abscess_of_leg_except_foot.csv,dermatologic,"Cellulitis and abscess of leg, except foot"
+clean_data/cellulitis_and_abscess_of_oral_soft_tissues.csv,digestive,Cellulitis and abscess of oral soft tissues
+clean_data/cellulitis_and_abscess_of_trunk.csv,dermatologic,Cellulitis and abscess of trunk
+clean_data/central_origin_vertigo.csv,sense organs,Central origin vertigo
+clean_data/centralnonobstroctive_sleep_apnea.csv,neurological,Central/nonobstroctive sleep apnea
+clean_data/cerebral_aneurysm.csv,circulatory system,Cerebral aneurysm
+clean_data/cerebral_artery_occlusion_with_cerebral_infarction.csv,circulatory system,"Cerebral artery occlusion, with cerebral infarction"
+clean_data/cerebral_atherosclerosis.csv,circulatory system,Cerebral atherosclerosis
+clean_data/cerebral_cysts.csv,neurological,Cerebral cysts
+clean_data/cerebral_degeneration_unspecified.csv,neurological,"Cerebral degeneration, unspecified"
+clean_data/cerebral_edema_and_compression_of_brain.csv,neurological,Cerebral edema and compression of brain
+clean_data/cerebral_ischemia.csv,circulatory system,Cerebral ischemia
+clean_data/cerebral_laceration_and_contusion.csv,injuries & poisonings,Cerebral laceration and contusion
+clean_data/cerebrovascular_disease.csv,circulatory system,Cerebrovascular disease
+clean_data/certain_early_complications_of_trauma_or_procedure.csv,injuries & poisonings,Certain early complications of trauma or procedure
+clean_data/cervical_cancer.csv,neoplasms,Cervical cancer
+clean_data/cervical_cancer_and_dysplasia.csv,neoplasms,Cervical cancer and dysplasia
+clean_data/cervical_incompetence.csv,pregnancy complications,Cervical incompetence
+clean_data/cervical_intraepithelial_neoplasia_cin_cervical_dysplasia.csv,neoplasms,Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]
+clean_data/cervical_radiculitis.csv,symptoms,Cervical radiculitis
+clean_data/cervicalgia.csv,symptoms,Cervicalgia
+clean_data/cervicitis_and_endocervicitis.csv,genitourinary,Cervicitis and endocervicitis
+clean_data/cervicocranialcervicobrachial_syndrome.csv,symptoms,Cervicocranial/Cervicobrachial syndrome
+clean_data/changes_in_skin_texture.csv,dermatologic,Changes in skin texture
+clean_data/chemotherapy.csv,neoplasms,Chemotherapy
+clean_data/cholangitis.csv,digestive,Cholangitis
+clean_data/cholecystitis_without_cholelithiasis.csv,digestive,Cholecystitis without cholelithiasis
+clean_data/cholelithiasis.csv,digestive,Cholelithiasis
+clean_data/cholelithiasis_and_cholecystitis.csv,digestive,Cholelithiasis and cholecystitis
+clean_data/cholelithiasis_with_acute_cholecystitis.csv,digestive,Cholelithiasis with acute cholecystitis
+clean_data/cholelithiasis_with_other_cholecystitis.csv,digestive,Cholelithiasis with other cholecystitis
+clean_data/cholesteatoma.csv,sense organs,Cholesteatoma
+clean_data/cholesterolosis_of_gallbladder.csv,digestive,Cholesterolosis of gallbladder
+clean_data/chondrocalcinosis.csv,endocrine/metabolic,Chondrocalcinosis
+clean_data/chondromalacia.csv,musculoskeletal,Chondromalacia
+clean_data/chorioretinal_inflammations_scars_and_other_disorders_of_choroid.csv,sense organs,"Chorioretinal inflammations, scars, and other disorders of choroid"
+clean_data/chorioretinal_scars.csv,sense organs,Chorioretinal scars
+clean_data/choroidal_degenerations.csv,sense organs,Choroidal degenerations
+clean_data/chromosomal_anomalies.csv,congenital anomalies,Chromosomal anomalies
+clean_data/chromosomal_anomalies_and_genetic_disorders.csv,congenital anomalies,Chromosomal anomalies and genetic disorders
+clean_data/chronic_airway_obstruction.csv,respiratory,Chronic airway obstruction
+clean_data/chronic_bronchitis.csv,respiratory,Chronic bronchitis
+clean_data/chronic_cystitis.csv,genitourinary,Chronic cystitis
+clean_data/chronic_dermatitis_due_to_solar_radiation.csv,dermatologic,Chronic dermatitis due to solar radiation
+clean_data/chronic_fatigue_syndrome.csv,symptoms,Chronic fatigue syndrome
+clean_data/chronic_glomerulonephritis_nos.csv,genitourinary,"Chronic glomerulonephritis, NOS"
+clean_data/chronic_inflammatory_disorders_of_orbit.csv,sense organs,Chronic inflammatory disorders of orbit
+clean_data/chronic_inflammatory_pelvic_disease.csv,genitourinary,Chronic inflammatory pelvic disease
+clean_data/chronic_interstitial_cystitis.csv,genitourinary,Chronic interstitial cystitis
+clean_data/chronic_kidney_disease_stage_i_or_ii.csv,genitourinary,"Chronic kidney disease, Stage I or II"
+clean_data/chronic_kidney_disease_stage_iii.csv,genitourinary,"Chronic Kidney Disease, Stage III"
+clean_data/chronic_kidney_disease_stage_iv.csv,genitourinary,"Chronic Kidney Disease, Stage IV"
+clean_data/chronic_laryngitis.csv,respiratory,Chronic laryngitis
+clean_data/chronic_liver_disease_and_cirrhosis.csv,digestive,Chronic liver disease and cirrhosis
+clean_data/chronic_lymphocytic_thyroiditis.csv,endocrine/metabolic,Chronic lymphocytic thyroiditis
+clean_data/chronic_obstructive_asthma.csv,respiratory,Chronic obstructive asthma
+clean_data/chronic_obstructive_asthma_with_exacerbation.csv,respiratory,Chronic obstructive asthma with exacerbation
+clean_data/chronic_osteomyelitis.csv,musculoskeletal,Chronic osteomyelitis
+clean_data/chronic_pain.csv,neurological,Chronic pain
+clean_data/chronic_pain_syndrome.csv,neurological,Chronic pain syndrome
+clean_data/chronic_pancreatitis.csv,digestive,Chronic pancreatitis
+clean_data/chronic_passive_congestion_of_liver.csv,digestive,Chronic passive congestion of liver
+clean_data/chronic_pericarditis.csv,circulatory system,Chronic pericarditis
+clean_data/chronic_periodontitis.csv,digestive,Chronic periodontitis
+clean_data/chronic_pharyngitis_and_nasopharyngitis.csv,respiratory,Chronic pharyngitis and nasopharyngitis
+clean_data/chronic_prostatitis.csv,genitourinary,Chronic prostatitis
+clean_data/chronic_pulmonary_heart_disease.csv,circulatory system,Chronic pulmonary heart disease
+clean_data/chronic_renal_failure_ckd.csv,genitourinary,Chronic renal failure [CKD]
+clean_data/chronic_sinusitis.csv,respiratory,Chronic sinusitis
+clean_data/chronic_thyroiditis.csv,endocrine/metabolic,Chronic thyroiditis
+clean_data/chronic_tonsillitis_and_adenoiditis.csv,respiratory,Chronic tonsillitis and adenoiditis
+clean_data/chronic_ulcer_of_leg_or_foot.csv,dermatologic,Chronic ulcer of leg or foot
+clean_data/chronic_ulcer_of_skin.csv,dermatologic,Chronic ulcer of skin
+clean_data/chronic_ulcer_of_unspecified_site.csv,dermatologic,Chronic ulcer of unspecified site
+clean_data/chronic_vascular_insufficiency_of_intestine.csv,circulatory system,Chronic vascular insufficiency of intestine
+clean_data/chronic_venous_hypertension.csv,circulatory system,Chronic venous hypertension
+clean_data/chronic_venous_insufficiency_cvi.csv,circulatory system,Chronic venous insufficiency [CVI]
+clean_data/circadian_rhythm_sleep_disorder.csv,neurological,Circadian rhythm sleep disorder
+clean_data/circulatory_disease_nec.csv,circulatory system,Circulatory disease NEC
+clean_data/circumscribed_scleroderma.csv,dermatologic,Circumscribed scleroderma
+clean_data/cirrhosis_of_liver_without_mention_of_alcohol.csv,digestive,Cirrhosis of liver without mention of alcohol
+clean_data/claw_toe_acquired.csv,musculoskeletal,Claw toe (acquired)
+clean_data/cleft_palate.csv,congenital anomalies,Cleft palate
+clean_data/coagulation_defects.csv,hematopoietic,Coagulation defects
+clean_data/coagulation_defects_complicating_pregnancy_or_postpartum.csv,hematopoietic,Coagulation defects complicating pregnancy or postpartum
+clean_data/coccidioidomycosis.csv,infectious diseases,Coccidioidomycosis
+clean_data/colles_fracture.csv,injuries & poisonings,Colles' fracture
+clean_data/colon_cancer.csv,neoplasms,Colon cancer
+clean_data/color_vision_deficiencies.csv,sense organs,Color vision deficiencies
+clean_data/colorectal_cancer.csv,neoplasms,Colorectal cancer
+clean_data/coma.csv,neurological,Coma
+clean_data/complex_regionalcentral_pain_syndrome.csv,neurological,Complex regional/central pain syndrome
+clean_data/complication_due_to_other_implant_and_internal_device.csv,injuries & poisonings,Complication due to other implant and internal device
+clean_data/complication_of_amputation_stump.csv,injuries & poisonings,Complication of amputation stump
+clean_data/complication_of_colostomy_or_enterostomy.csv,injuries & poisonings,Complication of colostomy or enterostomy
+clean_data/complication_of_internal_orthopedic_device.csv,injuries & poisonings,Complication of internal orthopedic device
+clean_data/complication_of_nervous_system_device_implant_and_graft.csv,injuries & poisonings,"Complication of nervous system device, implant, and graft"
+clean_data/complications_of_cardiacvascular_device_implant_and_graft.csv,injuries & poisonings,"Complications of cardiac/vascular device, implant, and graft"
+clean_data/complications_of_gastrostomy_colostomy_and_enterostomy.csv,digestive,"Complications of gastrostomy, colostomy and enterostomy"
+clean_data/complications_of_labor_and_delivery_nec.csv,pregnancy complications,Complications of labor and delivery NEC
+clean_data/complications_of_transplants_and_reattached_limbs.csv,injuries & poisonings,Complications of transplants and reattached limbs
+clean_data/concussion.csv,injuries & poisonings,Concussion
+clean_data/conditions_involving_the_integument_and_temperature_regulation_of_fetus_and_newborn.csv,pregnancy complications,Conditions involving the integument and temperature regulation of fetus and newborn
+clean_data/conduct_disorders.csv,mental disorders,Conduct disorders
+clean_data/conductive_hearing_loss.csv,sense organs,Conductive hearing loss
+clean_data/congenital_anomalies_of_abdominal_wall_diaphram.csv,congenital anomalies,Congenital anomalies of abdominal wall; diaphram
+clean_data/congenital_anomalies_of_breast.csv,genitourinary,Congenital anomalies of breast
+clean_data/congenital_anomalies_of_esophagus.csv,congenital anomalies,Congenital anomalies of esophagus
+clean_data/congenital_anomalies_of_face_and_neck.csv,congenital anomalies,Congenital anomalies of face and neck
+clean_data/congenital_anomalies_of_female_genital_organs.csv,congenital anomalies,Congenital anomalies of female genital organs
+clean_data/congenital_anomalies_of_genital_organs.csv,congenital anomalies,Congenital anomalies of genital organs
+clean_data/congenital_anomalies_of_great_vessels.csv,congenital anomalies,Congenital anomalies of great vessels
+clean_data/congenital_anomalies_of_intestine.csv,congenital anomalies,Congenital anomalies of intestine
+clean_data/congenital_anomalies_of_limbs.csv,congenital anomalies,Congenital anomalies of limbs
+clean_data/congenital_anomalies_of_male_genital_organs.csv,congenital anomalies,Congenital anomalies of male genital organs
+clean_data/congenital_anomalies_of_mouthtongue.csv,congenital anomalies,Congenital anomalies of mouth/tongue
+clean_data/congenital_anomalies_of_muscle_tendon_fascia_and_connective_tissue.csv,congenital anomalies,"Congenital anomalies of muscle, tendon, fascia, and connective tissue"
+clean_data/congenital_anomalies_of_peripheral_vascular_system.csv,congenital anomalies,Congenital anomalies of peripheral vascular system
+clean_data/congenital_anomalies_of_posterior_segment_of_eye.csv,congenital anomalies,Congenital anomalies of posterior segment of eye
+clean_data/congenital_anomalies_of_skin.csv,dermatologic,Congenital anomalies of skin
+clean_data/congenital_anomalies_of_skull_and_face_bones.csv,congenital anomalies,Congenital anomalies of skull and face bones
+clean_data/congenital_anomalies_of_stomach.csv,congenital anomalies,Congenital anomalies of stomach
+clean_data/congenital_anomalies_of_the_eye.csv,congenital anomalies,Congenital anomalies of the eye
+clean_data/congenital_anomalies_of_the_integument.csv,congenital anomalies,Congenital anomalies of the integument
+clean_data/congenital_anomalies_of_upper_limb_including_shoulder_girdle.csv,congenital anomalies,"Congenital anomalies of upper limb, including shoulder girdle"
+clean_data/congenital_anomalies_of_urinary_system.csv,congenital anomalies,Congenital anomalies of urinary system
+clean_data/congenital_anomaly_of_fingerstoes.csv,congenital anomalies,Congenital anomaly of fingers/toes
+clean_data/congenital_anomaly_of_gallbladder_bile_ducts_liver_pancreas.csv,congenital anomalies,"Congenital anomaly of gallbladder, bile ducts, liver, pancreas"
+clean_data/congenital_cataract_and_lens_anomalies.csv,congenital anomalies,Congenital cataract and lens anomalies
+clean_data/congenital_coagulation_defects.csv,hematopoietic,Congenital coagulation defects
+clean_data/congenital_deficiency_of_other_clotting_factors_including_factor_vii.csv,hematopoietic,Congenital deficiency of other clotting factors (including factor VII)
+clean_data/congenital_deformities_of_feet.csv,congenital anomalies,Congenital deformities of feet
+clean_data/congenital_factor_viii_disorder.csv,hematopoietic,Congenital factor VIII disorder
+clean_data/congenital_hip_dysplasia_and_deformity.csv,congenital anomalies,Congenital hip dysplasia and deformity
+clean_data/congenital_hypothyroidism.csv,endocrine/metabolic,Congenital hypothyroidism
+clean_data/congenital_musculoskeletal_deformities_of_spine.csv,congenital anomalies,Congenital musculoskeletal deformities of spine
+clean_data/congenital_osteodystrophies.csv,congenital anomalies,Congenital osteodystrophies
+clean_data/congenital_pigmentary_anomalies_of_skin.csv,dermatologic,Congenital pigmentary anomalies of skin
+clean_data/congestive_heart_failure_chf_nos.csv,circulatory system,Congestive heart failure (CHF) NOS
+clean_data/congestive_heart_failure_nonhypertensive.csv,circulatory system,Congestive heart failure; nonhypertensive
+clean_data/conjunctivitis_infectious.csv,sense organs,"Conjunctivitis, infectious"
+clean_data/conjunctivitis_noninfectious.csv,sense organs,"Conjunctivitis, noninfectious"
+clean_data/constitutional_aplastic_anemia.csv,hematopoietic,Constitutional aplastic anemia
+clean_data/contact_and_allergic_dermatitis_of_eyelid.csv,dermatologic,Contact and allergic dermatitis of eyelid
+clean_data/contact_dermatitis_and_other_eczema_due_to_plants_except_food.csv,dermatologic,Contact dermatitis and other eczema due to plants [except food]
+clean_data/contracture_of_joint.csv,musculoskeletal,Contracture of joint
+clean_data/contracture_of_palmar_fascia_dupuytrens_disease.csv,musculoskeletal,Contracture of palmar fascia [Dupuytren's disease]
+clean_data/contracture_of_tendon_sheath.csv,musculoskeletal,Contracture of tendon (sheath)
+clean_data/contusion.csv,injuries & poisonings,Contusion
+clean_data/convulsions.csv,neurological,Convulsions
+clean_data/cornea_replaced_by_transplant.csv,sense organs,Cornea replaced by transplant
+clean_data/corneal_degenerations.csv,sense organs,Corneal degenerations
+clean_data/corneal_dystrophy.csv,sense organs,Corneal dystrophy
+clean_data/corneal_edema.csv,sense organs,Corneal edema
+clean_data/corneal_opacity.csv,sense organs,Corneal opacity
+clean_data/corneal_opacity_and_other_disorders_of_cornea.csv,sense organs,Corneal opacity and other disorders of cornea
+clean_data/corneal_ulcer.csv,sense organs,Corneal ulcer
+clean_data/corns_and_callosities.csv,dermatologic,Corns and callosities
+clean_data/coronary_atherosclerosis.csv,circulatory system,Coronary atherosclerosis
+clean_data/costochondritis.csv,musculoskeletal,Costochondritis
+clean_data/cough.csv,respiratory,Cough
+clean_data/cramp_of_limb.csv,symptoms,Cramp of limb
+clean_data/crystal_arthropathies.csv,endocrine/metabolic,Crystal arthropathies
+clean_data/curvature_of_spine.csv,musculoskeletal,Curvature of spine
+clean_data/cushings_syndrome.csv,endocrine/metabolic,Cushing's syndrome
+clean_data/cutaneous_lupus_erythematosus.csv,dermatologic,Cutaneous lupus erythematosus
+clean_data/cyst_and_pseudocyst_of_pancreas.csv,digestive,Cyst and pseudocyst of pancreas
+clean_data/cyst_of_bone.csv,musculoskeletal,Cyst of bone
+clean_data/cyst_of_kidney_acquired.csv,genitourinary,"Cyst of kidney, acquired"
+clean_data/cyst_of_the_salivary_gland.csv,digestive,Cyst of the salivary gland
+clean_data/cyst_or_abscess_of_bartholins_gland.csv,genitourinary,Cyst or abscess of Bartholin's gland
+clean_data/cystic_fibrosis.csv,respiratory,Cystic fibrosis
+clean_data/cystic_kidney_disease.csv,congenital anomalies,Cystic kidney disease
+clean_data/cystic_mastopathy.csv,genitourinary,Cystic mastopathy
+clean_data/cystitis.csv,genitourinary,Cystitis
+clean_data/cystitis_and_urethritis.csv,genitourinary,Cystitis and urethritis
+clean_data/cystoid_macular_degeneration_of_retina.csv,sense organs,Cystoid macular degeneration of retina
+clean_data/cysts_of_oral_soft_tissues.csv,digestive,Cysts of oral soft tissues
+clean_data/cysts_of_the_jaws.csv,digestive,Cysts of the jaws
+clean_data/decreased_libido.csv,mental disorders,Decreased libido
+clean_data/decreased_white_blood_cell_count.csv,hematopoietic,Decreased white blood cell count
+clean_data/decubitus_ulcer.csv,dermatologic,Decubitus ulcer
+clean_data/deep_vein_thrombosis_dvt.csv,circulatory system,Deep vein thrombosis [DVT]
+clean_data/defibrination_syndrome.csv,hematopoietic,Defibrination syndrome
+clean_data/deficiency_anemias.csv,hematopoietic,Deficiency anemias
+clean_data/deficiency_of_humoral_immunity.csv,endocrine/metabolic,Deficiency of humoral immunity
+clean_data/degeneration_of_intervertebral_disc.csv,musculoskeletal,Degeneration of intervertebral disc
+clean_data/degeneration_of_macula_and_posterior_pole_of_retina.csv,sense organs,Degeneration of macula and posterior pole of retina
+clean_data/degenerative_and_vascular_disorders_of_ear.csv,sense organs,Degenerative and vascular disorders of ear
+clean_data/degenerative_disease_of_the_spinal_cord.csv,neurological,Degenerative disease of the spinal cord
+clean_data/degenerative_skin_conditions_and_other_dermatoses.csv,dermatologic,Degenerative skin conditions and other dermatoses
+clean_data/degenerative_skin_disorders.csv,dermatologic,Degenerative skin disorders
+clean_data/delay_in_sexual_development_and_puberty_nec.csv,endocrine/metabolic,Delay in sexual development and puberty NEC
+clean_data/delayed_milestones.csv,endocrine/metabolic,Delayed milestones
+clean_data/delirium_dementia_and_amnestic_and_other_cognitive_disorders.csv,mental disorders,Delirium dementia and amnestic and other cognitive disorders
+clean_data/delirium_due_to_conditions_classified_elsewhere.csv,mental disorders,Delirium due to conditions classified elsewhere
+clean_data/dementia_with_cerebral_degenerations.csv,mental disorders,Dementia with cerebral degenerations
+clean_data/dementias.csv,mental disorders,Dementias
+clean_data/dental_abrasion_erosion_and_attrition.csv,digestive,"Dental abrasion, erosion and attrition"
+clean_data/dental_caries.csv,digestive,Dental caries
+clean_data/dentofacial_anomalies_including_malocclusion.csv,digestive,"Dentofacial anomalies, including malocclusion"
+clean_data/dependence_on_respirator_ventilator_or_supplemental_oxygen.csv,respiratory,Dependence on respirator [Ventilator] or supplemental oxygen
+clean_data/depression.csv,mental disorders,Depression
+clean_data/derangement_of_joint_non_traumatic.csv,musculoskeletal,"Derangement of joint, non-traumatic"
+clean_data/dermatitis_due_to_solar_radiation.csv,dermatologic,Dermatitis due to solar radiation
+clean_data/dermatitis_herpetiformis.csv,dermatologic,Dermatitis herpetiformis
+clean_data/dermatochalasis.csv,sense organs,Dermatochalasis
+clean_data/dermatomycoses.csv,infectious diseases,Dermatomycoses
+clean_data/dermatomyositis.csv,dermatologic,Dermatomyositis
+clean_data/dermatophytosis.csv,infectious diseases,Dermatophytosis
+clean_data/dermatophytosis__dermatomycosis.csv,infectious diseases,Dermatophytosis / Dermatomycosis
+clean_data/dermatophytosis_of_nail.csv,infectious diseases,Dermatophytosis of nail
+clean_data/dermatophytosis_of_the_body.csv,infectious diseases,Dermatophytosis of the body
+clean_data/develomental_delays_and_disorders.csv,mental disorders,Develomental delays and disorders
+clean_data/diabetes_insipidus.csv,endocrine/metabolic,Diabetes insipidus
+clean_data/diabetes_mellitus.csv,endocrine/metabolic,Diabetes mellitus
+clean_data/diabetes_or_abnormal_glucose_tolerance_complicating_pregnancy.csv,pregnancy complications,Diabetes or abnormal glucose tolerance complicating pregnancy
+clean_data/diabetes_type_1_with_peripheral_circulatory_disorders.csv,endocrine/metabolic,Diabetes type 1 with peripheral circulatory disorders
+clean_data/diabetes_type_2_with_peripheral_circulatory_disorders.csv,endocrine/metabolic,Diabetes type 2 with peripheral circulatory disorders
+clean_data/diabetic_retinopathy.csv,endocrine/metabolic,Diabetic retinopathy
+clean_data/diaper_or_napkin_rash.csv,injuries & poisonings,Diaper or napkin rash
+clean_data/diaphragmatic_hernia.csv,digestive,Diaphragmatic hernia
+clean_data/difficulty_in_walking.csv,musculoskeletal,Difficulty in walking
+clean_data/diffuse_diseases_of_connective_tissue.csv,dermatologic,Diffuse diseases of connective tissue
+clean_data/digestive_congenital_anomalies.csv,congenital anomalies,Digestive congenital anomalies
+clean_data/diplopia_and_disorders_of_binocular_vision.csv,sense organs,Diplopia and disorders of binocular vision
+clean_data/disease_of_capillaries.csv,circulatory system,Disease of capillaries
+clean_data/disease_of_tricuspid_valve.csv,circulatory system,Disease of tricuspid valve
+clean_data/diseases_and_other_conditions_of_the_tongue.csv,digestive,Diseases and other conditions of the tongue
+clean_data/diseases_of_esophagus.csv,digestive,Diseases of esophagus
+clean_data/diseases_of_hair_and_hair_follicles.csv,dermatologic,Diseases of hair and hair follicles
+clean_data/diseases_of_hard_tissues_of_teeth.csv,digestive,Diseases of hard tissues of teeth
+clean_data/diseases_of_lips.csv,digestive,Diseases of lips
+clean_data/diseases_of_nail_nos.csv,dermatologic,"Diseases of nail, NOS"
+clean_data/diseases_of_pancreas.csv,digestive,Diseases of pancreas
+clean_data/diseases_of_pulp_and_periapical_tissues.csv,digestive,Diseases of pulp and periapical tissues
+clean_data/diseases_of_sebaceous_glands.csv,dermatologic,Diseases of sebaceous glands
+clean_data/diseases_of_spleen.csv,hematopoietic,Diseases of spleen
+clean_data/diseases_of_the_jaws.csv,digestive,Diseases of the jaws
+clean_data/diseases_of_the_larynx_and_vocal_cords.csv,respiratory,Diseases of the larynx and vocal cords
+clean_data/diseases_of_the_oral_soft_tissues_excluding_lesions_specific_for_gingiva_and_tongue.csv,digestive,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue"
+clean_data/diseases_of_the_salivary_glands.csv,digestive,Diseases of the salivary glands
+clean_data/diseases_of_thymus_gland.csv,endocrine/metabolic,Diseases of thymus gland
+clean_data/diseases_of_white_blood_cells.csv,hematopoietic,Diseases of white blood cells
+clean_data/dislocation.csv,injuries & poisonings,Dislocation
+clean_data/disorder_of_skin_and_subcutaneous_tissue_nos.csv,dermatologic,Disorder of skin and subcutaneous tissue NOS
+clean_data/disorders_involving_the_immune_mechanism.csv,endocrine/metabolic,Disorders involving the immune mechanism
+clean_data/disorders_of_accommodation.csv,sense organs,Disorders of accommodation
+clean_data/disorders_of_acoustic_nerve.csv,sense organs,Disorders of acoustic nerve
+clean_data/disorders_of_adrenal_glands.csv,endocrine/metabolic,Disorders of adrenal glands
+clean_data/disorders_of_amino_acid_metabolism.csv,endocrine/metabolic,Disorders of amino-acid metabolism
+clean_data/disorders_of_bilirubin_excretion.csv,endocrine/metabolic,Disorders of bilirubin excretion
+clean_data/disorders_of_calciumphosphorus_metabolism.csv,endocrine/metabolic,Disorders of calcium/phosphorus metabolism
+clean_data/disorders_of_carbohydrate_transport_and_metabolism.csv,endocrine/metabolic,Disorders of carbohydrate transport and metabolism
+clean_data/disorders_of_coccyx.csv,musculoskeletal,Disorders of coccyx
+clean_data/disorders_of_conjunctiva.csv,sense organs,Disorders of conjunctiva
+clean_data/disorders_of_copper_metabolism.csv,endocrine/metabolic,Disorders of copper metabolism
+clean_data/disorders_of_diaphragm.csv,respiratory,Disorders of diaphragm
+clean_data/disorders_of_esophageal_motility.csv,digestive,Disorders of esophageal motility
+clean_data/disorders_of_external_ear.csv,sense organs,Disorders of external ear
+clean_data/disorders_of_fluid_electrolyte_and_acid_base_balance.csv,endocrine/metabolic,"Disorders of fluid, electrolyte, and acid-base balance"
+clean_data/disorders_of_function_of_stomach.csv,digestive,Disorders of function of stomach
+clean_data/disorders_of_iris_and_ciliary_body.csv,sense organs,Disorders of iris and ciliary body
+clean_data/disorders_of_iron_metabolism.csv,hematopoietic,Disorders of iron metabolism
+clean_data/disorders_of_lacrimal_system.csv,sense organs,Disorders of lacrimal system
+clean_data/disorders_of_lipoid_metabolism.csv,endocrine/metabolic,Disorders of lipoid metabolism
+clean_data/disorders_of_magnesium_metabolism.csv,endocrine/metabolic,Disorders of magnesium metabolism
+clean_data/disorders_of_menstruation_and_other_abnormal_bleeding_from_female_genital_tract.csv,genitourinary,Disorders of menstruation and other abnormal bleeding from female genital tract
+clean_data/disorders_of_mineral_metabolism.csv,endocrine/metabolic,Disorders of mineral metabolism
+clean_data/disorders_of_muscle_ligament_and_fascia.csv,musculoskeletal,"Disorders of muscle, ligament, and fascia"
+clean_data/disorders_of_optic_nerve_and_visual_pathways.csv,sense organs,Disorders of optic nerve and visual pathways
+clean_data/disorders_of_other_cranial_nerves.csv,neurological,Disorders of other cranial nerves
+clean_data/disorders_of_parathyroid_gland.csv,endocrine/metabolic,Disorders of parathyroid gland
+clean_data/disorders_of_penis.csv,genitourinary,Disorders of penis
+clean_data/disorders_of_phosphorus_metabolism.csv,endocrine/metabolic,Disorders of phosphorus metabolism
+clean_data/disorders_of_plasma_protein_metabolism.csv,endocrine/metabolic,Disorders of plasma protein metabolism
+clean_data/disorders_of_porphyrin_metabolism.csv,endocrine/metabolic,Disorders of porphyrin metabolism
+clean_data/disorders_of_protein_plasmaamino_acid_transport_and_metabolism.csv,endocrine/metabolic,Disorders of protein plasma/amino-acid transport and metabolism
+clean_data/disorders_of_refraction_and_accommodation_blindness_and_low_vision.csv,sense organs,Disorders of refraction and accommodation; blindness and low vision
+clean_data/disorders_of_sacrum.csv,musculoskeletal,Disorders of sacrum
+clean_data/disorders_of_sweat_glands.csv,dermatologic,Disorders of sweat glands
+clean_data/disorders_of_the_autonomic_nervous_system.csv,neurological,Disorders of the autonomic nervous system
+clean_data/disorders_of_the_globe.csv,sense organs,Disorders of the globe
+clean_data/disorders_of_the_orbit.csv,sense organs,Disorders of the orbit
+clean_data/disorders_of_the_pituitary_gland_and_its_hypothalamic_control.csv,endocrine/metabolic,Disorders of the pituitary gland and its hypothalamic control
+clean_data/disorders_of_tooth_development.csv,digestive,Disorders of tooth development
+clean_data/disorders_of_urea_cycle_metabolism.csv,endocrine/metabolic,Disorders of urea cycle metabolism
+clean_data/disorders_of_uterus_nec.csv,genitourinary,"Disorders of uterus, NEC"
+clean_data/disorders_of_vitreous_body.csv,sense organs,Disorders of vitreous body
+clean_data/disorders_resulting_from_impaired_renal_function.csv,genitourinary,Disorders resulting from impaired renal function
+clean_data/displacement_of_intervertebral_disc.csv,musculoskeletal,Displacement of intervertebral disc
+clean_data/dissociative_disorder.csv,mental disorders,Dissociative disorder
+clean_data/disturbance_of_salivary_secretion.csv,digestive,Disturbance of salivary secretion
+clean_data/disturbance_of_skin_sensation.csv,dermatologic,Disturbance of skin sensation
+clean_data/disturbances_in_tooth_eruption.csv,digestive,Disturbances in tooth eruption
+clean_data/disturbances_of_amino_acid_transport.csv,endocrine/metabolic,Disturbances of amino-acid transport
+clean_data/disturbances_of_sensation_of_smell_and_taste.csv,neurological,Disturbances of sensation of smell and taste
+clean_data/disturbances_of_sulphur_bearing_amino_acid_metabolism.csv,endocrine/metabolic,Disturbances of sulphur-bearing amino-acid metabolism
+clean_data/diverticulitis.csv,digestive,Diverticulitis
+clean_data/diverticulosis.csv,digestive,Diverticulosis
+clean_data/diverticulosis_and_diverticulitis.csv,digestive,Diverticulosis and diverticulitis
+clean_data/diverticulum_of_esophagus_acquired.csv,digestive,"Diverticulum of esophagus, acquired"
+clean_data/dizziness_and_giddiness_light_headedness_and_vertigo.csv,sense organs,Dizziness and giddiness (Light-headedness and vertigo)
+clean_data/drusen_degenerative_of_retina.csv,sense organs,Drusen (degenerative) of retina
+clean_data/dry_eyes.csv,sense organs,Dry eyes
+clean_data/duodenal_ulcer.csv,digestive,Duodenal ulcer
+clean_data/duodenitis.csv,digestive,Duodenitis
+clean_data/dyschromia_and_vitiligo.csv,dermatologic,Dyschromia and Vitiligo
+clean_data/dyshidrosis.csv,dermatologic,Dyshidrosis
+clean_data/dysmenorrhea.csv,genitourinary,Dysmenorrhea
+clean_data/dysmetabolic_syndrome_x.csv,endocrine/metabolic,Dysmetabolic syndrome X
+clean_data/dyspareunia.csv,genitourinary,Dyspareunia
+clean_data/dyspepsia_and_other_specified_disorders_of_function_of_stomach.csv,digestive,Dyspepsia and other specified disorders of function of stomach
+clean_data/dysphagia.csv,digestive,Dysphagia
+clean_data/dysplasia_of_cervix.csv,genitourinary,Dysplasia of cervix
+clean_data/dysplasia_of_female_genital_organs.csv,genitourinary,Dysplasia of female genital organs
+clean_data/dysplasia_of_prostate.csv,genitourinary,Dysplasia of prostate
+clean_data/dysthymic_disorder.csv,mental disorders,Dysthymic disorder
+clean_data/dystrophy_of_female_genital_tract.csv,genitourinary,Dystrophy of female genital tract
+clean_data/dysuria.csv,genitourinary,Dysuria
+clean_data/early_onset_of_delivery.csv,pregnancy complications,Early onset of delivery
+clean_data/early_or_threatened_labor_hemorrhage_in_early_pregnancy.csv,pregnancy complications,Early or threatened labor; hemorrhage in early pregnancy
+clean_data/eating_disorder.csv,mental disorders,Eating disorder
+clean_data/ectopic_pregnancy.csv,pregnancy complications,Ectopic pregnancy
+clean_data/ectropion_or_entropion.csv,sense organs,Ectropion or entropion
+clean_data/edema.csv,symptoms,Edema
+clean_data/effects_radiation_nos.csv,injuries & poisonings,Effects radiation NOS
+clean_data/electrolyte_imbalance.csv,endocrine/metabolic,Electrolyte imbalance
+clean_data/elevated_c_reactive_protein_crp.csv,symptoms,Elevated C-reactive protein (CRP)
+clean_data/elevated_cancer_antigen_125_ca_125.csv,symptoms,Elevated cancer antigen 125 [CA 125]
+clean_data/elevated_carcinoembryonic_antigen_cea.csv,symptoms,Elevated carcinoembryonic antigen [CEA]
+clean_data/elevated_prostate_specific_antigen_psa.csv,genitourinary,Elevated prostate specific antigen [PSA]
+clean_data/elevated_sedimentation_rate.csv,symptoms,Elevated sedimentation rate
+clean_data/elevated_white_blood_cell_count.csv,hematopoietic,Elevated white blood cell count
+clean_data/embolism_and_thrombosis_of_abdominal_aorta.csv,circulatory system,Embolism and thrombosis of abdominal aorta
+clean_data/emphysema.csv,respiratory,Emphysema
+clean_data/empyema_and_pneumothorax.csv,respiratory,Empyema and pneumothorax
+clean_data/encephalitis.csv,neurological,Encephalitis
+clean_data/encephalitis_non_infectious.csv,neurological,"Encephalitis, non-infectious"
+clean_data/encephalopathy_not_elsewhere_classified.csv,neurological,"Encephalopathy, not elsewhere classified"
+clean_data/encounter_for_long_term_current_use_of_antibiotics.csv,infectious diseases,Encounter for long-term (current) use of antibiotics
+clean_data/encounter_for_long_term_current_use_of_anticoagulants.csv,hematopoietic,Encounter for long-term (current) use of anticoagulants
+clean_data/encounter_for_long_term_current_use_of_anticoagulants_antithrombotics_aspirin.csv,circulatory system,"Encounter for long-term (current) use of anticoagulants, antithrombotics, aspirin"
+clean_data/encounter_for_long_term_current_use_of_antiplateletsantithrombotics.csv,circulatory system,Encounter for long-term (current) use of antiplatelets/antithrombotics
+clean_data/encounter_for_long_term_current_use_of_aspirin.csv,circulatory system,Encounter for long-term (current) use of aspirin
+clean_data/end_stage_renal_disease.csv,genitourinary,End stage renal disease
+clean_data/endocarditis.csv,circulatory system,Endocarditis
+clean_data/endocrine_and_metabolic_disturbances_of_fetus_and_newborn.csv,pregnancy complications,Endocrine and metabolic disturbances of fetus and newborn
+clean_data/endometrial_hyperplasia.csv,genitourinary,Endometrial hyperplasia
+clean_data/endometriosis.csv,genitourinary,Endometriosis
+clean_data/enthesopathy.csv,musculoskeletal,Enthesopathy
+clean_data/eosinophilia.csv,hematopoietic,Eosinophilia
+clean_data/eosinophilic_esophagitis.csv,digestive,Eosinophilic esophagitis
+clean_data/epilepsy.csv,neurological,Epilepsy
+clean_data/epilepsy_recurrent_seizures_convulsions.csv,neurological,"Epilepsy, recurrent seizures, convulsions"
+clean_data/epiphora.csv,sense organs,Epiphora
+clean_data/epistaxis_or_throat_hemorrhage.csv,respiratory,Epistaxis or throat hemorrhage
+clean_data/erectile_dysfunction_ed.csv,genitourinary,Erectile dysfunction [ED]
+clean_data/erythema_nodosum.csv,dermatologic,Erythema nodosum
+clean_data/erythematosquamous_dermatosis.csv,dermatologic,Erythematosquamous dermatosis
+clean_data/erythematous_conditions.csv,dermatologic,Erythematous conditions
+clean_data/esophageal_atresiatracheoesophageal_fistula.csv,congenital anomalies,Esophageal atresia/tracheoesophageal fistula
+clean_data/esophageal_bleeding_variceshemorrhage.csv,digestive,Esophageal bleeding (varices/hemorrhage)
+clean_data/esophagitis_gerd_and_related_diseases.csv,digestive,"Esophagitis, GERD and related diseases"
+clean_data/essential_hypertension.csv,circulatory system,Essential hypertension
+clean_data/essential_tremor.csv,neurological,Essential tremor
+clean_data/eustachian_tube_disorders.csv,sense organs,Eustachian tube disorders
+clean_data/excessive_or_frequent_menstruation.csv,genitourinary,Excessive or frequent menstruation
+clean_data/excessive_vomiting_in_pregnancy.csv,pregnancy complications,Excessive vomiting in pregnancy
+clean_data/exophthalmos.csv,endocrine/metabolic,Exophthalmos
+clean_data/exostosis_of_jaw.csv,digestive,Exostosis of jaw
+clean_data/extrapyramidal_disease_and_abnormal_movement_disorders.csv,neurological,Extrapyramidal disease and abnormal movement disorders
+clean_data/extrinsic_allergic_alveolitis.csv,respiratory,Extrinsic allergic alveolitis
+clean_data/eye_infection_viral.csv,sense organs,"Eye infection, viral"
+clean_data/facial_nerve_disorders_cn7.csv,neurological,Facial nerve disorders [CN7]
+clean_data/facial_weakness.csv,symptoms,Facial weakness
+clean_data/failure_to_thrive_childhood.csv,endocrine/metabolic,Failure to thrive (childhood)
+clean_data/fasciitis.csv,musculoskeletal,Fasciitis
+clean_data/femoral_hernia.csv,digestive,Femoral hernia
+clean_data/fever_of_unknown_origin.csv,symptoms,Fever of unknown origin
+clean_data/fibroadenosis_of_breast.csv,genitourinary,Fibroadenosis of breast
+clean_data/fibrosclerosis_of_breast.csv,genitourinary,Fibrosclerosis of breast
+clean_data/first_degree_av_block.csv,circulatory system,First degree AV block
+clean_data/flat_foot.csv,musculoskeletal,Flat foot
+clean_data/fluid_overload.csv,endocrine/metabolic,Fluid overload
+clean_data/folate_deficiency_anemia.csv,hematopoietic,Folate-deficiency anemia
+clean_data/fracture_of_ankle_and_foot.csv,injuries & poisonings,Fracture of ankle and foot
+clean_data/fracture_of_clavicle_or_scapula.csv,injuries & poisonings,Fracture of clavicle or scapula
+clean_data/fracture_of_foot.csv,injuries & poisonings,Fracture of foot
+clean_data/fracture_of_hand_or_wrist.csv,injuries & poisonings,Fracture of hand or wrist
+clean_data/fracture_of_humerus.csv,injuries & poisonings,Fracture of humerus
+clean_data/fracture_of_lower_limb.csv,injuries & poisonings,Fracture of lower limb
+clean_data/fracture_of_neck_of_femur.csv,injuries & poisonings,Fracture of neck of femur
+clean_data/fracture_of_patella.csv,injuries & poisonings,Fracture of patella
+clean_data/fracture_of_pelvis.csv,injuries & poisonings,Fracture of pelvis
+clean_data/fracture_of_radius_and_ulna.csv,injuries & poisonings,Fracture of radius and ulna
+clean_data/fracture_of_ribs.csv,injuries & poisonings,Fracture of ribs
+clean_data/fracture_of_tibia_and_fibula.csv,injuries & poisonings,Fracture of tibia and fibula
+clean_data/fracture_of_unspecified_bones.csv,injuries & poisonings,Fracture of unspecified bones
+clean_data/fracture_of_unspecified_part_of_femur.csv,injuries & poisonings,Fracture of unspecified part of femur
+clean_data/fracture_of_upper_limb.csv,injuries & poisonings,Fracture of upper limb
+clean_data/fracture_of_vertebral_column_without_mention_of_spinal_cord_injury.csv,injuries & poisonings,Fracture of vertebral column without mention of spinal cord injury
+clean_data/frequency_of_urination_and_polyuria.csv,genitourinary,Frequency of urination and polyuria
+clean_data/fuchs_dystrophy.csv,sense organs,Fuchs' dystrophy
+clean_data/functional_digestive_disorders.csv,digestive,Functional digestive disorders
+clean_data/functional_disorders_of_bladder.csv,genitourinary,Functional disorders of bladder
+clean_data/galactorrhea.csv,genitourinary,Galactorrhea
+clean_data/ganglion_and_cyst_of_synovium_tendon_and_bursa.csv,musculoskeletal,"Ganglion and cyst of synovium, tendon, and bursa"
+clean_data/gangrene.csv,symptoms,Gangrene
+clean_data/gastric_ulcer.csv,digestive,Gastric ulcer
+clean_data/gastritis_and_duodenitis.csv,digestive,Gastritis and duodenitis
+clean_data/gastritis_and_duodenitis_nos.csv,digestive,"Gastritis and duodenitis, NOS"
+clean_data/gastroesophageal_laceration_hemorrhage_syndrome.csv,digestive,Gastroesophageal laceration-hemorrhage syndrome
+clean_data/gastrointestinal_complications.csv,digestive,Gastrointestinal complications
+clean_data/gastrointestinal_hemorrhage.csv,digestive,Gastrointestinal hemorrhage
+clean_data/gastrointestinal_malfunction_arising_from_mental_factors.csv,mental disorders,Gastrointestinal malfunction arising from mental factors
+clean_data/gastrojejunal_ulcer.csv,digestive,Gastrojejunal ulcer
+clean_data/gastroparesis.csv,digestive,Gastroparesis
+clean_data/generalized_anxiety__phobic_disorders.csv,mental disorders,Generalized anxiety & phobic disorders
+clean_data/generalized_anxiety_disorder.csv,mental disorders,Generalized anxiety disorder
+clean_data/generalized_convulsive_epilepsy.csv,neurological,Generalized convulsive epilepsy
+clean_data/genital_prolapse.csv,genitourinary,Genital prolapse
+clean_data/genitourinary_congenital_anomalies.csv,congenital anomalies,Genitourinary congenital anomalies
+clean_data/genu_valgum_or_varum_acquired.csv,musculoskeletal,Genu valgum or varum (acquired)
+clean_data/gerd.csv,digestive,GERD
+clean_data/giant_cell_arteritis.csv,circulatory system,Giant cell arteritis
+clean_data/gingival_and_periodontal_diseases.csv,digestive,Gingival and periodontal diseases
+clean_data/gingivitis.csv,digestive,Gingivitis
+clean_data/glaucoma.csv,sense organs,Glaucoma
+clean_data/glomerulonephritis.csv,genitourinary,Glomerulonephritis
+clean_data/glossitis.csv,digestive,Glossitis
+clean_data/glossodynia.csv,digestive,Glossodynia
+clean_data/glucocorticoid_deficiency.csv,endocrine/metabolic,Glucocorticoid deficiency
+clean_data/glycosuria_or_acetonuria.csv,endocrine/metabolic,Glycosuria or Acetonuria
+clean_data/gout.csv,endocrine/metabolic,Gout
+clean_data/gout_and_other_crystal_arthropathies.csv,endocrine/metabolic,Gout and other crystal arthropathies
+clean_data/gouty_arthropathy.csv,endocrine/metabolic,Gouty arthropathy
+clean_data/graves_disease.csv,endocrine/metabolic,Graves' disease
+clean_data/gross_hematuria.csv,genitourinary,Gross hematuria
+clean_data/hallucinations.csv,mental disorders,Hallucinations
+clean_data/hallux_rigidus.csv,musculoskeletal,Hallux rigidus
+clean_data/hallux_valgus_bunion.csv,musculoskeletal,Hallux valgus (Bunion)
+clean_data/hammer_toe_acquired.csv,musculoskeletal,Hammer toe (acquired)
+clean_data/hearing_loss.csv,sense organs,Hearing loss
+clean_data/heart_failure_nos.csv,circulatory system,Heart failure NOS
+clean_data/heart_failure_with_preserved_ef_diastolic_heart_failure.csv,circulatory system,Heart failure with preserved EF [Diastolic heart failure]
+clean_data/heart_failure_with_reduced_ef_systolic_or_combined_heart_failure.csv,circulatory system,Heart failure with reduced EF [Systolic or combined heart failure]
+clean_data/heart_transplantsurgery.csv,circulatory system,Heart transplant/surgery
+clean_data/heart_valve_disorders.csv,circulatory system,Heart valve disorders
+clean_data/heart_valve_replaced.csv,circulatory system,Heart valve replaced
+clean_data/heartburn.csv,digestive,Heartburn
+clean_data/helminthiases.csv,infectious diseases,Helminthiases
+clean_data/hemangioma_and_lymphangioma_any_site.csv,neoplasms,"Hemangioma and lymphangioma, any site"
+clean_data/hemangioma_of_skin_and_subcutaneous_tissue.csv,neoplasms,Hemangioma of skin and subcutaneous tissue
+clean_data/hemarthrosis.csv,musculoskeletal,Hemarthrosis
+clean_data/hematemesis.csv,digestive,Hematemesis
+clean_data/hematuria.csv,genitourinary,Hematuria
+clean_data/hemiplegia.csv,neurological,Hemiplegia
+clean_data/hemoglobinuria.csv,hematopoietic,Hemoglobinuria
+clean_data/hemolytic_uremic_syndrome.csv,hematopoietic,Hemolytic-uremic syndrome
+clean_data/hemoptysis.csv,respiratory,Hemoptysis
+clean_data/hemorrhage_during_pregnancy_childbirth_and_postpartum.csv,pregnancy complications,Hemorrhage during pregnancy; childbirth and postpartum
+clean_data/hemorrhage_from_gastrointestinal_ulcer.csv,digestive,Hemorrhage from gastrointestinal ulcer
+clean_data/hemorrhage_in_early_pregnancy.csv,pregnancy complications,Hemorrhage in early pregnancy
+clean_data/hemorrhage_nos.csv,circulatory system,Hemorrhage NOS
+clean_data/hemorrhage_of_fetus_or_newborn.csv,pregnancy complications,Hemorrhage of fetus or newborn
+clean_data/hemorrhage_of_gastrointestinal_tract.csv,digestive,Hemorrhage of gastrointestinal tract
+clean_data/hemorrhage_of_rectum_and_anus.csv,digestive,Hemorrhage of rectum and anus
+clean_data/hemorrhage_or_hematoma_complicating_a_procedure.csv,injuries & poisonings,Hemorrhage or hematoma complicating a procedure
+clean_data/hemorrhagic_disorder_due_to_intrinsic_circulating_anticoagulants.csv,hematopoietic,Hemorrhagic disorder due to intrinsic circulating anticoagulants
+clean_data/hemorrhoids.csv,circulatory system,Hemorrhoids
+clean_data/hepatomegaly.csv,digestive,Hepatomegaly
+clean_data/hereditary_and_idiopathic_peripheral_neuropathy.csv,neurological,Hereditary and idiopathic peripheral neuropathy
+clean_data/hereditary_disturbances_in_tooth_structure.csv,digestive,Hereditary disturbances in tooth structure
+clean_data/hereditary_hemochromatosis.csv,hematopoietic,Hereditary hemochromatosis
+clean_data/hereditary_hemolytic_anemias.csv,hematopoietic,Hereditary hemolytic anemias
+clean_data/hereditary_retinal_dystrophies.csv,sense organs,Hereditary retinal dystrophies
+clean_data/hidradenitis.csv,dermatologic,Hidradenitis
+clean_data/hirsutism.csv,dermatologic,Hirsutism
+clean_data/histoplasmosis.csv,infectious diseases,Histoplasmosis
+clean_data/hodgkins_disease.csv,neoplasms,Hodgkin's disease
+clean_data/hormones_and_synthetic_substitutes_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Hormones and synthetic substitutes causing adverse effects in therapeutic use
+clean_data/hx_of_malignant_neoplasm_of_oral_cavity_and_pharynx.csv,neoplasms,Hx of malignant neoplasm of oral cavity and pharynx
+clean_data/hydrocele.csv,genitourinary,Hydrocele
+clean_data/hydrocephalus.csv,neurological,Hydrocephalus
+clean_data/hydronephrosis.csv,genitourinary,Hydronephrosis
+clean_data/hyperaldosteronism.csv,endocrine/metabolic,Hyperaldosteronism
+clean_data/hypercalcemia.csv,endocrine/metabolic,Hypercalcemia
+clean_data/hypercholesterolemia.csv,endocrine/metabolic,Hypercholesterolemia
+clean_data/hyperchylomicronemia.csv,endocrine/metabolic,Hyperchylomicronemia
+clean_data/hypercoagulable_state.csv,hematopoietic,Hypercoagulable state
+clean_data/hyperemesis_gravidarum.csv,pregnancy complications,Hyperemesis gravidarum
+clean_data/hyperestrogenism.csv,endocrine/metabolic,Hyperestrogenism
+clean_data/hyperglyceridemia.csv,endocrine/metabolic,Hyperglyceridemia
+clean_data/hyperhidrosis.csv,dermatologic,Hyperhidrosis
+clean_data/hyperlipidemia.csv,endocrine/metabolic,Hyperlipidemia
+clean_data/hypermetropia.csv,sense organs,Hypermetropia
+clean_data/hyperosmolality_andor_hypernatremia.csv,endocrine/metabolic,Hyperosmolality and/or hypernatremia
+clean_data/hyperparathyroidism.csv,endocrine/metabolic,Hyperparathyroidism
+clean_data/hyperplasia_of_prostate.csv,genitourinary,Hyperplasia of prostate
+clean_data/hyperpotassemia.csv,endocrine/metabolic,Hyperpotassemia
+clean_data/hypersensitivity_angiitis.csv,circulatory system,Hypersensitivity angiitis
+clean_data/hypersomnia.csv,neurological,Hypersomnia
+clean_data/hypertension.csv,circulatory system,Hypertension
+clean_data/hypertension_complicating_pregnancy_childbirth_and_the_puerperium.csv,pregnancy complications,"Hypertension complicating pregnancy, childbirth, and the puerperium"
+clean_data/hypertensive_chronic_kidney_disease.csv,circulatory system,Hypertensive chronic kidney disease
+clean_data/hypertensive_heart_andor_renal_disease.csv,circulatory system,Hypertensive heart and/or renal disease
+clean_data/hypertensive_heart_disease.csv,circulatory system,Hypertensive heart disease
+clean_data/hypertrophic_obstructive_cardiomyopathy.csv,circulatory system,Hypertrophic obstructive cardiomyopathy
+clean_data/hypertrophy_of_breast_gynecomastia.csv,genitourinary,Hypertrophy of breast (Gynecomastia)
+clean_data/hypertrophy_of_female_genital_organs.csv,genitourinary,Hypertrophy of female genital organs
+clean_data/hypertrophy_of_salivary_gland.csv,digestive,Hypertrophy of salivary gland
+clean_data/hyperventilation.csv,respiratory,Hyperventilation
+clean_data/hypocalcemia.csv,endocrine/metabolic,Hypocalcemia
+clean_data/hypoglycemia.csv,endocrine/metabolic,Hypoglycemia
+clean_data/hypoparathyroidism.csv,endocrine/metabolic,Hypoparathyroidism
+clean_data/hypopotassemia.csv,endocrine/metabolic,Hypopotassemia
+clean_data/hyposmolality_andor_hyponatremia.csv,endocrine/metabolic,Hyposmolality and/or hyponatremia
+clean_data/hypotension.csv,circulatory system,Hypotension
+clean_data/hypotension_nos.csv,circulatory system,Hypotension NOS
+clean_data/hypothermiachills.csv,symptoms,Hypothermia/Chills
+clean_data/hypothyroidism.csv,endocrine/metabolic,Hypothyroidism
+clean_data/hypothyroidism_nos.csv,endocrine/metabolic,Hypothyroidism NOS
+clean_data/hypotony_of_eye.csv,sense organs,Hypotony of eye
+clean_data/hypoventilation.csv,respiratory,Hypoventilation
+clean_data/hypovolemia.csv,endocrine/metabolic,Hypovolemia
+clean_data/iatrogenic_endocrine_disorders.csv,endocrine/metabolic,Iatrogenic endocrine disorders
+clean_data/iatrogenic_hypotension.csv,circulatory system,Iatrogenic hypotension
+clean_data/iatrogenic_pulmonary_embolism_and_infarction.csv,circulatory system,Iatrogenic pulmonary embolism and infarction
+clean_data/ichthyosis_congenita.csv,dermatologic,Ichthyosis congenita
+clean_data/idiopathic_fibrosing_alveolitis.csv,respiratory,Idiopathic fibrosing alveolitis
+clean_data/ileostomy_status.csv,digestive,Ileostomy status
+clean_data/ill_defined_descriptions_and_complications_of_heart_disease.csv,circulatory system,Ill-defined descriptions and complications of heart disease
+clean_data/immunity_deficiency.csv,endocrine/metabolic,Immunity deficiency
+clean_data/impacted_cerumen.csv,sense organs,Impacted cerumen
+clean_data/impaction_of_intestine.csv,digestive,Impaction of intestine
+clean_data/impaired_fasting_glucose.csv,endocrine/metabolic,Impaired fasting glucose
+clean_data/impetigo.csv,dermatologic,Impetigo
+clean_data/impulse_control_disorder.csv,mental disorders,Impulse control disorder
+clean_data/incisional_hernia.csv,digestive,Incisional hernia
+clean_data/infantile_cerebral_palsy.csv,neurological,Infantile cerebral palsy
+clean_data/infection_of_the_eye.csv,sense organs,Infection of the eye
+clean_data/infections_of_genitourinary_tract_during_pregnancy.csv,pregnancy complications,Infections of genitourinary tract during pregnancy
+clean_data/infections_specific_to_the_perinatal_period.csv,pregnancy complications,Infections specific to the perinatal period
+clean_data/infectious_and_parasitic_complications_affecting_pregnancy.csv,pregnancy complications,Infectious and parasitic complications affecting pregnancy
+clean_data/infective_connective_tissue_disorders.csv,musculoskeletal,Infective connective tissue disorders
+clean_data/infertility_female.csv,genitourinary,"Infertility, female"
+clean_data/infertility_female_associated_with_anovulation.csv,genitourinary,"Infertility, female, associated with anovulation"
+clean_data/infertility_male.csv,genitourinary,"Infertility, male"
+clean_data/infestation_lice_mites.csv,infectious diseases,"Infestation (lice, mites)"
+clean_data/inflammation_of_eyelids.csv,sense organs,Inflammation of eyelids
+clean_data/inflammation_of_the_eye.csv,sense organs,Inflammation of the eye
+clean_data/inflammatory_and_toxic_neuropathy.csv,neurological,Inflammatory and toxic neuropathy
+clean_data/inflammatory_bowel_disease_and_other_gastroenteritis_and_colitis.csv,digestive,Inflammatory bowel disease and other gastroenteritis and colitis
+clean_data/inflammatory_conditions_of_jaw.csv,digestive,Inflammatory conditions of jaw
+clean_data/inflammatory_disease_of_breast.csv,genitourinary,Inflammatory disease of breast
+clean_data/inflammatory_disease_of_cervix_vagina_and_vulva.csv,genitourinary,"Inflammatory disease of cervix, vagina, and vulva"
+clean_data/inflammatory_diseases_of_female_pelvic_organs.csv,genitourinary,Inflammatory diseases of female pelvic organs
+clean_data/inflammatory_diseases_of_prostate.csv,genitourinary,Inflammatory diseases of prostate
+clean_data/inflammatory_diseases_of_uterus_except_cervix.csv,genitourinary,"Inflammatory diseases of uterus, except cervix"
+clean_data/influenza.csv,respiratory,Influenza
+clean_data/infusion_and_transfusion_reaction.csv,injuries & poisonings,Infusion and transfusion reaction
+clean_data/ingrowing_nail.csv,dermatologic,Ingrowing nail
+clean_data/inguinal_hernia.csv,digestive,Inguinal hernia
+clean_data/injuries_to_the_nervous_system.csv,injuries & poisonings,Injuries to the nervous system
+clean_data/injury_to_other_and_unspecified_nerves.csv,injuries & poisonings,Injury to other and unspecified nerves
+clean_data/insect_bite.csv,injuries & poisonings,Insect bite
+clean_data/insomnia.csv,neurological,Insomnia
+clean_data/insulin_pump_user.csv,endocrine/metabolic,Insulin pump user
+clean_data/insulins_and_antidiabetic_agents_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Insulins and antidiabetic agents causing adverse effects in therapeutic use
+clean_data/internal_derangement_of_knee.csv,injuries & poisonings,Internal derangement of knee
+clean_data/intervertebral_disc_disorder_with_myelopathy.csv,musculoskeletal,Intervertebral disc disorder with myelopathy
+clean_data/intervertebral_disc_disorders.csv,musculoskeletal,Intervertebral disc disorders
+clean_data/intestinal_disaccharidase_deficiencies_and_disaccharide_malabsorption.csv,endocrine/metabolic,Intestinal disaccharidase deficiencies and disaccharide malabsorption
+clean_data/intestinal_helminthiases.csv,infectious diseases,Intestinal helminthiases
+clean_data/intestinal_malabsorption_non_celiac.csv,digestive,Intestinal malabsorption (non-celiac)
+clean_data/intestinal_obstruction_without_mention_of_hernia.csv,digestive,Intestinal obstruction without mention of hernia
+clean_data/intracerebral_hemorrhage.csv,circulatory system,Intracerebral hemorrhage
+clean_data/intracranial_hemorrhage.csv,circulatory system,Intracranial hemorrhage
+clean_data/intracranial_hemorrhage_injury.csv,injuries & poisonings,Intracranial hemorrhage (injury)
+clean_data/iodine_hypothyroidism.csv,endocrine/metabolic,Iodine hypothyroidism
+clean_data/iron_deficiency_anemia_secondary_to_blood_loss_chronic.csv,hematopoietic,Iron deficiency anemia secondary to blood loss (chronic)
+clean_data/iron_deficiency_anemias.csv,hematopoietic,Iron deficiency anemias
+clean_data/iron_deficiency_anemias_unspecified_or_not_due_to_blood_loss.csv,hematopoietic,"Iron deficiency anemias, unspecified or not due to blood loss"
+clean_data/irregular_menstrual_bleeding.csv,genitourinary,Irregular menstrual bleeding
+clean_data/irregular_menstrual_cycle.csv,genitourinary,Irregular menstrual cycle
+clean_data/irregular_menstrual_cyclebleeding.csv,genitourinary,Irregular menstrual cycle/bleeding
+clean_data/irritable_bowel_syndrome.csv,digestive,Irritable Bowel Syndrome
+clean_data/ischemic_heart_disease.csv,circulatory system,Ischemic Heart Disease
+clean_data/jakob_creutzfeldt_disease.csv,neurological,Jakob-Creutzfeldt disease
+clean_data/jaundice_not_of_newborn.csv,digestive,Jaundice (not of newborn)
+clean_data/jaw_disease_nos.csv,digestive,Jaw disease NOS
+clean_data/joint_effusions.csv,musculoskeletal,Joint effusions
+clean_data/jointligament_sprain.csv,injuries & poisonings,Joint/ligament sprain
+clean_data/juvenile_osteochondrosis.csv,musculoskeletal,Juvenile osteochondrosis
+clean_data/juvenile_rheumatoid_arthritis.csv,musculoskeletal,Juvenile rheumatoid arthritis
+clean_data/kaposis_sarcoma.csv,neoplasms,Kaposi's sarcoma
+clean_data/keloid_scar.csv,dermatologic,Keloid scar
+clean_data/keratitis.csv,sense organs,Keratitis
+clean_data/keratoconjunctivitis.csv,sense organs,Keratoconjunctivitis
+clean_data/keratoconjunctivitis_sicca.csv,sense organs,Keratoconjunctivitis sicca
+clean_data/keratoconus.csv,sense organs,Keratoconus
+clean_data/keratoderma_acquired.csv,dermatologic,"Keratoderma, acquired"
+clean_data/kidney_replaced_by_transpant.csv,genitourinary,Kidney replaced by transpant
+clean_data/known_or_suspected_fetal_abnormality_affecting_management_of_mother.csv,pregnancy complications,Known or suspected fetal abnormality affecting management of mother
+clean_data/kwashiorkor.csv,endocrine/metabolic,Kwashiorkor
+clean_data/kyphoscoliosis_and_scoliosis.csv,musculoskeletal,Kyphoscoliosis and scoliosis
+clean_data/kyphosis_acquired.csv,musculoskeletal,Kyphosis (acquired)
+clean_data/labyrinthitis.csv,sense organs,Labyrinthitis
+clean_data/lack_of_coordination.csv,neurological,Lack of coordination
+clean_data/lack_of_normal_physiological_development.csv,endocrine/metabolic,Lack of normal physiological development
+clean_data/lack_of_normal_physiological_development_unspecified.csv,endocrine/metabolic,"Lack of normal physiological development, unspecified"
+clean_data/lagophthalmos.csv,sense organs,Lagophthalmos
+clean_data/large_cell_lymphoma.csv,neoplasms,Large cell lymphoma
+clean_data/late_effects_of_cerebrovascular_disease.csv,circulatory system,Late effects of cerebrovascular disease
+clean_data/laxity_of_ligament_or_hypermobility_syndrome.csv,musculoskeletal,Laxity of ligament or hypermobility syndrome
+clean_data/learning_disorder.csv,mental disorders,Learning disorder
+clean_data/left_bundle_branch_block.csv,circulatory system,Left bundle branch block
+clean_data/lesions_of_stomach_and_duodenum.csv,digestive,Lesions of stomach and duodenum
+clean_data/leukemia.csv,neoplasms,Leukemia
+clean_data/leukoplakia_of_oral_mucosa.csv,digestive,Leukoplakia of oral mucosa
+clean_data/lipoma.csv,neoplasms,Lipoma
+clean_data/lipoma_of_skin_and_subcutaneous_tissue.csv,neoplasms,Lipoma of skin and subcutaneous tissue
+clean_data/lipoprotein_disorders.csv,endocrine/metabolic,Lipoprotein disorders
+clean_data/liver_abscess_and_sequelae_of_chronic_liver_disease.csv,digestive,Liver abscess and sequelae of chronic liver disease
+clean_data/liver_replaced_by_transplant.csv,digestive,Liver replaced by transplant
+clean_data/localized_adiposity.csv,endocrine/metabolic,Localized adiposity
+clean_data/loose_body_in_joint.csv,musculoskeletal,Loose body in joint
+clean_data/lordosis_acquired.csv,musculoskeletal,Lordosis (acquired)
+clean_data/loss_of_height.csv,symptoms,Loss of height
+clean_data/loss_of_teeth_or_edentulism.csv,digestive,Loss of teeth or edentulism
+clean_data/lower_gastrointestinal_congenital_anomalies.csv,congenital anomalies,Lower gastrointestinal congenital anomalies
+clean_data/lumbosacral_spondylolysis_congenital.csv,congenital anomalies,"Lumbosacral spondylolysis, congenital"
+clean_data/lump_or_mass_in_breast.csv,genitourinary,Lump or mass in breast
+clean_data/lung_disease_due_to_external_agents.csv,respiratory,Lung disease due to external agents
+clean_data/lung_transplant.csv,respiratory,Lung transplant
+clean_data/lupus_localized_and_systemic.csv,dermatologic,Lupus (localized and systemic)
+clean_data/lyme_disease.csv,infectious diseases,Lyme disease
+clean_data/lymphadenitis.csv,hematopoietic,Lymphadenitis
+clean_data/lymphoid_leukemia.csv,neoplasms,Lymphoid leukemia
+clean_data/lymphoid_leukemia_acute.csv,neoplasms,"Lymphoid leukemia, acute"
+clean_data/lymphoid_leukemia_chronic.csv,neoplasms,"Lymphoid leukemia, chronic"
+clean_data/lymphosarcoma.csv,neoplasms,Lymphosarcoma
+clean_data/macroglobulinemia.csv,endocrine/metabolic,Macroglobulinemia
+clean_data/macular_degeneration_dry.csv,sense organs,"Macular degeneration, dry"
+clean_data/macular_degeneration_senile_of_retina_nos.csv,sense organs,Macular degeneration (senile) of retina NOS
+clean_data/macular_degeneration_wet.csv,sense organs,"Macular degeneration, wet"
+clean_data/macular_puckering_of_retina.csv,sense organs,Macular puckering of retina
+clean_data/major_depressive_disorder.csv,mental disorders,Major depressive disorder
+clean_data/major_puerperal_infection.csv,pregnancy complications,Major puerperal infection
+clean_data/malaise_and_fatigue.csv,symptoms,Malaise and fatigue
+clean_data/male_infertility_and_abnormal_spermatozoa.csv,genitourinary,Male infertility and abnormal spermatozoa
+clean_data/malignant_neoplasm_of_bladder.csv,neoplasms,Malignant neoplasm of bladder
+clean_data/malignant_neoplasm_of_female_breast.csv,neoplasms,Malignant neoplasm of female breast
+clean_data/malignant_neoplasm_of_gallbladder_and_extrahepatic_bile_ducts.csv,neoplasms,Malignant neoplasm of gallbladder and extrahepatic bile ducts
+clean_data/malignant_neoplasm_of_head_face_and_neck.csv,neoplasms,"Malignant neoplasm of head, face, and neck"
+clean_data/malignant_neoplasm_of_kidney_except_pelvis.csv,neoplasms,"Malignant neoplasm of kidney, except pelvis"
+clean_data/malignant_neoplasm_of_liver_primary.csv,neoplasms,"Malignant neoplasm of liver, primary"
+clean_data/malignant_neoplasm_of_other_and_ill_defined_sites_within_the_digestive_organs_and_peritoneum.csv,neoplasms,Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum
+clean_data/malignant_neoplasm_of_other_urinary_organs.csv,neoplasms,Malignant neoplasm of other urinary organs
+clean_data/malignant_neoplasm_of_ovary.csv,neoplasms,Malignant neoplasm of ovary
+clean_data/malignant_neoplasm_of_ovary_and_other_uterine_adnexa.csv,neoplasms,Malignant neoplasm of ovary and other uterine adnexa
+clean_data/malignant_neoplasm_of_rectum_rectosigmoid_junction_and_anus.csv,neoplasms,"Malignant neoplasm of rectum, rectosigmoid junction, and anus"
+clean_data/malignant_neoplasm_of_renal_pelvis.csv,neoplasms,Malignant neoplasm of renal pelvis
+clean_data/malignant_neoplasm_of_retroperitoneum_and_peritoneum.csv,neoplasms,Malignant neoplasm of retroperitoneum and peritoneum
+clean_data/malignant_neoplasm_of_small_intestine_including_duodenum.csv,neoplasms,"Malignant neoplasm of small intestine, including duodenum"
+clean_data/malignant_neoplasm_of_testis.csv,neoplasms,Malignant neoplasm of testis
+clean_data/malignant_neoplasm_of_unspecified_male_genital_organ.csv,neoplasms,Malignant neoplasm of unspecified male genital organ
+clean_data/malignant_neoplasm_of_uterus.csv,neoplasms,Malignant neoplasm of uterus
+clean_data/malignant_neoplasm_other.csv,neoplasms,"Malignant neoplasm, other"
+clean_data/malunion_and_nonunion_of_fracture.csv,musculoskeletal,Malunion and nonunion of fracture
+clean_data/mammographic_microcalcification.csv,genitourinary,Mammographic microcalcification
+clean_data/manlignant_and_unknown_neoplasms_of_brain_and_nervous_system.csv,neoplasms,Manlignant and unknown neoplasms of brain and nervous system
+clean_data/mastodynia.csv,genitourinary,Mastodynia
+clean_data/mastoiditis__related_conditions.csv,sense organs,Mastoiditis & related conditions
+clean_data/mechanical_complication_of_unspecified_genitourinary_device_implant_and_graft.csv,injuries & poisonings,"Mechanical complication of unspecified genitourinary device, implant, and graft"
+clean_data/medulloadrenal_hyperfunction.csv,endocrine/metabolic,Medulloadrenal hyperfunction
+clean_data/megaloblastic_anemia.csv,hematopoietic,Megaloblastic anemia
+clean_data/melanomas_of_skin.csv,neoplasms,Melanomas of skin
+clean_data/melanomas_of_skin_dx_or_hx.csv,neoplasms,"Melanomas of skin, dx or hx"
+clean_data/memory_loss.csv,mental disorders,Memory loss
+clean_data/menieres_disease.csv,sense organs,Meniere's disease
+clean_data/meningitis.csv,neurological,Meningitis
+clean_data/menopausal_and_postmenopausal_disorders.csv,genitourinary,Menopausal and postmenopausal disorders
+clean_data/mental_disorders_durringafter_pregnancy.csv,mental disorders,Mental disorders durring/after pregnancy
+clean_data/mental_retardation.csv,mental disorders,Mental retardation
+clean_data/microscopic_hematuria.csv,genitourinary,Microscopic hematuria
+clean_data/migrain_with_aura.csv,neurological,Migrain with aura
+clean_data/migraine.csv,neurological,Migraine
+clean_data/mild_cognitive_impairment.csv,mental disorders,Mild cognitive impairment
+clean_data/mineral_deficiency_nec.csv,endocrine/metabolic,Mineral deficiency NEC
+clean_data/mineralocorticoid_deficiency.csv,endocrine/metabolic,Mineralocorticoid deficiency
+clean_data/miscarriage_stillbirth.csv,pregnancy complications,Miscarriage; stillbirth
+clean_data/missed_abortionhydatidiform_mole.csv,pregnancy complications,Missed abortion/Hydatidiform mole
+clean_data/mitral_valve_disease.csv,circulatory system,Mitral valve disease
+clean_data/mitral_valve_stenosis_and_aortic_valve_stenosis.csv,circulatory system,Mitral valve stenosis and aortic valve stenosis
+clean_data/mittelschmerz.csv,genitourinary,Mittelschmerz
+clean_data/mixed_hyperlipidemia.csv,endocrine/metabolic,Mixed hyperlipidemia
+clean_data/mobitz_ii_av_block.csv,circulatory system,Mobitz II AV block
+clean_data/monocytic_leukemia.csv,neoplasms,Monocytic leukemia
+clean_data/mood_disorders.csv,mental disorders,Mood disorders
+clean_data/morbid_obesity.csv,endocrine/metabolic,Morbid obesity
+clean_data/moyamoya_disease.csv,circulatory system,Moyamoya disease
+clean_data/mrsa_pneumonia.csv,respiratory,MRSA pneumonia
+clean_data/mucous_polyp_of_cervix.csv,genitourinary,Mucous polyp of cervix
+clean_data/multiple_myeloma.csv,neoplasms,Multiple myeloma
+clean_data/multiple_sclerosis.csv,neurological,Multiple sclerosis
+clean_data/muscle_weakness.csv,symptoms,Muscle weakness
+clean_data/muscletendon_sprain.csv,injuries & poisonings,Muscle/tendon sprain
+clean_data/muscular_calcification_and_ossification.csv,musculoskeletal,Muscular calcification and ossification
+clean_data/muscular_dystrophies.csv,neurological,Muscular dystrophies
+clean_data/muscular_dystrophies_and_other_myopathies.csv,neurological,Muscular dystrophies and other myopathies
+clean_data/muscular_wasting_and_disuse_atrophy.csv,symptoms,Muscular wasting and disuse atrophy
+clean_data/musculoskeletal_symptoms_referable_to_limbs.csv,symptoms,Musculoskeletal symptoms referable to limbs
+clean_data/myalgia_and_myositis_unspecified.csv,symptoms,Myalgia and myositis unspecified
+clean_data/myasthenia_gravis.csv,neurological,Myasthenia gravis
+clean_data/mycoses.csv,infectious diseases,Mycoses
+clean_data/myelofibrosis.csv,hematopoietic,Myelofibrosis
+clean_data/myeloid_leukemia.csv,neoplasms,Myeloid leukemia
+clean_data/myeloid_leukemia_acute.csv,neoplasms,"Myeloid leukemia, acute"
+clean_data/myeloid_leukemia_chronic.csv,neoplasms,"Myeloid leukemia, chronic"
+clean_data/myeloproliferative_disease.csv,neoplasms,Myeloproliferative disease
+clean_data/myocardial_infarction.csv,circulatory system,Myocardial infarction
+clean_data/myocarditis.csv,circulatory system,Myocarditis
+clean_data/myoclonus.csv,neurological,Myoclonus
+clean_data/myoneural_disorders.csv,neurological,Myoneural disorders
+clean_data/myopathy.csv,neurological,Myopathy
+clean_data/myopia.csv,sense organs,Myopia
+clean_data/myringitis.csv,sense organs,Myringitis
+clean_data/nasal_polyps.csv,respiratory,Nasal polyps
+clean_data/nausea_and_vomiting.csv,symptoms,Nausea and vomiting
+clean_data/need_for_hormone_replacement_therapy_postmenopausal.csv,genitourinary,Need for Hormone replacement therapy (postmenopausal)
+clean_data/neoplasm_of_uncertain_behavior.csv,neoplasms,Neoplasm of uncertain behavior
+clean_data/neoplasm_of_uncertain_behavior_of_breast.csv,neoplasms,Neoplasm of uncertain behavior of breast
+clean_data/neoplasm_of_uncertain_behavior_of_male_genital_organs.csv,neoplasms,Neoplasm of uncertain behavior of male genital organs
+clean_data/neoplasm_of_uncertain_behavior_of_skin.csv,neoplasms,Neoplasm of uncertain behavior of skin
+clean_data/neoplasm_of_unspecified_nature_of_digestive_system.csv,neoplasms,Neoplasm of unspecified nature of digestive system
+clean_data/nephritis_and_nephropathy_in_diseases_classified_elsewhere.csv,genitourinary,Nephritis and nephropathy in diseases classified elsewhere
+clean_data/nephritis_and_nephropathy_with_pathological_lesion.csv,genitourinary,Nephritis and nephropathy with pathological lesion
+clean_data/nephritis_and_nephropathy_without_mention_of_glomerulonephritis.csv,genitourinary,Nephritis and nephropathy without mention of glomerulonephritis
+clean_data/nephritis_nephrosis_renal_sclerosis.csv,genitourinary,Nephritis; nephrosis; renal sclerosis
+clean_data/nephrotic_syndrome_without_mention_of_glomerulonephritis.csv,genitourinary,Nephrotic syndrome without mention of glomerulonephritis
+clean_data/nerve_plexus_lesions.csv,neurological,Nerve plexus lesions
+clean_data/nerve_root_and_plexus_disorders.csv,neurological,Nerve root and plexus disorders
+clean_data/nerve_root_lesions.csv,neurological,Nerve root lesions
+clean_data/nervous_system_congenital_anomalies.csv,congenital anomalies,Nervous system congenital anomalies
+clean_data/neural_tube_defects.csv,congenital anomalies,Neural tube defects
+clean_data/neuralgia_neuritis_and_radiculitis_nos.csv,symptoms,"Neuralgia, neuritis, and radiculitis NOS"
+clean_data/neuroendocrine_tumors.csv,neoplasms,Neuroendocrine tumors
+clean_data/neurofibromatosis.csv,neoplasms,Neurofibromatosis
+clean_data/neurological_disorders.csv,mental disorders,Neurological disorders
+clean_data/neutropenia.csv,hematopoietic,Neutropenia
+clean_data/nevus_non_neoplastic.csv,neoplasms,"Nevus, non-neoplastic"
+clean_data/nodular_lymphoma.csv,neoplasms,Nodular lymphoma
+clean_data/non_autoimmune_hemolytic_anemias.csv,hematopoietic,Non-autoimmune hemolytic anemias
+clean_data/non_healing_surgical_wound.csv,injuries & poisonings,Non-healing surgical wound
+clean_data/non_hodgkins_lymphoma.csv,neoplasms,Non-Hodgkins lymphoma
+clean_data/non_proliferative_glomerulonephritis.csv,genitourinary,Non-proliferative glomerulonephritis
+clean_data/nonallopathic_lesions_nec.csv,symptoms,Nonallopathic lesions NEC
+clean_data/noninfectious_dermatoses_of_eyelid.csv,sense organs,Noninfectious dermatoses of eyelid
+clean_data/noninfectious_disorders_of_lymphatic_channels.csv,circulatory system,Noninfectious disorders of lymphatic channels
+clean_data/noninfectious_gastroenteritis.csv,digestive,Noninfectious gastroenteritis
+clean_data/noninflammatory_disorders_of_cervix.csv,genitourinary,Noninflammatory disorders of cervix
+clean_data/noninflammatory_disorders_of_ovary_fallopian_tube_and_broad_ligament.csv,genitourinary,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+clean_data/noninflammatory_disorders_of_vagina.csv,genitourinary,Noninflammatory disorders of vagina
+clean_data/noninflammatory_disorders_of_vulva_and_perineum.csv,genitourinary,Noninflammatory disorders of vulva and perineum
+clean_data/noninflammatory_female_genital_disorders.csv,genitourinary,Noninflammatory female genital disorders
+clean_data/nonrheumatic_aortic_valve_disorders.csv,circulatory system,Nonrheumatic aortic valve disorders
+clean_data/nonrheumatic_mitral_valve_disorders.csv,circulatory system,Nonrheumatic mitral valve disorders
+clean_data/nonrheumatic_pulmonary_valve_disorders.csv,circulatory system,Nonrheumatic pulmonary valve disorders
+clean_data/nonrheumatic_tricuspid_valve_disorders.csv,circulatory system,Nonrheumatic tricuspid valve disorders
+clean_data/nonsenile_cataract.csv,sense organs,Nonsenile Cataract
+clean_data/nonspecific_abnormal_findings_in_cerebrospinal_fluid.csv,neurological,Nonspecific abnormal findings in cerebrospinal fluid
+clean_data/nonspecific_abnormal_findings_in_stool_contents.csv,digestive,Nonspecific abnormal findings in stool contents
+clean_data/nonspecific_abnormal_findings_on_radiological_and_other_examination_of_biliary_tract.csv,digestive,Nonspecific abnormal findings on radiological and other examination of biliary tract
+clean_data/nonspecific_abnormal_findings_on_radiological_and_other_examination_of_skull_and_head.csv,neurological,Nonspecific abnormal findings on radiological and other examination of skull and head
+clean_data/nonspecific_abnormal_results_of_function_study_of_brain_and_central_nervous_system.csv,neurological,Nonspecific abnormal results of function study of brain and central nervous system
+clean_data/nonspecific_abnormal_results_of_other_endocrine_function_study.csv,endocrine/metabolic,Nonspecific abnormal results of other endocrine function study
+clean_data/nonspecific_chest_pain.csv,circulatory system,Nonspecific chest pain
+clean_data/nonspecific_elevation_of_levels_of_transaminase_or_lactic_acid_dehydrogenase_ldh.csv,digestive,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+clean_data/nonspecific_findings_on_examination_of_blood.csv,symptoms,Nonspecific findings on examination of blood
+clean_data/nontoxic_multinodular_goiter.csv,endocrine/metabolic,Nontoxic multinodular goiter
+clean_data/nontoxic_nodular_goiter.csv,endocrine/metabolic,Nontoxic nodular goiter
+clean_data/nontoxic_uninodular_goiter.csv,endocrine/metabolic,Nontoxic uninodular goiter
+clean_data/nontraumatic_compartment_syndrome.csv,musculoskeletal,Nontraumatic compartment syndrome
+clean_data/nutritional_marasmus.csv,endocrine/metabolic,Nutritional marasmus
+clean_data/nystagmus_and_other_irregular_eye_movements.csv,sense organs,Nystagmus and other irregular eye movements
+clean_data/obesity.csv,endocrine/metabolic,Obesity
+clean_data/obsessive_compulsive_disorders.csv,mental disorders,Obsessive-compulsive disorders
+clean_data/obstruction_of_bile_duct.csv,digestive,Obstruction of bile duct
+clean_data/obstructive_chronic_bronchitis.csv,respiratory,Obstructive chronic bronchitis
+clean_data/obstructive_genitourinary_defect.csv,congenital anomalies,Obstructive genitourinary defect
+clean_data/obstructive_sleep_apnea.csv,neurological,Obstructive sleep apnea
+clean_data/occlusion_and_stenosis_of_precerebral_arteries.csv,circulatory system,Occlusion and stenosis of precerebral arteries
+clean_data/occlusion_of_cerebral_arteries.csv,circulatory system,Occlusion of cerebral arteries
+clean_data/occlusion_of_cerebral_arteries_with_cerebral_infarction.csv,circulatory system,"Occlusion of cerebral arteries, with cerebral infarction"
+clean_data/oliguria_and_anuria.csv,genitourinary,Oliguria and anuria
+clean_data/open_angle_glaucoma.csv,sense organs,Open-angle glaucoma
+clean_data/open_wound_of_ear.csv,injuries & poisonings,Open wound of ear
+clean_data/open_wound_of_fingers.csv,injuries & poisonings,Open wound of finger(s)
+clean_data/open_wound_of_foot_except_toes_alone.csv,injuries & poisonings,Open wound of foot except toe(s) alone
+clean_data/open_wound_of_genital_organs.csv,injuries & poisonings,Open wound of genital organs
+clean_data/open_wound_of_hand_except_fingers.csv,injuries & poisonings,Open wound of hand except finger(s)
+clean_data/open_wound_of_lip_and_mouth.csv,injuries & poisonings,Open wound of lip and mouth
+clean_data/open_wound_of_neck.csv,injuries & poisonings,Open wound of neck
+clean_data/open_wound_of_nose_and_sinus.csv,injuries & poisonings,Open wound of nose and sinus
+clean_data/open_wound_of_toes.csv,injuries & poisonings,Open wound of toe(s)
+clean_data/open_wound_or_laceration_of_eye_or_eyelid.csv,injuries & poisonings,Open wound or laceration of eye or eyelid
+clean_data/open_wounds_of_extremities.csv,injuries & poisonings,Open wounds of extremities
+clean_data/open_wounds_of_head_neck_and_trunk.csv,injuries & poisonings,Open wounds of head; neck; and trunk
+clean_data/opiates_and_related_narcotics_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Opiates and related narcotics causing adverse effects in therapeutic use
+clean_data/optic_atrophy.csv,sense organs,Optic atrophy
+clean_data/optic_neuritisneuropathy.csv,sense organs,Optic neuritis/neuropathy
+clean_data/oral_aphthae.csv,digestive,Oral aphthae
+clean_data/orchitis_and_epididymitis.csv,genitourinary,Orchitis and epididymitis
+clean_data/organic_or_persistent_insomnia.csv,neurological,Organic or persistent insomnia
+clean_data/orthopnea.csv,respiratory,Orthopnea
+clean_data/orthostatic_hypotension.csv,circulatory system,Orthostatic hypotension
+clean_data/osteitis_deformans_and_osteopathies_associated_with_other_disorders_classified_elsewhere.csv,musculoskeletal,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+clean_data/osteitis_deformans_pagets_disease_of_bone.csv,musculoskeletal,Osteitis deformans [Paget's disease of bone]
+clean_data/osteoarthritis_localized.csv,musculoskeletal,Osteoarthritis; localized
+clean_data/osteoarthrosis.csv,musculoskeletal,Osteoarthrosis
+clean_data/osteoarthrosis_generalized.csv,musculoskeletal,"Osteoarthrosis, generalized"
+clean_data/osteoarthrosis_involving_more_than_one_site_but_not_specified_as_generalized.csv,musculoskeletal,"Osteoarthrosis involving more than one site, but not specified as generalized"
+clean_data/osteoarthrosis_localized_primary.csv,musculoskeletal,"Osteoarthrosis, localized, primary"
+clean_data/osteoarthrosis_localized_secondary.csv,musculoskeletal,"Osteoarthrosis, localized, secondary"
+clean_data/osteoarthrosis_nos.csv,musculoskeletal,Osteoarthrosis NOS
+clean_data/osteochondritis_dissecans.csv,musculoskeletal,Osteochondritis dissecans
+clean_data/osteochondropathies.csv,musculoskeletal,Osteochondropathies
+clean_data/osteomyelitis.csv,musculoskeletal,Osteomyelitis
+clean_data/osteomyelitis_periostitis_and_other_infections_involving_bone.csv,musculoskeletal,"Osteomyelitis, periostitis, and other infections involving bone"
+clean_data/osteopenia_or_other_disorder_of_bone_and_cartilage.csv,musculoskeletal,Osteopenia or other disorder of bone and cartilage
+clean_data/osteoporosis.csv,musculoskeletal,Osteoporosis
+clean_data/osteoporosis_nos.csv,musculoskeletal,Osteoporosis NOS
+clean_data/osteoporosis_osteopenia_and_pathological_fracture.csv,musculoskeletal,"Osteoporosis, osteopenia and pathological fracture"
+clean_data/otalgia.csv,sense organs,Otalgia
+clean_data/other_abnormal_blood_chemistry.csv,symptoms,Other abnormal blood chemistry
+clean_data/other_abnormal_glucose.csv,endocrine/metabolic,Other abnormal glucose
+clean_data/other_abnormality_of_urination.csv,genitourinary,Other abnormality of urination
+clean_data/other_acquired_deformities_of_limbs.csv,musculoskeletal,Other acquired deformities of limbs
+clean_data/other_acquired_musculoskeletal_deformity.csv,musculoskeletal,Other acquired musculoskeletal deformity
+clean_data/other_acute_and_subacute_forms_of_ischemic_heart_disease.csv,circulatory system,Other acute and subacute forms of ischemic heart disease
+clean_data/other_allied_disorders_of_spine.csv,musculoskeletal,Other allied disorders of spine
+clean_data/other_alveolar_and_parietoalveolar_pneumonopathy.csv,respiratory,Other alveolar and parietoalveolar pneumonopathy
+clean_data/other_and_nonspecific_abnormal_cytological_histological_and_immunological_findings.csv,symptoms,"Other and nonspecific abnormal cytological, histological and immunological findings"
+clean_data/other_and_unspecified_coagulation_defects.csv,hematopoietic,Other and unspecified coagulation defects
+clean_data/other_and_unspecified_complications_of_birth_puerperium_affecting_management_of_mother.csv,pregnancy complications,Other and unspecified complications of birth; puerperium affecting management of mother
+clean_data/other_and_unspecified_congenital_anomalies.csv,congenital anomalies,Other and unspecified congenital anomalies
+clean_data/other_and_unspecified_disc_disorder.csv,musculoskeletal,Other and unspecified disc disorder
+clean_data/other_and_unspecified_disorders_of_back.csv,musculoskeletal,Other and unspecified disorders of back
+clean_data/other_and_unspecified_disorders_of_the_nervous_system.csv,neurological,Other and unspecified disorders of the nervous system
+clean_data/other_anemias.csv,hematopoietic,Other anemias
+clean_data/other_aneurysm.csv,circulatory system,Other aneurysm
+clean_data/other_arthropathies.csv,musculoskeletal,Other arthropathies
+clean_data/other_benign_neoplasm_of_connective_and_other_soft_tissue.csv,neoplasms,Other benign neoplasm of connective and other soft tissue
+clean_data/other_benign_neoplasm_of_uterus.csv,neoplasms,Other benign neoplasm of uterus
+clean_data/other_biliary_tract_disease.csv,digestive,Other biliary tract disease
+clean_data/other_cardiac_conduction_disorders.csv,circulatory system,Other cardiac conduction disorders
+clean_data/other_cardiomyopathy.csv,circulatory system,Other cardiomyopathy
+clean_data/other_cells_and_casts_in_urine.csv,genitourinary,Other cells and casts in urine
+clean_data/other_cerebral_degenerations.csv,neurological,Other cerebral degenerations
+clean_data/other_chronic_ischemic_heart_disease_unspecified.csv,circulatory system,"Other chronic ischemic heart disease, unspecified"
+clean_data/other_chronic_nonalcoholic_liver_disease.csv,digestive,Other chronic nonalcoholic liver disease
+clean_data/other_cns_infection_and_poliomyelitis.csv,neurological,Other CNS infection and poliomyelitis
+clean_data/other_complications_of_pregnancy_nec.csv,pregnancy complications,Other complications of pregnancy NEC
+clean_data/other_complications_of_the_puerperium_nec.csv,pregnancy complications,Other complications of the puerperium NEC
+clean_data/other_conditions_of_brain.csv,neurological,Other conditions of brain
+clean_data/other_conditions_of_brain_nos.csv,neurological,"Other conditions of brain, NOS"
+clean_data/other_conditions_or_status_of_the_mother_complicating_pregnancy_childbirth_or_the_puerperium.csv,pregnancy complications,"Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium"
+clean_data/other_congenital_anomalies_of_lower_limb_including_pelvic_girdle.csv,congenital anomalies,"Other congenital anomalies of lower limb, including pelvic girdle"
+clean_data/other_congenital_musculoskeletal_anomalies.csv,congenital anomalies,Other congenital musculoskeletal anomalies
+clean_data/other_deficiencies_of_circulating_enzymes.csv,endocrine/metabolic,Other deficiencies of circulating enzymes
+clean_data/other_deficiency_anemia.csv,hematopoietic,Other deficiency anemia
+clean_data/other_degenerative_diseases_of_the_basal_ganglia.csv,neurological,Other degenerative diseases of the basal ganglia
+clean_data/other_demyelinating_diseases_of_central_nervous_system.csv,neurological,Other demyelinating diseases of central nervous system
+clean_data/other_derangement_of_joint.csv,musculoskeletal,Other derangement of joint
+clean_data/other_diseases_of_blood_and_blood_forming_organs.csv,hematopoietic,Other diseases of blood and blood-forming organs
+clean_data/other_diseases_of_lung.csv,respiratory,Other diseases of lung
+clean_data/other_diseases_of_respiratory_system_nec.csv,respiratory,"Other diseases of respiratory system, NEC"
+clean_data/other_diseases_of_respiratory_system_not_elsewhere_classified.csv,respiratory,"Other diseases of respiratory system, not elsewhere classified"
+clean_data/other_diseases_of_the_teeth_and_supporting_structures.csv,digestive,Other diseases of the teeth and supporting structures
+clean_data/other_disorders_of_arteries_and_arterioles.csv,circulatory system,Other disorders of arteries and arterioles
+clean_data/other_disorders_of_biliary_tract.csv,digestive,Other disorders of biliary tract
+clean_data/other_disorders_of_bladder.csv,genitourinary,Other disorders of bladder
+clean_data/other_disorders_of_bone_and_cartilage.csv,musculoskeletal,Other disorders of bone and cartilage
+clean_data/other_disorders_of_carbohydrate_transport_and_metabolism.csv,endocrine/metabolic,Other disorders of carbohydrate transport and metabolism
+clean_data/other_disorders_of_cervical_region.csv,musculoskeletal,Other disorders of cervical region
+clean_data/other_disorders_of_circulatory_system.csv,circulatory system,Other disorders of circulatory system
+clean_data/other_disorders_of_ear.csv,sense organs,Other disorders of ear
+clean_data/other_disorders_of_eye.csv,sense organs,Other disorders of eye
+clean_data/other_disorders_of_eyelids.csv,sense organs,Other disorders of eyelids
+clean_data/other_disorders_of_gallbladder.csv,digestive,Other disorders of gallbladder
+clean_data/other_disorders_of_intestine.csv,digestive,Other disorders of intestine
+clean_data/other_disorders_of_lipoid_metabolism.csv,endocrine/metabolic,Other disorders of lipoid metabolism
+clean_data/other_disorders_of_liver.csv,digestive,Other disorders of liver
+clean_data/other_disorders_of_male_genital_organs.csv,genitourinary,Other disorders of male genital organs
+clean_data/other_disorders_of_metabolism.csv,endocrine/metabolic,Other disorders of metabolism
+clean_data/other_disorders_of_middle_ear_and_mastoid.csv,sense organs,Other disorders of middle ear and mastoid
+clean_data/other_disorders_of_neurohypophysis.csv,endocrine/metabolic,Other disorders of neurohypophysis
+clean_data/other_disorders_of_pancreatic_internal_secretion.csv,endocrine/metabolic,Other disorders of pancreatic internal secretion
+clean_data/other_disorders_of_peritoneum.csv,digestive,Other disorders of peritoneum
+clean_data/other_disorders_of_prostate.csv,genitourinary,Other disorders of prostate
+clean_data/other_disorders_of_soft_tissues.csv,musculoskeletal,Other disorders of soft tissues
+clean_data/other_disorders_of_stomach_and_duodenum.csv,digestive,Other disorders of stomach and duodenum
+clean_data/other_disorders_of_synovium_tendon_and_bursa.csv,musculoskeletal,"Other disorders of synovium, tendon, and bursa"
+clean_data/other_disorders_of_testis.csv,genitourinary,Other disorders of testis
+clean_data/other_disorders_of_the_breast_associated_with_childbirth_and_disorders_of_lactation.csv,pregnancy complications,Other disorders of the breast associated with childbirth and disorders of lactation
+clean_data/other_disorders_of_the_kidney_and_ureters.csv,genitourinary,Other disorders of the kidney and ureters
+clean_data/other_disorders_of_thyroid.csv,endocrine/metabolic,Other disorders of thyroid
+clean_data/other_disorders_of_tympanic_membrane.csv,sense organs,Other disorders of tympanic membrane
+clean_data/other_disorders_of_urethra_and_urinary_tract.csv,genitourinary,Other disorders of urethra and urinary tract
+clean_data/other_dyschromia.csv,dermatologic,Other dyschromia
+clean_data/other_dyspnea.csv,respiratory,Other dyspnea
+clean_data/other_endocrine_disorders.csv,endocrine/metabolic,Other endocrine disorders
+clean_data/other_forms_of_chronic_heart_disease.csv,circulatory system,Other forms of chronic heart disease
+clean_data/other_headache_syndromes.csv,neurological,Other headache syndromes
+clean_data/other_heart_block.csv,circulatory system,Other heart block
+clean_data/other_hemoglobinopathies.csv,hematopoietic,Other hemoglobinopathies
+clean_data/other_hereditary_hemolytic_anemias.csv,hematopoietic,Other hereditary hemolytic anemias
+clean_data/other_hypertensive_complications.csv,circulatory system,Other hypertensive complications
+clean_data/other_hypertrophic_and_atrophic_conditions_of_skin.csv,dermatologic,Other hypertrophic and atrophic conditions of skin
+clean_data/other_hypertrophic_cardiomyopathy.csv,circulatory system,Other hypertrophic cardiomyopathy
+clean_data/other_immunological_findings.csv,endocrine/metabolic,Other immunological findings
+clean_data/other_infectious_and_parasitic_diseases.csv,infectious diseases,Other infectious and parasitic diseases
+clean_data/other_inflammatory_disorders_of_male_genital_organs.csv,genitourinary,Other inflammatory disorders of male genital organs
+clean_data/other_inflammatory_spondylopathies.csv,musculoskeletal,Other inflammatory spondylopathies
+clean_data/other_intestinal_obstruction.csv,digestive,Other intestinal obstruction
+clean_data/other_local_infections_of_skin_and_subcutaneous_tissue.csv,dermatologic,Other local infections of skin and subcutaneous tissue
+clean_data/other_mental_disorder.csv,mental disorders,Other mental disorder
+clean_data/other_non_epithelial_cancer_of_skin.csv,neoplasms,Other non-epithelial cancer of skin
+clean_data/other_nondiabetic_retinopathy.csv,sense organs,Other nondiabetic retinopathy
+clean_data/other_nonmalignant_breast_conditions.csv,genitourinary,Other nonmalignant breast conditions
+clean_data/other_nutritional_deficiency.csv,endocrine/metabolic,Other nutritional deficiency
+clean_data/other_open_wound_of_head_and_face.csv,injuries & poisonings,Other open wound of head and face
+clean_data/other_paralytic_syndromes.csv,neurological,Other paralytic syndromes
+clean_data/other_perinatal_conditions_of_fetus_or_newborn.csv,pregnancy complications,Other perinatal conditions of fetus or newborn
+clean_data/other_peripheral_nerve_disorders.csv,neurological,Other peripheral nerve disorders
+clean_data/other_persistent_mental_disorders_due_to_conditions_classified_elsewhere.csv,mental disorders,Other persistent mental disorders due to conditions classified elsewhere
+clean_data/other_pulmonary_inflamation_or_edema.csv,respiratory,Other pulmonary inflamation or edema
+clean_data/other_retinal_disorders.csv,sense organs,Other retinal disorders
+clean_data/other_signs_and_symptoms_in_breast.csv,genitourinary,Other signs and symptoms in breast
+clean_data/other_specified_benign_mammary_dysplasias.csv,genitourinary,Other specified benign mammary dysplasias
+clean_data/other_specified_cardiac_dysrhythmias.csv,circulatory system,Other specified cardiac dysrhythmias
+clean_data/other_specified_congenital_anomalies_of_kidney.csv,congenital anomalies,Other specified congenital anomalies of kidney
+clean_data/other_specified_congenital_anomalies_of_nervous_system.csv,congenital anomalies,Other specified congenital anomalies of nervous system
+clean_data/other_specified_diffuse_diseases_of_connective_tissue.csv,dermatologic,Other specified diffuse diseases of connective tissue
+clean_data/other_specified_diseases_of_hair_and_hair_follicles.csv,dermatologic,Other specified diseases of hair and hair follicles
+clean_data/other_specified_diseases_of_sebaceous_glands.csv,dermatologic,Other specified diseases of sebaceous glands
+clean_data/other_specified_diseases_of_the_salivary_glands.csv,digestive,Other specified diseases of the salivary glands
+clean_data/other_specified_disorders_involving_the_immune_mechanism.csv,endocrine/metabolic,Other specified disorders involving the immune mechanism
+clean_data/other_specified_disorders_of_breast.csv,genitourinary,Other specified disorders of breast
+clean_data/other_specified_disorders_of_plasma_protein_metabolism.csv,endocrine/metabolic,Other specified disorders of plasma protein metabolism
+clean_data/other_specified_erythematous_conditions.csv,dermatologic,Other specified erythematous conditions
+clean_data/other_specified_gastritis.csv,digestive,Other specified gastritis
+clean_data/other_specified_nonpsychotic_andor_transient_mental_disorders.csv,mental disorders,Other specified nonpsychotic and/or transient mental disorders
+clean_data/other_specified_osteoporosis.csv,musculoskeletal,Other specified osteoporosis
+clean_data/other_specified_peripheral_vascular_diseases.csv,circulatory system,Other specified peripheral vascular diseases
+clean_data/other_sprains_and_strains.csv,injuries & poisonings,Other sprains and strains
+clean_data/other_symptoms_involving_abdomen_and_pelvis.csv,digestive,Other symptoms involving abdomen and pelvis
+clean_data/other_symptoms_involving_urinary_system.csv,genitourinary,Other symptoms involving urinary system
+clean_data/other_symptoms_of_respiratory_system.csv,respiratory,Other symptoms of respiratory system
+clean_data/other_symptoms_referable_to_back.csv,musculoskeletal,Other symptoms referable to back
+clean_data/other_symptomsdisorders_or_the_urinary_system.csv,genitourinary,Other symptoms/disorders or the urinary system
+clean_data/other_unspecified_back_disorders.csv,musculoskeletal,Other unspecified back disorders
+clean_data/other_upper_respiratory_disease.csv,respiratory,Other upper respiratory disease
+clean_data/other_venous_embolism_and_thrombosis.csv,circulatory system,Other venous embolism and thrombosis
+clean_data/other_vitamin_b12_deficiency_anemia.csv,hematopoietic,Other vitamin B12 deficiency anemia
+clean_data/otitis_externa.csv,sense organs,Otitis externa
+clean_data/otitis_media.csv,sense organs,Otitis media
+clean_data/otitis_media_and_eustachian_tube_disorders.csv,sense organs,Otitis media and Eustachian tube disorders
+clean_data/otorrhea.csv,sense organs,Otorrhea
+clean_data/otosclerosis.csv,sense organs,Otosclerosis
+clean_data/ovarian_cyst.csv,genitourinary,Ovarian cyst
+clean_data/ovarian_dysfunction.csv,endocrine/metabolic,Ovarian dysfunction
+clean_data/overweight_obesity_and_other_hyperalimentation.csv,endocrine/metabolic,"Overweight, obesity and other hyperalimentation"
+clean_data/pain.csv,neurological,Pain
+clean_data/pain_and_other_symptoms_associated_with_female_genital_organs.csv,genitourinary,Pain and other symptoms associated with female genital organs
+clean_data/pain_in_joint.csv,musculoskeletal,Pain in joint
+clean_data/pain_swelling_or_discharge_of_eye.csv,sense organs,"Pain, swelling or discharge of eye"
+clean_data/painful_respiration.csv,respiratory,Painful respiration
+clean_data/palindromic_rheumatism.csv,musculoskeletal,Palindromic rheumatism
+clean_data/pallor_and_flushing.csv,symptoms,Pallor and flushing
+clean_data/palpitations.csv,circulatory system,Palpitations
+clean_data/pancreatic_cancer.csv,neoplasms,Pancreatic cancer
+clean_data/pancytopenia.csv,hematopoietic,Pancytopenia
+clean_data/panniculitis.csv,musculoskeletal,Panniculitis
+clean_data/papanicolaou_smear_of_cervix_or_vagina_with_atypical_squamous_cells.csv,genitourinary,Papanicolaou smear of cervix or vagina with atypical squamous cells
+clean_data/paralysisspasm_of_vocal_cords_or_larynx.csv,respiratory,Paralysis/spasm of vocal cords or larynx
+clean_data/paralytic_ileus.csv,digestive,Paralytic ileus
+clean_data/paralytic_strabismus.csv,sense organs,Paralytic strabismus
+clean_data/paranoid_disorders.csv,mental disorders,Paranoid disorders
+clean_data/paraproteinemia.csv,endocrine/metabolic,Paraproteinemia
+clean_data/parapsoriasis.csv,dermatologic,Parapsoriasis
+clean_data/parasomnia.csv,neurological,Parasomnia
+clean_data/parkinsons_disease.csv,neurological,Parkinson's disease
+clean_data/paroxysmal_supraventricular_tachycardia.csv,circulatory system,Paroxysmal supraventricular tachycardia
+clean_data/paroxysmal_tachycardia_unspecified.csv,circulatory system,"Paroxysmal tachycardia, unspecified"
+clean_data/paroxysmal_ventricular_tachycardia.csv,circulatory system,Paroxysmal ventricular tachycardia
+clean_data/partial_epilepsy.csv,neurological,Partial epilepsy
+clean_data/pathologic_fracture.csv,musculoskeletal,Pathologic fracture
+clean_data/pathologic_fracture_of_femur.csv,musculoskeletal,Pathologic fracture of femur
+clean_data/pathologic_fracture_of_vertebrae.csv,musculoskeletal,Pathologic fracture of vertebrae
+clean_data/pathological_developmental_or_recurrent_dislocation.csv,musculoskeletal,"Pathological, developmental or recurrent dislocation"
+clean_data/pectus_and_other_congenital_anomalies_of_ribssternum.csv,congenital anomalies,Pectus and other congenital anomalies of ribs/sternum
+clean_data/pectus_excavatum.csv,congenital anomalies,Pectus excavatum
+clean_data/pediculosis_and_phthirus_infestation.csv,infectious diseases,Pediculosis and phthirus infestation
+clean_data/pelvic_inflammatory_disease_nos.csv,genitourinary,"Pelvic inflammatory disease, NOS"
+clean_data/pelvic_inflammatory_disease_pid.csv,genitourinary,Pelvic inflammatory disease (PID)
+clean_data/pelvic_peritoneal_adhesions_female_postoperative_postinfection.csv,genitourinary,"Pelvic peritoneal adhesions, female (postoperative) (postinfection)"
+clean_data/pemphigus_and_pemphigoid.csv,dermatologic,Pemphigus and pemphigoid
+clean_data/peptic_ulcer_excl_esophageal.csv,digestive,Peptic ulcer (excl. esophageal)
+clean_data/peptic_ulcer_site_unspecified.csv,digestive,"Peptic ulcer, site unspecified"
+clean_data/perforation_of_tympanic_membrane.csv,sense organs,Perforation of tympanic membrane
+clean_data/periapical_abscess.csv,digestive,Periapical abscess
+clean_data/pericarditis.csv,circulatory system,Pericarditis
+clean_data/perinatal_disorders_of_digestive_system.csv,pregnancy complications,Perinatal disorders of digestive system
+clean_data/perinatal_jaundice.csv,pregnancy complications,Perinatal jaundice
+clean_data/periodontitis_acute_or_chronic.csv,digestive,Periodontitis (acute or chronic)
+clean_data/periostitis.csv,musculoskeletal,Periostitis
+clean_data/peripheral_angiopathy_in_diseases_classified_elsewhere.csv,circulatory system,Peripheral angiopathy in diseases classified elsewhere
+clean_data/peripheral_autonomic_neuropathy.csv,neurological,Peripheral autonomic neuropathy
+clean_data/peripheral_enthesopathies_and_allied_syndromes.csv,musculoskeletal,Peripheral enthesopathies and allied syndromes
+clean_data/peripheral_or_central_vertigo.csv,sense organs,Peripheral or central vertigo
+clean_data/peripheral_retinal_degenerations.csv,sense organs,Peripheral retinal degenerations
+clean_data/peripheral_vascular_disease.csv,circulatory system,Peripheral vascular disease
+clean_data/peripheral_vascular_disease_unspecified.csv,circulatory system,"Peripheral vascular disease, unspecified"
+clean_data/peritoneal_adhesions_postoperative_postinfection.csv,digestive,Peritoneal adhesions (postoperative) (postinfection)
+clean_data/peritoneal_or_intestinal_adhesions.csv,digestive,Peritoneal or intestinal adhesions
+clean_data/peritonitis_and_retroperitoneal_infections.csv,digestive,Peritonitis and retroperitoneal infections
+clean_data/pernicious_anemia.csv,hematopoietic,Pernicious anemia
+clean_data/persistent_vomiting.csv,symptoms,Persistent vomiting
+clean_data/personal_history_of_allergy_to_medicinal_agents.csv,injuries & poisonings,Personal history of allergy to medicinal agents
+clean_data/personal_history_of_diseases_of_blood_and_blood_forming_organs.csv,hematopoietic,Personal history of diseases of blood and blood-forming organs
+clean_data/personal_history_of_diseases_of_digestive_system.csv,digestive,Personal history of diseases of digestive system
+clean_data/personality_disorders.csv,mental disorders,Personality disorders
+clean_data/pervasive_developmental_disorders.csv,mental disorders,Pervasive developmental disorders
+clean_data/peyronies_disease.csv,genitourinary,Peyronie's disease
+clean_data/phlebitis_and_thrombophlebitis.csv,circulatory system,Phlebitis and thrombophlebitis
+clean_data/phlebitis_and_thrombophlebitis_of_intracranial_venous_sinuses.csv,neurological,Phlebitis and thrombophlebitis of intracranial venous sinuses
+clean_data/phlebitis_and_thrombophlebitis_of_lower_extremities.csv,circulatory system,Phlebitis and thrombophlebitis of lower extremities
+clean_data/phobia.csv,mental disorders,Phobia
+clean_data/pigmentary_iris_degeneration.csv,sense organs,Pigmentary iris degeneration
+clean_data/pilonidal_cyst.csv,dermatologic,Pilonidal cyst
+clean_data/pituitary_dwarfism.csv,endocrine/metabolic,Pituitary dwarfism
+clean_data/pituitary_hyperfunction.csv,endocrine/metabolic,Pituitary hyperfunction
+clean_data/pituitary_hypofunction.csv,endocrine/metabolic,Pituitary hypofunction
+clean_data/pityriasis.csv,dermatologic,Pityriasis
+clean_data/placenta_previa_and_abruptio_placenta.csv,pregnancy complications,Placenta previa and abruptio placenta
+clean_data/pleurisy_pleural_effusion.csv,respiratory,Pleurisy; pleural effusion
+clean_data/plica_syndrome.csv,musculoskeletal,Plica syndrome
+clean_data/pneumococcal_pneumonia.csv,respiratory,Pneumococcal pneumonia
+clean_data/pneumoconiosis.csv,respiratory,Pneumoconiosis
+clean_data/pneumonia.csv,respiratory,Pneumonia
+clean_data/pneumonia_due_to_fungus_mycoses.csv,respiratory,Pneumonia due to fungus (mycoses)
+clean_data/pneumonitis_due_to_inhalation_of_food_or_vomitus.csv,respiratory,Pneumonitis due to inhalation of food or vomitus
+clean_data/poisoning_by_agents_primarily_acting_on_the_smooth_and_skeletal_muscles_and_respiratory_system.csv,injuries & poisonings,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+clean_data/poisoning_by_agents_primarily_affecting_blood_constituents.csv,injuries & poisonings,Poisoning by agents primarily affecting blood constituents
+clean_data/poisoning_by_agents_primarily_affecting_skin__mucous_membrane_ophthalmological_otorhinolaryngological__dental_drugs.csv,injuries & poisonings,"Poisoning by agents primarily affecting skin & mucous membrane, ophthalmological, otorhinolaryngological, & dental drugs"
+clean_data/poisoning_by_agents_primarily_affecting_the_cardiovascular_system.csv,injuries & poisonings,Poisoning by agents primarily affecting the cardiovascular system
+clean_data/poisoning_by_agents_primarily_affecting_the_gastrointestinal_system.csv,injuries & poisonings,Poisoning by agents primarily affecting the gastrointestinal system
+clean_data/poisoning_by_analgesics_antipyretics_and_antirheumatics.csv,injuries & poisonings,"Poisoning by analgesics, antipyretics, and antirheumatics"
+clean_data/poisoning_by_antibiotics.csv,injuries & poisonings,Poisoning by antibiotics
+clean_data/poisoning_by_anticonvulsants_and_anti_parkinsonism_drugs.csv,injuries & poisonings,Poisoning by anticonvulsants and anti-Parkinsonism drugs
+clean_data/poisoning_by_drugs_primarily_affecting_the_autonomic_nervous_system.csv,injuries & poisonings,Poisoning by drugs primarily affecting the autonomic nervous system
+clean_data/poisoning_by_hormones_and_synthetic_substitutes.csv,injuries & poisonings,Poisoning by hormones and synthetic substitutes
+clean_data/poisoning_by_other_anti_infectives.csv,injuries & poisonings,Poisoning by other anti-infectives
+clean_data/poisoning_by_primarily_systemic_agents.csv,injuries & poisonings,Poisoning by primarily systemic agents
+clean_data/poisoning_by_psychotropic_agents.csv,injuries & poisonings,Poisoning by psychotropic agents
+clean_data/poisoning_by_water_mineral_and_uric_acid_metabolism_drugs.csv,injuries & poisonings,"Poisoning by water, mineral, and uric acid metabolism drugs"
+clean_data/poisoningallergy_of_sulfonamides.csv,injuries & poisonings,Poisoning/allergy of sulfonamides
+clean_data/polyarteritis_nodosa.csv,circulatory system,Polyarteritis nodosa
+clean_data/polyarteritis_nodosa_and_allied_conditions.csv,circulatory system,Polyarteritis nodosa and allied conditions
+clean_data/polyclonal_hypergammaglobulinemia.csv,endocrine/metabolic,Polyclonal hypergammaglobulinemia
+clean_data/polycystic_ovaries.csv,endocrine/metabolic,Polycystic ovaries
+clean_data/polycythemia_secondary.csv,hematopoietic,"Polycythemia, secondary"
+clean_data/polycythemia_vera.csv,neoplasms,Polycythemia vera
+clean_data/polydipsia.csv,endocrine/metabolic,Polydipsia
+clean_data/polyglandular_activity_in_multiple_endocrine_adenomatosis.csv,endocrine/metabolic,Polyglandular activity in multiple endocrine adenomatosis
+clean_data/polymyalgia_rheumatica.csv,musculoskeletal,Polymyalgia Rheumatica
+clean_data/polymyositis.csv,dermatologic,Polymyositis
+clean_data/polyneuropathy_due_to_drugs.csv,mental disorders,Polyneuropathy due to drugs
+clean_data/polyneuropathy_in_diabetes.csv,endocrine/metabolic,Polyneuropathy in diabetes
+clean_data/polyp_of_corpus_uteri.csv,genitourinary,Polyp of corpus uteri
+clean_data/polyp_of_female_genital_organs.csv,genitourinary,Polyp of female genital organs
+clean_data/polyphagia.csv,endocrine/metabolic,Polyphagia
+clean_data/portal_hypertension.csv,digestive,Portal hypertension
+clean_data/postablative_ovarian_failure.csv,endocrine/metabolic,Postablative ovarian failure
+clean_data/postinflammatory_pulmonary_fibrosis.csv,respiratory,Postinflammatory pulmonary fibrosis
+clean_data/postlaminectomy_syndrome.csv,musculoskeletal,Postlaminectomy syndrome
+clean_data/postmenopausal_atrophic_vaginitis.csv,genitourinary,Postmenopausal atrophic vaginitis
+clean_data/postmenopausal_bleeding.csv,genitourinary,Postmenopausal bleeding
+clean_data/postnasal_drip.csv,respiratory,Postnasal drip
+clean_data/postoperative_shock.csv,injuries & poisonings,Postoperative shock
+clean_data/postphlebitic_syndrome.csv,circulatory system,Postphlebitic syndrome
+clean_data/postprocedural_fever.csv,symptoms,Postprocedural fever
+clean_data/posttraumatic_stress_disorder.csv,mental disorders,Posttraumatic stress disorder
+clean_data/posttraumatic_wound_infection_not_elsewhere_classified.csv,injuries & poisonings,Posttraumatic wound infection not elsewhere classified
+clean_data/precocious_sexual_development_and_puberty_nec.csv,endocrine/metabolic,Precocious sexual development and puberty NEC
+clean_data/precordial_pain.csv,circulatory system,Precordial pain
+clean_data/preeclampsia_and_eclampsia.csv,pregnancy complications,Preeclampsia and eclampsia
+clean_data/premature_beats.csv,circulatory system,Premature beats
+clean_data/premature_menopause_and_other_ovarian_failure.csv,genitourinary,Premature menopause and other ovarian failure
+clean_data/premenopausal_menorrhagia.csv,genitourinary,Premenopausal menorrhagia
+clean_data/premenstrual_tension_syndromes.csv,genitourinary,Premenstrual tension syndromes
+clean_data/primary_angle_closure_glaucoma.csv,sense organs,Primary angle-closure glaucoma
+clean_data/primary_biliary_cirrhosis.csv,digestive,Primary biliary cirrhosis
+clean_data/primary_hypercoagulable_state.csv,hematopoietic,Primary hypercoagulable state
+clean_data/primary_open_angle_glaucoma.csv,sense organs,Primary open angle glaucoma
+clean_data/primary_pulmonary_hypertension.csv,circulatory system,Primary pulmonary hypertension
+clean_data/primary_thrombocytopenia.csv,hematopoietic,Primary thrombocytopenia
+clean_data/primaryintrinsic_cardiomyopathies.csv,circulatory system,Primary/intrinsic cardiomyopathies
+clean_data/problems_associated_with_amniotic_cavity_and_membranes.csv,pregnancy complications,Problems associated with amniotic cavity and membranes
+clean_data/progressive_myopia.csv,sense organs,Progressive myopia
+clean_data/prolapse_of_vaginal_vault_after_hysterectomy.csv,genitourinary,Prolapse of vaginal vault after hysterectomy
+clean_data/prolapse_of_vaginal_walls.csv,genitourinary,Prolapse of vaginal walls
+clean_data/proliferative_glomerulonephritis.csv,genitourinary,Proliferative glomerulonephritis
+clean_data/prostatitis.csv,genitourinary,Prostatitis
+clean_data/protein_calorie_malnutrition.csv,endocrine/metabolic,Protein-calorie malnutrition
+clean_data/proteinuria.csv,endocrine/metabolic,Proteinuria
+clean_data/protozoan_infection.csv,infectious diseases,Protozoan infection
+clean_data/prurigo_and_lichen.csv,dermatologic,Prurigo and Lichen
+clean_data/pruritus_and_related_conditions.csv,dermatologic,Pruritus and related conditions
+clean_data/pseudoexfoliation_glaucoma.csv,sense organs,Pseudoexfoliation glaucoma
+clean_data/pseudomonal_pneumonia.csv,respiratory,Pseudomonal pneumonia
+clean_data/psoriasis.csv,dermatologic,Psoriasis
+clean_data/psoriasis_and_related_disorders.csv,dermatologic,Psoriasis and related disorders
+clean_data/psoriasis_vulgaris.csv,dermatologic,Psoriasis vulgaris
+clean_data/psoriatic_arthropathy.csv,dermatologic,Psoriatic arthropathy
+clean_data/psychogenic_and_somatoform_disorders.csv,mental disorders,Psychogenic and somatoform disorders
+clean_data/psychogenic_disorder.csv,mental disorders,Psychogenic disorder
+clean_data/psychophysical_visual_disturbances.csv,sense organs,Psychophysical visual disturbances
+clean_data/psychosis.csv,mental disorders,Psychosis
+clean_data/ptosis_of_eyelid.csv,sense organs,Ptosis of eyelid
+clean_data/pulmonary_collapse_interstitial_and_compensatory_emphysema.csv,respiratory,Pulmonary collapse; interstitial and compensatory emphysema
+clean_data/pulmonary_congestion_and_hypostasis.csv,respiratory,Pulmonary congestion and hypostasis
+clean_data/pulmonary_embolism_and_infarction_acute.csv,circulatory system,"Pulmonary embolism and infarction, acute"
+clean_data/pulmonary_heart_disease.csv,circulatory system,Pulmonary heart disease
+clean_data/pulmonary_insufficiency_or_respiratory_failure_following_trauma_and_surgery.csv,respiratory,Pulmonary insufficiency or respiratory failure following trauma and surgery
+clean_data/pulpitis_and_necrosis_of_tooth_pulp.csv,digestive,Pulpitis and necrosis of tooth pulp
+clean_data/purpura_and_other_hemorrhagic_conditions.csv,hematopoietic,Purpura and other hemorrhagic conditions
+clean_data/pyelonephritis.csv,genitourinary,Pyelonephritis
+clean_data/pyoderma.csv,dermatologic,Pyoderma
+clean_data/pyogenic_arthritis.csv,musculoskeletal,Pyogenic arthritis
+clean_data/pyogenic_granuloma.csv,dermatologic,Pyogenic granuloma
+clean_data/qualitative_platelet_defects.csv,hematopoietic,Qualitative platelet defects
+clean_data/radiotherapy.csv,neoplasms,Radiotherapy
+clean_data/rash_and_other_nonspecific_skin_eruption.csv,dermatologic,Rash and other nonspecific skin eruption
+clean_data/raynauds_syndrome.csv,circulatory system,Raynaud's syndrome
+clean_data/redundant_prepuce_and_phimosisbxo.csv,genitourinary,Redundant prepuce and phimosis/BXO
+clean_data/reflux_esophagitis.csv,digestive,Reflux esophagitis
+clean_data/regional_enteritis.csv,digestive,Regional enteritis
+clean_data/reiters_disease.csv,musculoskeletal,Reiter's disease
+clean_data/renal_colic.csv,genitourinary,Renal colic
+clean_data/renal_dialysis.csv,genitourinary,Renal dialysis
+clean_data/renal_failure.csv,genitourinary,Renal failure
+clean_data/renal_failure_nos.csv,genitourinary,Renal failure NOS
+clean_data/renal_osteodystrophy.csv,genitourinary,Renal osteodystrophy
+clean_data/renal_sclerosis_nos.csv,genitourinary,"Renal sclerosis, NOS"
+clean_data/respiratory_abnormalities.csv,respiratory,Respiratory abnormalities
+clean_data/respiratory_arrest.csv,respiratory,Respiratory arrest
+clean_data/respiratory_complications.csv,respiratory,Respiratory complications
+clean_data/respiratory_conditions_of_fetus_and_newborn.csv,pregnancy complications,Respiratory conditions of fetus and newborn
+clean_data/respiratory_failure.csv,respiratory,Respiratory failure
+clean_data/respiratory_failure_insufficiency_arrest.csv,respiratory,"Respiratory failure, insufficiency, arrest"
+clean_data/respiratory_insufficiency.csv,respiratory,Respiratory insufficiency
+clean_data/restless_legs_syndrome.csv,neurological,Restless legs syndrome
+clean_data/retention_of_urine.csv,genitourinary,Retention of urine
+clean_data/reticulosarcoma.csv,neoplasms,Reticulosarcoma
+clean_data/retinal_detachment_with_retinal_defect.csv,sense organs,Retinal detachment with retinal defect
+clean_data/retinal_detachments_and_defects.csv,sense organs,Retinal detachments and defects
+clean_data/retinal_edema.csv,sense organs,Retinal edema
+clean_data/retinal_hemorrhageischemia.csv,sense organs,Retinal hemorrhage/ischemia
+clean_data/retinal_vascular_changes_and_abnomalities.csv,sense organs,Retinal vascular changes and abnomalities
+clean_data/retinopathy_of_prematurity.csv,sense organs,Retinopathy of prematurity
+clean_data/retinoschisis_and_retinal_cysts.csv,sense organs,Retinoschisis and retinal cysts
+clean_data/rhabdomyolysis.csv,symptoms,Rhabdomyolysis
+clean_data/rhesus_isoimmunization_in_pregnancy.csv,pregnancy complications,Rhesus isoimmunization in pregnancy
+clean_data/rheumatic_disease_of_the_heart_valves.csv,circulatory system,Rheumatic disease of the heart valves
+clean_data/rheumatism_unspecified_and_fibrositis.csv,musculoskeletal,"Rheumatism, unspecified and fibrositis"
+clean_data/rheumatoid_arthritis.csv,musculoskeletal,Rheumatoid arthritis
+clean_data/rheumatoid_arthritis_and_other_inflammatory_polyarthropathies.csv,musculoskeletal,Rheumatoid arthritis and other inflammatory polyarthropathies
+clean_data/rickets_or_osteomalacia.csv,endocrine/metabolic,Rickets or osteomalacia
+clean_data/right_bundle_branch_block.csv,circulatory system,Right bundle branch block
+clean_data/rosacea.csv,dermatologic,Rosacea
+clean_data/rotator_cuff_capsule_sprain.csv,injuries & poisonings,Rotator cuff (capsule) sprain
+clean_data/rupture_of_synovium.csv,musculoskeletal,Rupture of synovium
+clean_data/rupture_of_tendon_nontraumatic.csv,musculoskeletal,"Rupture of tendon, nontraumatic"
+clean_data/sacroiliitis_nec.csv,musculoskeletal,Sacroiliitis NEC
+clean_data/salicylates_causing_adverse_effects_in_therapeutic_use.csv,injuries & poisonings,Salicylates causing adverse effects in therapeutic use
+clean_data/sarcoidosis.csv,dermatologic,Sarcoidosis
+clean_data/scar_conditions_and_fibrosis_of_skin.csv,dermatologic,Scar conditions and fibrosis of skin
+clean_data/schizoid_personality_disorder.csv,mental disorders,Schizoid personality disorder
+clean_data/schizophrenia.csv,mental disorders,Schizophrenia
+clean_data/schizophrenia_and_other_psychotic_disorders.csv,mental disorders,Schizophrenia and other psychotic disorders
+clean_data/schmorls_nodes.csv,musculoskeletal,Schmorl's nodes
+clean_data/sciatica.csv,symptoms,Sciatica
+clean_data/scleritis_and_episcleritis.csv,sense organs,Scleritis and episcleritis
+clean_data/screening_for_malignant_neoplasms_of_the_skin.csv,neoplasms,Screening for malignant neoplasms of the skin
+clean_data/sebaceous_cyst.csv,dermatologic,Sebaceous cyst
+clean_data/seborrhea.csv,dermatologic,Seborrhea
+clean_data/seborrheic_dermatitis.csv,dermatologic,Seborrheic dermatitis
+clean_data/seborrheic_keratosis.csv,dermatologic,Seborrheic keratosis
+clean_data/second_degree_av_block.csv,circulatory system,Second degree AV block
+clean_data/secondary_diabetes_mellitus.csv,endocrine/metabolic,Secondary diabetes mellitus
+clean_data/secondary_hyperparathyroidism_of_renal_origin.csv,genitourinary,Secondary hyperparathyroidism (of renal origin)
+clean_data/secondary_hypothyroidism.csv,endocrine/metabolic,Secondary hypothyroidism
+clean_data/secondary_malignancy_of_bone.csv,neoplasms,Secondary malignancy of bone
+clean_data/secondary_malignancy_of_brainspine.csv,neoplasms,Secondary malignancy of brain/spine
+clean_data/secondary_malignancy_of_lymph_nodes.csv,neoplasms,Secondary malignancy of lymph nodes
+clean_data/secondary_malignancy_of_respiratory_organs.csv,neoplasms,Secondary malignancy of respiratory organs
+clean_data/secondary_malignant_neoplasm.csv,neoplasms,Secondary malignant neoplasm
+clean_data/secondary_malignant_neoplasm_of_digestive_systems.csv,neoplasms,Secondary malignant neoplasm of digestive systems
+clean_data/secondary_malignant_neoplasm_of_liver.csv,neoplasms,Secondary malignant neoplasm of liver
+clean_data/secondary_malignant_neoplasm_of_skin.csv,neoplasms,Secondary malignant neoplasm of skin
+clean_data/secondary_thrombocytopenia.csv,hematopoietic,Secondary thrombocytopenia
+clean_data/secondaryextrinsic_cardiomyopathies.csv,circulatory system,Secondary/extrinsic cardiomyopathies
+clean_data/senile_cataract.csv,sense organs,Senile cataract
+clean_data/senile_dementia.csv,mental disorders,Senile dementia
+clean_data/senile_osteoporosis.csv,musculoskeletal,Senile osteoporosis
+clean_data/sensorineural_hearing_loss.csv,sense organs,Sensorineural hearing loss
+clean_data/separation_of_retinal_layers.csv,sense organs,Separation of retinal layers
+clean_data/sepsis.csv,injuries & poisonings,Sepsis
+clean_data/sepsis_and_sirs.csv,injuries & poisonings,Sepsis and SIRS
+clean_data/septal_deviationsturbinate_hypertrophy.csv,respiratory,Septal Deviations/Turbinate Hypertrophy
+clean_data/septic_shock.csv,injuries & poisonings,Septic shock
+clean_data/severe_protein_calorie_malnutrition.csv,endocrine/metabolic,severe protein-calorie malnutrition
+clean_data/sexual_and_gender_identity_disorders.csv,mental disorders,Sexual and gender identity disorders
+clean_data/shock.csv,symptoms,Shock
+clean_data/short_gestation_low_birth_weight_and_fetal_growth_retardation.csv,pregnancy complications,Short gestation; low birth weight; and fetal growth retardation
+clean_data/short_stature.csv,endocrine/metabolic,Short stature
+clean_data/shortness_of_breath.csv,respiratory,Shortness of breath
+clean_data/sialoadenitis.csv,digestive,Sialoadenitis
+clean_data/sialolithiasis.csv,digestive,Sialolithiasis
+clean_data/sicca_syndrome.csv,dermatologic,Sicca syndrome
+clean_data/sickle_cell_anemia.csv,hematopoietic,Sickle cell anemia
+clean_data/sideroblastic_anemia.csv,hematopoietic,Sideroblastic anemia
+clean_data/simple_and_unspecified_goiter.csv,endocrine/metabolic,Simple and unspecified goiter
+clean_data/sinoatrial_node_dysfunction_bradycardia.csv,circulatory system,Sinoatrial node dysfunction (Bradycardia)
+clean_data/skin_cancer.csv,neoplasms,Skin cancer
+clean_data/skull_and_face_fracture_and_other_intercranial_injury.csv,injuries & poisonings,Skull and face fracture and other intercranial injury
+clean_data/sleep_apnea.csv,neurological,Sleep apnea
+clean_data/sleep_disorders.csv,neurological,Sleep disorders
+clean_data/sleep_related_leg_cramps.csv,neurological,Sleep related leg cramps
+clean_data/sleep_related_movement_disorders.csv,neurological,Sleep related movement disorders
+clean_data/small_kidney.csv,genitourinary,Small kidney
+clean_data/solitary_pulmonary_nodule.csv,respiratory,Solitary pulmonary nodule
+clean_data/somatoform_disorder.csv,mental disorders,Somatoform disorder
+clean_data/spasm_of_muscle.csv,symptoms,Spasm of muscle
+clean_data/specific_nonpsychotic_mental_disorders_due_to_brain_damage.csv,mental disorders,Specific nonpsychotic mental disorders due to brain damage
+clean_data/speech_and_language_disorder.csv,mental disorders,Speech and language disorder
+clean_data/spermatocele.csv,genitourinary,Spermatocele
+clean_data/spina_bifida.csv,congenital anomalies,Spina bifida
+clean_data/spinal_cord_injury_without_evidence_of_spinal_bone_injury.csv,injuries & poisonings,Spinal cord injury without evidence of spinal bone injury
+clean_data/spinal_enthesopathy.csv,musculoskeletal,Spinal enthesopathy
+clean_data/spinal_stenosis.csv,musculoskeletal,Spinal stenosis
+clean_data/spinal_stenosis_of_lumbar_region.csv,musculoskeletal,Spinal stenosis of lumbar region
+clean_data/spinocerebellar_disease.csv,neurological,Spinocerebellar disease
+clean_data/spirochetal_infection.csv,infectious diseases,Spirochetal infection
+clean_data/splenomegaly.csv,digestive,Splenomegaly
+clean_data/spondylolisthesis_congenital.csv,congenital anomalies,"Spondylolisthesis, congenital"
+clean_data/spondylosis_and_allied_disorders.csv,musculoskeletal,Spondylosis and allied disorders
+clean_data/spondylosis_with_myelopathy.csv,musculoskeletal,Spondylosis with myelopathy
+clean_data/spondylosis_without_myelopathy.csv,musculoskeletal,Spondylosis without myelopathy
+clean_data/spontaneous_ecchymoses.csv,hematopoietic,Spontaneous ecchymoses
+clean_data/sprains_and_strains.csv,injuries & poisonings,Sprains and strains
+clean_data/sprains_and_strains_of_back_and_neck.csv,injuries & poisonings,Sprains and strains of back and neck
+clean_data/squamous_cell_carcinoma.csv,neoplasms,Squamous cell carcinoma
+clean_data/stiffness_of_joint.csv,musculoskeletal,Stiffness of joint
+clean_data/stomatitis_and_mucositis.csv,digestive,Stomatitis and mucositis
+clean_data/stomatitis_and_mucositis_ulcerative.csv,digestive,Stomatitis and mucositis (ulcerative)
+clean_data/strabismus_and_other_disorders_of_binocular_eye_movements.csv,sense organs,Strabismus and other disorders of binocular eye movements
+clean_data/strabismus_not_specified_as_paralytic.csv,sense organs,Strabismus (not specified as paralytic)
+clean_data/stress_fracture.csv,musculoskeletal,Stress fracture
+clean_data/stress_incontinence_female.csv,genitourinary,"stress incontinence, female"
+clean_data/stricture_and_stenosis_of_esophagus.csv,digestive,Stricture and stenosis of esophagus
+clean_data/stricture_of_artery.csv,circulatory system,Stricture of artery
+clean_data/strictureobstruction_of_ureter.csv,genitourinary,Stricture/obstruction of ureter
+clean_data/subarachnoid_hemorrhage.csv,circulatory system,Subarachnoid hemorrhage
+clean_data/subarachnoid_hemorrhage_injury.csv,injuries & poisonings,Subarachnoid hemorrhage (injury)
+clean_data/subdural_hemorrhage.csv,circulatory system,Subdural hemorrhage
+clean_data/subdural_hemorrhage_injury.csv,injuries & poisonings,Subdural hemorrhage (injury)
+clean_data/subjective_visual_disturbances.csv,sense organs,Subjective visual disturbances
+clean_data/substance_addiction_and_disorders.csv,mental disorders,Substance addiction and disorders
+clean_data/suicidal_ideation.csv,mental disorders,Suicidal ideation
+clean_data/suicidal_ideation_or_attempt.csv,mental disorders,Suicidal ideation or attempt
+clean_data/suicide_or_self_inflicted_injury.csv,mental disorders,Suicide or self-inflicted injury
+clean_data/superficial_cellulitis_and_abscess.csv,dermatologic,Superficial cellulitis and abscess
+clean_data/superficial_injury_infected.csv,injuries & poisonings,"Superficial injury, infected"
+clean_data/superficial_keratitis.csv,sense organs,Superficial keratitis
+clean_data/suppurative_and_unspecified_otitis_media.csv,sense organs,Suppurative and unspecified otitis media
+clean_data/supraventricular_premature_beats.csv,circulatory system,Supraventricular premature beats
+clean_data/swelling_mass_or_lump_in_head_and_neck_space_occupying_lesion_intracranial_nos.csv,mental disorders,"Swelling, mass, or lump in head and neck [Space-occupying lesion, intracranial NOS]"
+clean_data/swelling_of_limb.csv,symptoms,Swelling of limb
+clean_data/symbolic_dysfunction.csv,mental disorders,Symbolic dysfunction
+clean_data/symptomatic_artificial_menopause.csv,genitourinary,Symptomatic artificial menopause
+clean_data/symptomatic_menopause.csv,genitourinary,Symptomatic menopause
+clean_data/symptoms_affecting_skin.csv,dermatologic,Symptoms affecting skin
+clean_data/symptoms_and_disorders_of_the_joints.csv,musculoskeletal,Symptoms and disorders of the joints
+clean_data/symptoms_involving_cardiovascular_system.csv,circulatory system,Symptoms involving cardiovascular system
+clean_data/symptoms_involving_digestive_system.csv,digestive,Symptoms involving digestive system
+clean_data/symptoms_involving_female_genital_tract.csv,genitourinary,Symptoms involving female genital tract
+clean_data/symptoms_involving_head_and_neck.csv,mental disorders,Symptoms involving head and neck
+clean_data/symptoms_involving_nervous_and_musculoskeletal_systems.csv,symptoms,Symptoms involving nervous and musculoskeletal systems
+clean_data/symptoms_involving_respiratory_system_and_other_chest_symptoms.csv,respiratory,Symptoms involving respiratory system and other chest symptoms
+clean_data/symptoms_involving_skin_and_other_integumentary_tissue.csv,symptoms,Symptoms involving skin and other integumentary tissue
+clean_data/symptoms_of_the_muscles.csv,symptoms,Symptoms of the muscles
+clean_data/syncope_and_collapse.csv,symptoms,Syncope and collapse
+clean_data/synoviopathy.csv,musculoskeletal,Synoviopathy
+clean_data/synovitis_and_tenosynovitis.csv,musculoskeletal,Synovitis and tenosynovitis
+clean_data/systemic_inflammatory_response_syndrome_sirs.csv,injuries & poisonings,Systemic inflammatory response syndrome (SIRS)
+clean_data/systemic_lupus_erythematosus.csv,dermatologic,Systemic lupus erythematosus
+clean_data/systemic_sclerosis.csv,dermatologic,Systemic sclerosis
+clean_data/tachycardia_nos.csv,circulatory system,Tachycardia NOS
+clean_data/takayasus_disease.csv,circulatory system,Takayasu's disease
+clean_data/telogen_effluvium.csv,dermatologic,Telogen effluvium
+clean_data/temporomandibular_joint_disorder_unspecified.csv,digestive,"Temporomandibular joint disorder, unspecified"
+clean_data/temporomandibular_joint_disorders.csv,digestive,Temporomandibular joint disorders
+clean_data/tension_headache.csv,mental disorders,Tension headache
+clean_data/testicular_dysfunction.csv,endocrine/metabolic,Testicular dysfunction
+clean_data/testicular_hypofunction.csv,endocrine/metabolic,Testicular hypofunction
+clean_data/thoracic_or_lumbosacral_neuritis_or_radiculitis_unspecified.csv,symptoms,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+clean_data/threatened_premature_labor.csv,pregnancy complications,Threatened premature labor
+clean_data/throat_pain.csv,respiratory,Throat pain
+clean_data/thromboangiitis_obliterans.csv,circulatory system,Thromboangiitis obliterans
+clean_data/thrombocytopenia.csv,hematopoietic,Thrombocytopenia
+clean_data/thrombotic_microangiopathy.csv,circulatory system,Thrombotic microangiopathy
+clean_data/thyroid_cancer.csv,neoplasms,Thyroid cancer
+clean_data/thyroid_cyst.csv,endocrine/metabolic,Thyroid cyst
+clean_data/thyroiditis.csv,endocrine/metabolic,Thyroiditis
+clean_data/thyroiditis_acute_and_subacute.csv,endocrine/metabolic,"Thyroiditis, acute and subacute"
+clean_data/thyrotoxic_exophthalmos.csv,endocrine/metabolic,Thyrotoxic exophthalmos
+clean_data/thyrotoxicosis_with_or_without_goiter.csv,endocrine/metabolic,Thyrotoxicosis with or without goiter
+clean_data/tics_and_choreas.csv,neurological,Tics and choreas
+clean_data/tics_and_stuttering.csv,mental disorders,Tics and stuttering
+clean_data/tinnitus.csv,sense organs,Tinnitus
+clean_data/tobacco_use_disorder.csv,mental disorders,Tobacco use disorder
+clean_data/tooth_complications_likely_association_with_other_diseases.csv,digestive,Tooth complications likely association with other diseases
+clean_data/torsion_dystonia.csv,neurological,Torsion dystonia
+clean_data/torticollis.csv,musculoskeletal,Torticollis
+clean_data/torus_fracture.csv,injuries & poisonings,Torus fracture
+clean_data/toxic_effect_of_carbon_monoxide.csv,injuries & poisonings,Toxic effect of carbon monoxide
+clean_data/toxic_effect_of_corrosive_aromatics_acids_and_caustic_alkalis.csv,injuries & poisonings,"Toxic effect of corrosive aromatics, acids, and caustic alkalis"
+clean_data/toxic_effect_of_lead_and_its_compounds_including_fumes.csv,injuries & poisonings,Toxic effect of lead and its compounds (including fumes)
+clean_data/toxic_effect_of_non_ethyl_alcohol_and_petroleum_and_other_solvents.csv,injuries & poisonings,Toxic effect of (non-ethyl) alcohol and petroleum and other solvents
+clean_data/toxic_effect_of_noxious_substances_eaten_as_food.csv,injuries & poisonings,Toxic effect of noxious substances eaten as food
+clean_data/toxic_effect_of_other_gases_fumes_or_vapors.csv,injuries & poisonings,"Toxic effect of other gases, fumes, or vapors"
+clean_data/toxic_effect_of_other_metals.csv,injuries & poisonings,Toxic effect of other metals
+clean_data/toxic_effect_of_other_substances_chiefly_nonmedicinal_as_to_source.csv,injuries & poisonings,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+clean_data/toxic_effect_of_venom.csv,injuries & poisonings,Toxic effect of venom
+clean_data/toxic_erythema.csv,dermatologic,Toxic erythema
+clean_data/toxic_gastroenteritis_and_colitis.csv,digestive,Toxic gastroenteritis and colitis
+clean_data/toxic_maculopathy_of_retina.csv,sense organs,Toxic maculopathy of retina
+clean_data/toxic_multinodular_goiter.csv,endocrine/metabolic,Toxic multinodular goiter
+clean_data/tracheostomy_complications.csv,respiratory,Tracheostomy complications
+clean_data/transient_alteration_of_awareness.csv,mental disorders,Transient alteration of awareness
+clean_data/transient_cerebral_ischemia.csv,circulatory system,Transient cerebral ischemia
+clean_data/transient_mental_disorders_due_to_conditions_classified_elsewhere.csv,mental disorders,Transient mental disorders due to conditions classified elsewhere
+clean_data/transitory_tachypnea_or_apnea_of_newborn.csv,pregnancy complications,Transitory tachypnea or apnea of newborn
+clean_data/traumatic_amputation.csv,injuries & poisonings,Traumatic amputation
+clean_data/traumatic_and_surgical_subcutaneous_emphysema.csv,injuries & poisonings,Traumatic and surgical subcutaneous emphysema
+clean_data/traumatic_arthropathy.csv,injuries & poisonings,Traumatic arthropathy
+clean_data/traumatic_cataract.csv,sense organs,Traumatic cataract
+clean_data/trigeminal_nerve_disorders_cn5.csv,neurological,Trigeminal nerve disorders [CN5]
+clean_data/tympanosclerosis_and_middle_ear_disease_related_to_otitis_media.csv,sense organs,Tympanosclerosis and middle ear disease related to otitis media
+clean_data/type_1_diabetes.csv,endocrine/metabolic,Type 1 diabetes
+clean_data/type_1_diabetes_with_ketoacidosis.csv,endocrine/metabolic,Type 1 diabetes with ketoacidosis
+clean_data/type_1_diabetes_with_neurological_manifestations.csv,endocrine/metabolic,Type 1 diabetes with neurological manifestations
+clean_data/type_1_diabetes_with_ophthalmic_manifestations.csv,endocrine/metabolic,Type 1 diabetes with ophthalmic manifestations
+clean_data/type_1_diabetes_with_renal_manifestations.csv,endocrine/metabolic,Type 1 diabetes with renal manifestations
+clean_data/type_2_diabetes.csv,endocrine/metabolic,Type 2 diabetes
+clean_data/type_2_diabetes_with_ketoacidosis.csv,endocrine/metabolic,Type 2 diabetes with ketoacidosis
+clean_data/type_2_diabetes_with_neurological_manifestations.csv,endocrine/metabolic,Type 2 diabetes with neurological manifestations
+clean_data/type_2_diabetes_with_ophthalmic_manifestations.csv,endocrine/metabolic,Type 2 diabetes with ophthalmic manifestations
+clean_data/type_2_diabetes_with_renal_manifestations.csv,endocrine/metabolic,Type 2 diabetes with renal manifestations
+clean_data/ulcer_of_esophagus.csv,digestive,Ulcer of esophagus
+clean_data/ulceration_of_intestine.csv,digestive,Ulceration of intestine
+clean_data/ulceration_of_the_lower_gi_tract.csv,digestive,Ulceration of the lower GI tract
+clean_data/ulcerative_colitis.csv,digestive,Ulcerative colitis
+clean_data/ulcerative_colitis_chronic.csv,digestive,Ulcerative colitis (chronic)
+clean_data/umbilical_hernia.csv,digestive,Umbilical hernia
+clean_data/unequal_leg_length_acquired.csv,musculoskeletal,Unequal leg length (acquired)
+clean_data/unspecified_diffuse_connective_tissue_disease.csv,dermatologic,Unspecified diffuse connective tissue disease
+clean_data/unspecified_disorder_of_lipoid_metabolism.csv,endocrine/metabolic,Unspecified disorder of lipoid metabolism
+clean_data/unspecified_erythematous_condition.csv,dermatologic,Unspecified erythematous condition
+clean_data/unspecified_monoarthritis.csv,musculoskeletal,Unspecified monoarthritis
+clean_data/unspecified_osteomyelitis.csv,musculoskeletal,Unspecified osteomyelitis
+clean_data/unspecified_polyarthropathy_or_polyarthritis.csv,musculoskeletal,Unspecified polyarthropathy or polyarthritis
+clean_data/unstable_angina_intermediate_coronary_syndrome.csv,circulatory system,Unstable angina (intermediate coronary syndrome)
+clean_data/upper_gastrointestinal_congenital_anomalies.csv,congenital anomalies,Upper gastrointestinal congenital anomalies
+clean_data/urethral_discharge.csv,genitourinary,Urethral discharge
+clean_data/urethral_hypermobilityisd.csv,genitourinary,Urethral hypermobility/ISD
+clean_data/urethral_stricture_due_to_infecton.csv,genitourinary,Urethral stricture due to infecton
+clean_data/urethral_stricture_not_specified_as_infectious.csv,genitourinary,Urethral stricture (not specified as infectious)
+clean_data/urethral_syndrome.csv,genitourinary,Urethral syndrome
+clean_data/urethritis_and_urethral_syndrome.csv,genitourinary,Urethritis and urethral syndrome
+clean_data/urinary_calculus.csv,genitourinary,Urinary calculus
+clean_data/urinary_complications_nec.csv,genitourinary,Urinary complications NEC
+clean_data/urinary_incontinence.csv,genitourinary,Urinary incontinence
+clean_data/urinary_obstruction.csv,genitourinary,Urinary obstruction
+clean_data/urinary_tract_infection.csv,genitourinary,Urinary tract infection
+clean_data/urticaria.csv,dermatologic,Urticaria
+clean_data/uterine_leiomyoma.csv,neoplasms,Uterine leiomyoma
+clean_data/uterineuterovaginal_prolapse.csv,genitourinary,Uterine/Uterovaginal prolapse
+clean_data/uveitis_noninfectious_or_nos.csv,sense organs,"Uveitis, noninfectious or NOS"
+clean_data/vaginal_enterocele_congenital_or_acquired.csv,genitourinary,"Vaginal enterocele, congenital or acquired"
+clean_data/vaginitis_and_vulvovaginitis.csv,genitourinary,Vaginitis and vulvovaginitis
+clean_data/valvular_heart_disease_heart_chambers.csv,congenital anomalies,Valvular heart disease/ heart chambers
+clean_data/varicose_veins.csv,circulatory system,Varicose veins
+clean_data/varicose_veins_of_lower_extremity.csv,circulatory system,Varicose veins of lower extremity
+clean_data/varicose_veins_of_lower_extremity_symptomtic.csv,circulatory system,"Varicose veins of lower extremity, symptomtic"
+clean_data/vascular_complications_of_surgery_and_medical_procedures.csv,injuries & poisonings,Vascular complications of surgery and medical procedures
+clean_data/vascular_dementia.csv,mental disorders,Vascular dementia
+clean_data/vascular_disorders_of_kidneyhypertrophy.csv,genitourinary,Vascular disorders of kidney/hypertrophy
+clean_data/vascular_disorders_of_penis.csv,genitourinary,Vascular disorders of penis
+clean_data/vascular_disorders_of_skin.csv,dermatologic,Vascular disorders of skin
+clean_data/vascular_hamartomas_and_non_neoplastic_nevi.csv,neoplasms,Vascular hamartomas and non-neoplastic nevi
+clean_data/vascular_insufficiency_of_intestine.csv,circulatory system,Vascular insufficiency of intestine
+clean_data/venouscerebrovascular_complications_embolism_in_pregnancy_and_the_puerperium.csv,pregnancy complications,Venous/cerebrovascular complications embolism in pregnancy and the puerperium
+clean_data/ventral_hernia.csv,digestive,Ventral hernia
+clean_data/ventricular_fibrillation_and_flutter.csv,circulatory system,Ventricular fibrillation and flutter
+clean_data/vertiginous_syndromes_and_other_disorders_of_vestibular_system.csv,sense organs,Vertiginous syndromes and other disorders of vestibular system
+clean_data/vesicoureteral_reflux.csv,genitourinary,Vesicoureteral reflux
+clean_data/villonodular_synovitis.csv,musculoskeletal,Villonodular synovitis
+clean_data/viral_pneumonia.csv,respiratory,Viral pneumonia
+clean_data/visual_disturbances.csv,sense organs,Visual disturbances
+clean_data/visual_field_defects.csv,sense organs,Visual field defects
+clean_data/vitamin_a_deficiency.csv,endocrine/metabolic,Vitamin A deficiency
+clean_data/vitamin_b_complex_deficiencies.csv,endocrine/metabolic,Vitamin B-complex deficiencies
+clean_data/vitamin_c_deficiencies.csv,endocrine/metabolic,Vitamin C deficiencies
+clean_data/vitamin_d_deficiency.csv,endocrine/metabolic,Vitamin D deficiency
+clean_data/vitamin_deficiency.csv,endocrine/metabolic,Vitamin deficiency
+clean_data/vitiligo.csv,dermatologic,Vitiligo
+clean_data/voice_disturbance.csv,respiratory,Voice disturbance
+clean_data/von_willebrands_disease.csv,hematopoietic,Von willebrand's disease
+clean_data/wegeners_granulomatosis.csv,circulatory system,Wegener's granulomatosis
+clean_data/wheezing.csv,respiratory,Wheezing
