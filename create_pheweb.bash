@@ -79,6 +79,21 @@ docker run -p 55000:55000 pheweb_docker2
 
 
 
+# Debugging
+# Check that pheweb is running locally at http://localhost:55000
+# If this step fails, then Pheweb is not running correctly.
+
+# Check that the website is available at the WSL2 windows address at http://172.22.138.62:55000/
+# If this step fails, then 
+
+# Check that the website is available at the Windows address http://192.168.0.104:55000/
+
+# Check that the website is available at the public IP address of your router http://67.250.183.56:55000/
+
+
+
+
+
 
 
 
