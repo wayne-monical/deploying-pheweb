@@ -1,4 +1,8 @@
-# install WSL2
+# This is the script that I used to create a PheWeb instance on my Windows machine using WSL2 and Docker.
+# Once you serve the Pheweb site, you can access it at http://localhost:55000.
+# I use the 55000 port instead of the default 5000 port because it works with port forwarding. 
+
+# Install WSL2 from the Microsoft Store
 
 # in the WSL terminal, download the necessary C libraries
 sudo apt update
