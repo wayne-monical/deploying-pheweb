@@ -1,1 +1,4 @@
 pheweb_docker2/my-new-pheweb/
+data_preprocessing/clean_data
+data_preprocessing/raw_data
+data_preprocessing/all_data.csv
