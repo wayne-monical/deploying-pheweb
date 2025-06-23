@@ -32,7 +32,10 @@ cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/pheno-
 # Copy data to the correct directory
 rm -rf ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/clean_data
 cp -r ~/deploying-pheweb/data_preprocessing/clean_data ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
-cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.csv ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
+
+# creating the pheno-list.json directly
+#cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.csv ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
+cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.json ~/deploying-pheweb/pheweb_docker2/my-new-pheweb
 
 # Pheweb data processing
 cd my-new-pheweb
