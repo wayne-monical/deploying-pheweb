@@ -39,10 +39,34 @@ cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.json ~/deploying-pheweb/p
 
 # Pheweb data processing
 cd my-new-pheweb
-pheweb phenolist import-phenolist pheno-list.csv
+
+# Import the phenolist from a csv file
+# pheweb phenolist import-phenolist pheno-list.csv
+
+# read num_cases and num_controls from the association files, but they all need to be the same
+pheweb phenolist read-info-from-association-files
 pheweb process
 cp '/home/wmonical/my-new-pheweb/generated-by-pheweb/tmp/pheno-list-successful-only.json' '/home/wmonical/my-new-pheweb/pheno-list.json'
 pheweb process
+
+
+
+## Debugging Add rsid
+conda create --name phewas_dev4 python=3.11.0
+conda activate phewas_dev4
+conda config --add channels conda-forge
+conda install bioconda::pysam=0.22.1
+conda install mysqlclient 
+pip install --use-pep517 git+https://github.com/FINNGEN/pheweb.git
+pip install --use-pep517 git+https://github.com/FINNGEN/pheweb.git@upgrade_deps.al
+
+mkdir ~/my-new-pheweb2
+mkdir ~/my-new-pheweb2/clean_data
+cp -r ~/deploying-pheweb/data_preprocessing/clean_data ~/my-new-pheweb2/
+cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.json ~/my-new-pheweb2
+
+cd my-new-pheweb2
+
 
 
 # hosting website
