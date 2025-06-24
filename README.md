@@ -1,1 +1,1 @@
-This repository contains the code for cleaning and deploying a pheweb website.
+This repository contains the code for cleaning and deploying a pheweb website. The data preprocessing folder contains the necessary code for formatting the files appropriately. creating_pheweb.bash gives the code for installing pheweb, running pheweb, and creating a docker container to transport pheweb. The pheweb_docker2 folder has the appropriate docker files. 
