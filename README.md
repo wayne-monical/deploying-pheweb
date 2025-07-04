@@ -10,7 +10,8 @@ This is the code that I used to deploy the Pheweb package. Since I am on a windo
 1. Install WSL2 from the Microsoft Store
 2. In the WSL terminal, install the necessary C libraries for Pheweb
 
-```sudo apt update
+```
+sudo apt update
 sudo apt install g++
 sudo apt install zlib1g-dev 
 ```
