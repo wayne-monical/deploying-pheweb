@@ -30,7 +30,8 @@ conda create --name phewas_dev2 python=3.10.0
 
 5. Install your preferred version of pheweb. 
 
-```conda activate phewas_dev2
+```
+conda activate phewas_dev2
 conda config --add channels conda-forge
 conda install bioconda::pysam=0.22.1
 pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git 
@@ -41,7 +42,8 @@ pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
 
 7. Create a directory for the pheweb project. Assemble the the association files as csvs and the pheno-list file as a csv or as a json in the directory. To import the pheno-list from a csv, run the following command in the pheweb directory.
 
-```pheweb phenolist import-phenolist pheno-list.csv
+```
+pheweb phenolist import-phenolist pheno-list.csv
 ```
 
 
@@ -52,12 +54,14 @@ pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
 
 8. Run the following command to create the website. This step downloads a large amount of data and takes a very long time to run. 
 
-```pheweb process
+```
+pheweb process
 ```
 
 9. To view the website, run the following command. I reccomend hosting at the 55000 port as opposed to the default 5000 port, because the 5000 port was blocked by my ISP. The website will be viewable by you (but not anyone else) at http://localhost:55000.
 
-```pheweb serve --host 0.0.0.0 --port 55000
+```
+pheweb serve --host 0.0.0.0 --port 55000
 ```
 
 10. Publishing the Website with Port Forwarding
@@ -66,12 +70,14 @@ When a member of the public attempts to access your website, they will do so by 
 
 10.1. Create firewall rules to allow traffic on port 55000. In powershell as an admin, run the following command to allow traffic through the firewall at the 55000 port. 
 
-```New-NetFirewallRule -DisplayName "Allow PheWeb 55000" -Direction Inbound -LocalPort 55000 -Protocol TCP -Action Allow
+```
+New-NetFirewallRule -DisplayName "Allow PheWeb 55000" -Direction Inbound -LocalPort 55000 -Protocol TCP -Action Allow
 ```
 
 10.2. Forward traffic from Windows to WSL2
 
-```# get your WSL2 IP address
+```
+# get your WSL2 IP address
 ip addr | grep eth0ep eth0 # inet 172.22.138.62/20 brd 172.22.143.255 scope global eth0
 
 # forward traffic from Windows to WSL2
@@ -99,7 +105,8 @@ netsh interface portproxy add v4tov4 listenport=55000 listenaddress=0.0.0.0 conn
 
 3. Create a new directory for the Dockerfile and copy over data from your pheweb deployment.
 
-```mkdir pheweb_docker2
+```
+mkdir pheweb_docker2
 cp -r ~/my-new-pheweb pheweb_docker2
 ```
 
@@ -107,7 +114,8 @@ cp -r ~/my-new-pheweb pheweb_docker2
 
 5. Build the docker container
 
-```cd pheweb_docker2
+```
+cd pheweb_docker2
 docker build -t pheweb_docker2 .
 ```
 
@@ -117,7 +125,8 @@ docker build -t pheweb_docker2 .
 ```
 
 7. Export the container
-```docker save inspiring_cartwright -o pheweb-docker.tar
+```
+docker save inspiring_cartwright -o pheweb-docker.tar
 ```
 
 
@@ -126,29 +135,33 @@ docker build -t pheweb_docker2 .
 
 1. Create and activate a new conda environment.
 
-```conda activate phewas_dev3
+```
+conda activate phewas_dev3
 ```
 
 2. Fork the pheweb directory, then clone it to your machine. 
 
-```git clone https://github.com/<YourGithubUsername>/pheweb
+```
+git clone https://github.com/<YourGithubUsername>/pheweb
 ```
 
 
 3.  Install the local PheWeb repository in editable mode for development.
 
-```cd pheweb
+```
+cd pheweb
 pip install --use-pep517 -e .
 ```
 
 
 # 4. Test
 
-```pytest
+```
+pytest
 ```
 
 
-
+```
 # this file is way too big. We have to delete it
 ls -lh ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/generated-by-pheweb/resources/rsids-v154-hg19.tsv.gz
 
@@ -174,4 +187,4 @@ mkdir ~/my-new-pheweb2/clean_data
 cp -r ~/deploying-pheweb/data_preprocessing/clean_data ~/my-new-pheweb2/
 cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.json ~/my-new-pheweb2
 cd my-new-pheweb2
-
+```
