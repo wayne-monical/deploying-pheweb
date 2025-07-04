@@ -1,7 +1,7 @@
 # pheweb 2 is the same, except we use port 55000 instead of 5000
 
 # 1. Base OS
-FROM ubuntu:24.04
+FROM ubuntu:20.04
 
 # 2. Install C libraries and system dependencies
 RUN apt-get update && apt-get install -y \

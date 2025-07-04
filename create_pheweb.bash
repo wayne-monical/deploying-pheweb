@@ -50,8 +50,7 @@ cp '/home/wmonical/my-new-pheweb/generated-by-pheweb/tmp/pheno-list-successful-o
 pheweb process
 
 
-
-## Debugging Add rsid
+## Using FINNGEN's PheWeb
 conda create --name phewas_dev4 python=3.11.0
 conda activate phewas_dev4
 conda config --add channels conda-forge
@@ -59,12 +58,10 @@ conda install bioconda::pysam=0.22.1
 conda install mysqlclient 
 pip install --use-pep517 git+https://github.com/FINNGEN/pheweb.git
 pip install --use-pep517 git+https://github.com/FINNGEN/pheweb.git@upgrade_deps.al
-
 mkdir ~/my-new-pheweb2
 mkdir ~/my-new-pheweb2/clean_data
 cp -r ~/deploying-pheweb/data_preprocessing/clean_data ~/my-new-pheweb2/
 cp -r ~/deploying-pheweb/data_preprocessing/pheno-list.json ~/my-new-pheweb2
-
 cd my-new-pheweb2
 
 
@@ -78,8 +75,6 @@ pheweb serve --host 0.0.0.0 --port 55000
 # 1. Create firewall rules to allow traffic on port 55000
 # powershell as admin
 New-NetFirewallRule -DisplayName "Allow PheWeb 55000" -Direction Inbound -LocalPort 55000 -Protocol TCP -Action Allow
-New-NetFirewallRule -DisplayName "Allow port 55000" -Direction Inbound -LocalPort 55000 -Protocol TCP -Action Allow
-
 
 # 2. Forward traffic from Windows to WSL2
 # get your WSL2 IP address
@@ -111,6 +106,15 @@ docker build -t pheweb_docker2 .
 # run the container 
 docker run -p 55000:55000 pheweb_docker2
 
+# export the container
+docker save inspiring_cartwright -o pheweb-docker.tar
+
+# zip the file
+zip pheweb-docker.zip pheweb-docker.tar
+
+
+# copy the exported container to Windows
+cp ~/pheweb-docker.zip "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab"
 
 
 # Debugging
@@ -126,8 +130,28 @@ docker run -p 55000:55000 pheweb_docker2
 
 
 
+## Developing PheWeb
+
+# 1. Clone the PheWeb repository
+git clone https://github.com/wayne-monical/pheweb
+
+cd pheweb
+
+# 2.  Install the local PheWeb repository in editable mode for development
+pip install --use-pep517 -e .
+
+# 3. Do Development
+
+# 4. Test
+pytest
 
 
 
-
-
+# 5. create test folder
+cp ~/deploying-pheweb/data_preprocessing/clean_data/dermatophytosis_of_the_body.csv pheweb-test/clean_data/dermatophytosis_of_the_body.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/clean_data/dermatophytosis.csv pheweb-test/clean_data/clean_data/dermatophytosis.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/clean_data/dermatophytosis_of_nail.csv pheweb-test/clean_data/clean_data/dermatophytosis_of_nail.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/althetes_foot.csv pheweb-test/clean_data/althetes_foot.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/dermatomycoses.csv pheweb-test/clean_data/dermatomycoses.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis.csv pheweb-test/clean_data/candidiasis.csv
+cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis_of_skin_and_nails.csv pheweb-test/clean_data/candidiasis_of_skin_and_nails.csv
