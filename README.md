@@ -18,12 +18,14 @@ sudo apt install zlib1g-dev
 
 3. Install conda by downloading the latest conda installer, then run the following code
 
-```bash Miniconda3-latest-Linux-x86_64.sh 
+```
+bash Miniconda3-latest-Linux-x86_64.sh 
 ```
 
 4. Create a new conda environment for pheweb
 
-```conda create --name phewas_dev2 python=3.10.0 
+```
+conda create --name phewas_dev2 python=3.10.0 
 ```
 
 5. Install your preferred version of pheweb. 
