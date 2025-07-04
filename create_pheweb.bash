@@ -106,7 +106,8 @@ docker build -t pheweb_docker2 .
 # run the container 
 docker run -p 55000:55000 pheweb_docker2
 
-# export the container
+
+# save the file
 docker save inspiring_cartwright -o pheweb-docker.tar
 
 # zip the file
@@ -115,6 +116,12 @@ zip pheweb-docker.zip pheweb-docker.tar
 
 # copy the exported container to Windows
 cp ~/pheweb-docker.zip "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab"
+
+
+# unzip the file
+
+# load the docker image
+docker load --input pheweb-docker.tar
 
 
 # Debugging

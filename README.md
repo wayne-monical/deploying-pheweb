@@ -1,3 +1,8 @@
+# Deploying Pheweb
+
+This repository contains the code for cleaning and deploying a pheweb website. The data preprocessing folder contains the necessary code for formatting the files appropriately. creating_pheweb.bash gives the code for installing pheweb, running pheweb, and creating a docker container to transport pheweb. The pheweb_docker2 folder has the appropriate docker files. 
+
+
 # Deploying Pheweb with Port Forwarding
 
 This is the code that I used to deploy the Pheweb package. Since I am on a windows machine, I used Windows Subsystem for Linux to run a linux environment, where I installed conda to create a virtual python environment, from which I ran the pheweb code. 
