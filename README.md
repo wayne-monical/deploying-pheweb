@@ -12,22 +12,22 @@ This is the code that I used to deploy the Pheweb package. Since I am on a windo
 
 ```sudo apt update
 sudo apt install g++
-sudo apt install zlib1g-dev```
+sudo apt install zlib1g-dev ```
 
 3. Install conda by downloading the latest conda installer, then run the following code
 
-```bash Miniconda3-latest-Linux-x86_64.sh```
+```bash Miniconda3-latest-Linux-x86_64.sh ```
 
 4. Create a new conda environment for pheweb
 
-```conda create --name phewas_dev2 python=3.10.0```
+```conda create --name phewas_dev2 python=3.10.0 ```
 
 5. Install your preferred version of pheweb. 
 
 ```conda activate phewas_dev2
 conda config --add channels conda-forge
 conda install bioconda::pysam=0.22.1
-pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git```
+pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git ```
 
 
 6. Copy data from the Windows file system to the Linux file system
