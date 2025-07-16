@@ -162,3 +162,10 @@ cp ~/deploying-pheweb/data_preprocessing/clean_data/althetes_foot.csv pheweb-tes
 cp ~/deploying-pheweb/data_preprocessing/clean_data/dermatomycoses.csv pheweb-test/clean_data/dermatomycoses.csv
 cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis.csv pheweb-test/clean_data/candidiasis.csv
 cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis_of_skin_and_nails.csv pheweb-test/clean_data/candidiasis_of_skin_and_nails.csv
+
+
+
+# developing
+
+# look at the cotents of a zipped gz file
+zcat ~/pheweb-test/generated-by-pheweb/pheno_gz/110.0.gz
