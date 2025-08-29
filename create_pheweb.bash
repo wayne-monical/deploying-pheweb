@@ -26,6 +26,11 @@ pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
 ## Copy data from Windows to Linux
 cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/clean_data" ~/my-new-pheweb
 cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/pheno-list.csv" ~/my-new-pheweb
+cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome.csv" ~/pheweb-test/processing_data/reference_genome.csv
+
+cp "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome.csv" ~/deploying-pheweb/data_preprocessing/reference_genome.csv
+cp "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome_hg19.csv" ~/deploying-pheweb/data_preprocessing/reference_genome_hg19.csv
+
 
 # OR clean data with the data_preprocessing.ipynb
 
@@ -143,6 +148,7 @@ docker load --input pheweb-docker.tar
 git clone https://github.com/wayne-monical/pheweb
 
 cd pheweb
+conda activate phewas_dev3
 
 # 2.  Install the local PheWeb repository in editable mode for development
 pip install --use-pep517 -e .
@@ -169,3 +175,59 @@ cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis_of_skin_and_nail
 
 # look at the cotents of a zipped gz file
 zcat ~/pheweb-test/generated-by-pheweb/pheno_gz/110.0.gz
+zcat ~/pheweb-test/generated-by-pheweb/matrix.tsv.gz
+
+
+# rm generated-by-pheweb/parsed/*
+
+cp  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome.csv" ~/deploying-pheweb/data_preprocessing
+
+
+
+### Using Google Cloud
+
+# make sure this is working
+sudo apt update
+sudo apt install docker.io
+sudo systemctl enable docker
+sudo systemctl start docker
+
+# install glcoud
+# Add Google Cloud SDK repo
+echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+
+# Add key
+curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
+sudo apt update && sudo apt install google-cloud-sdk -y
+sudo apt install curl apt-transport-https ca-certificates gnupg -y
+echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | sudo tee /etc/apt/sources.list.d/google-cloud-sdk.list
+
+sudo snap install google-cloud-sdk --classic
+gcloud init
+
+
+
+
+
+# Uploading docker file
+
+
+# get my project ID
+gcloud config list
+# arched-logic-464215-v7
+
+
+# upload and build the docker image
+gcloud builds submit --tag gcr.io/arched-logic-464215-v7/pheweb_docker2\
+  --ignore-file=glcoud-ignore.txt
+
+# deploy the docker image to Google Cloud Run
+gcloud run deploy pheweb-test \
+  --image gcr.io/arched-logic-464215-v7/pheweb_docker2 \
+  --platform managed \
+  --region us-central1 \
+  --allow-unauthenticated
+
+
+# out of editable mode
+pip install --use-pep517 .

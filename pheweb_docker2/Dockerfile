@@ -3,7 +3,11 @@
 # 1. Base OS
 FROM ubuntu:20.04
 
+
 # 2. Install C libraries and system dependencies
+# 2.1 Set environment variable to avoid interactive prompts during package installation
+ENV DEBIAN_FRONTEND=noninteractive
+# 2.2 Install necessary packages
 RUN apt-get update && apt-get install -y \
     wget \
     curl \
@@ -39,7 +43,7 @@ RUN conda env create -f /tmp/environment.yml && \
 SHELL ["conda", "run", "-n", "phewas_docker", "/bin/bash", "-c"]
 
 # 6. Pip install from GitHub
-RUN pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
+RUN pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git@adding_samples
 
 # 7. Copy your application code
 COPY . /app
