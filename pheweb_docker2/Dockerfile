@@ -43,7 +43,7 @@ RUN conda env create -f /tmp/environment.yml && \
 SHELL ["conda", "run", "-n", "phewas_docker", "/bin/bash", "-c"]
 
 # 6. Pip install from GitHub
-RUN pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git@adding_samples
+RUN pip install --use-pep517 git+https://github.com/wayne-monical/pheweb.git
 
 # 7. Copy your application code
 COPY . /app
