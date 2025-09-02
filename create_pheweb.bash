@@ -30,6 +30,7 @@ cp -r  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/refere
 
 cp "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome.csv" ~/deploying-pheweb/data_preprocessing/reference_genome.csv
 cp "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome_hg19.csv" ~/deploying-pheweb/data_preprocessing/reference_genome_hg19.csv
+cp "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/custom_risk_alleles.csv" ~/deploying-pheweb/data_preprocessing/custom_risk_alleles.csv
 
 
 # OR clean data with the data_preprocessing.ipynb
@@ -176,12 +177,14 @@ cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis_of_skin_and_nail
 # look at the cotents of a zipped gz file
 zcat ~/pheweb-test/generated-by-pheweb/pheno_gz/110.0.gz
 zcat ~/pheweb-test/generated-by-pheweb/matrix.tsv.gz
+zcat ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/generated-by-pheweb/matrix.tsv.gz | head -n 1
+
 
 
 # rm generated-by-pheweb/parsed/*
 
 cp  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/reference_genome.csv" ~/deploying-pheweb/data_preprocessing
-
+cp  "/mnt/c/Users/w3mon/OneDrive/Documents/graduate school/kiryluk lab/custom_risk_alleles.csv" ~/deploying-pheweb/data_preprocessing
 
 
 ### Using Google Cloud
