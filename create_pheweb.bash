@@ -177,6 +177,10 @@ cp ~/deploying-pheweb/data_preprocessing/clean_data/candidiasis_of_skin_and_nail
 # look at the cotents of a zipped gz file
 zcat ~/pheweb-test/generated-by-pheweb/pheno_gz/110.0.gz
 zcat ~/pheweb-test/generated-by-pheweb/matrix.tsv.gz
+zcat ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/generated-by-pheweb/pheno_gz/110.0.gz
+zcat ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/generated-by-pheweb/parsed/110.0
+
+
 zcat ~/deploying-pheweb/pheweb_docker2/my-new-pheweb/generated-by-pheweb/matrix.tsv.gz | head -n 1
 
 
@@ -225,12 +229,17 @@ gcloud builds submit --tag gcr.io/arched-logic-464215-v7/pheweb_docker2\
   --ignore-file=glcoud-ignore.txt
 
 # deploy the docker image to Google Cloud Run
-gcloud run deploy pheweb-test \
+gcloud run deploy uti-phewas-browser \
   --image gcr.io/arched-logic-464215-v7/pheweb_docker2 \
   --platform managed \
   --region us-central1 \
   --allow-unauthenticated
 
+# view all cloud deployments
+gcloud run services list
+
+# cease deployment
+gcloud run services delete pheweb-test --region us-central1
 
 # out of editable mode
 pip install --use-pep517 .

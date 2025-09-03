@@ -52,9 +52,9 @@ COPY . /app
 WORKDIR /app/my-new-pheweb
 
 # 8. Expose the port pheweb will run on
-EXPOSE 55000
+EXPOSE 8080
 
-# 9. Start the web server 
-CMD ["conda", "run", "--no-capture-output", "-n", "phewas_docker", "pheweb", "serve", "--port", "55000", "--host", "0.0.0.0"]
+# 9. Start the web server
+CMD ["conda", "run", "--no-capture-output", "-n", "phewas_docker", "pheweb", "serve", "--port", "8080", "--host", "0.0.0.0"]
 
 
